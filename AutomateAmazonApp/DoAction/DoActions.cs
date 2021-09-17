@@ -4,33 +4,61 @@
  * Date :15/09/2021
  */
 using AutomateAmazonApp.AmazonLogin;
+using Microsoft.VisualBasic.FileIO;
+using System;
+using System.IO;
+using System.Linq;
 
 namespace AutomateAmazonApp.DoAction
 {
     public class DoActions : Base.Baseclass
     {
-        public static void CheckEmailAndPassword()
+        public static void CheckEmailAndPassword(string csvFilePath, string dataHeader)
         {
-            LoginPage login = new LoginPage(driver);
+            using (TextFieldParser csvParser = new TextFieldParser(csvFilePath))
+            {
 
-            //click on sign-in button
-            login.signIn.Click();
+                csvParser.SetDelimiters(new string[] { "," });
+                csvParser.HasFieldsEnclosedInQuotes = true;
 
-            //enter the email
-            login.email.SendKeys("sona16061999@gmail.com");
-            System.Threading.Thread.Sleep(2000);
+                // Skip the row with the column names
+                csvParser.ReadLine();
 
-            //click on continue button
-            login.continuebtn.Click();
-            System.Threading.Thread.Sleep(2000);
+                while (!csvParser.EndOfData)
+                {
+                    // Read current line fields, pointer moves to the next line.
+                    string[] column = csvParser.ReadFields();
+                    try
+                    {
+                        LoginPage login = new LoginPage(driver);
 
-            //enter the password 
-            login.password.SendKeys("Takeiteasy12#");
-            System.Threading.Thread.Sleep(2000);
+                        //click on sign-in button
+                        login.signIn.Click();
 
-            //click on loginbutton
-            login.signbtn.Click();
-            System.Threading.Thread.Sleep(2000);
+                        //enter the email
+                        login.email.SendKeys(column[0]);
+                        System.Threading.Thread.Sleep(2000);
+
+                        //click on continue button
+                        login.continuebtn.Click();
+                        System.Threading.Thread.Sleep(2000);
+
+                        //enter the password 
+                        login.password.SendKeys(column[1]);
+                        System.Threading.Thread.Sleep(2000);
+
+                        //click on loginbutton
+                        login.signbtn.Click();
+                        logger.Info("Logged Suucessfully");
+                        System.Threading.Thread.Sleep(2000);
+                    }
+                    catch (Exception ex)
+                    {
+                        logger.Error(ex.Message);
+                    }
+                }
+            }
         }
     }
 }
+

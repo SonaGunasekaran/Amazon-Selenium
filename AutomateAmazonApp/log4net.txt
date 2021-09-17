@@ -1,0 +1,269 @@
+2021-09-17 10:44:34,266 INFO Launching browser
+2021-09-17 10:44:39,346 INFO Exit
+2021-09-17 10:44:49,333 INFO Logged Suucessfully
+2021-09-17 10:45:27,260 INFO Launching browser
+2021-09-17 10:45:35,124 INFO Exit
+2021-09-17 10:45:46,517 ERROR Product not found
+2021-09-17 10:45:57,100 INFO Added to cart successfully
+2021-09-17 10:46:18,267 INFO  Items are proceed to buy 
+2021-09-17 10:46:18,268 ERROR Field not found
+2021-09-17 10:46:30,659 INFO Launching browser
+2021-09-17 10:46:35,007 INFO Exit
+2021-09-17 10:46:44,117 INFO Logged Suucessfully
+2021-09-17 10:46:48,093 INFO Launching browser
+2021-09-17 10:46:52,290 INFO Exit
+2021-09-17 10:46:57,588 ERROR Product not found
+2021-09-17 10:47:05,131 ERROR field not found
+2021-09-17 10:47:09,187 INFO Launching browser
+2021-09-17 10:47:13,471 INFO Exit
+2021-09-17 10:47:21,413 INFO New account created successfully
+2021-09-17 10:50:24,451 INFO Launching browser
+2021-09-17 10:50:30,066 INFO Exit
+2021-09-17 10:50:39,315 INFO Logged Suucessfully
+2021-09-17 10:51:55,547 INFO Launching browser
+2021-09-17 10:52:00,600 INFO Exit
+2021-09-17 10:52:05,928 ERROR Product not found
+2021-09-17 10:52:14,061 ERROR field not found
+2021-09-17 11:16:33,581 INFO Launching browser
+2021-09-17 11:16:39,753 INFO Exit
+2021-09-17 11:16:48,702 INFO Logged Suucessfully
+2021-09-17 11:16:50,747 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:16:50,757 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:16:50,767 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:16:50,776 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:16:50,787 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:16:50,797 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:16:50,808 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:16:50,818 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:18:19,924 INFO Launching browser
+2021-09-17 11:18:26,879 INFO Exit
+2021-09-17 11:18:35,832 INFO Logged Suucessfully
+2021-09-17 11:18:37,865 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:18:37,877 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:18:37,891 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:18:37,902 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:18:37,911 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:18:37,921 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:18:37,932 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:18:37,943 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:19:39,314 INFO Launching browser
+2021-09-17 11:19:44,322 INFO Exit
+2021-09-17 11:19:53,187 INFO Logged Suucessfully
+2021-09-17 11:19:55,228 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:19:55,240 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:19:55,250 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:19:55,262 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:19:55,274 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:19:55,283 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:19:55,300 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:19:55,310 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 11:23:04,701 INFO Launching browser
+2021-09-17 11:23:09,643 INFO Exit
+2021-09-17 11:23:18,420 INFO Logged Suucessfully
+2021-09-17 11:23:23,051 ERROR Could not find element by: By.Name: email
+2021-09-17 11:23:23,886 ERROR Could not find element by: By.Name: email
+2021-09-17 11:23:24,719 ERROR Could not find element by: By.Name: email
+2021-09-17 11:23:25,466 ERROR Could not find element by: By.Name: email
+2021-09-17 11:23:26,141 ERROR Could not find element by: By.Name: email
+2021-09-17 11:23:26,764 ERROR Could not find element by: By.Name: email
+2021-09-17 11:23:27,533 ERROR Could not find element by: By.Name: email
+2021-09-17 11:23:28,388 ERROR Could not find element by: By.Name: email
+2021-09-17 11:24:38,587 INFO Launching browser
+2021-09-17 11:24:43,170 INFO Exit
+2021-09-17 11:24:51,889 INFO Logged Suucessfully
+2021-09-17 11:24:56,330 ERROR Could not find element by: By.Name: email
+2021-09-17 11:24:57,142 ERROR Could not find element by: By.Name: email
+2021-09-17 11:24:57,937 ERROR Could not find element by: By.Name: email
+2021-09-17 11:24:58,705 ERROR Could not find element by: By.Name: email
+2021-09-17 11:24:59,522 ERROR Could not find element by: By.Name: email
+2021-09-17 11:25:00,425 ERROR Could not find element by: By.Name: email
+2021-09-17 11:25:01,185 ERROR Could not find element by: By.Name: email
+2021-09-17 11:25:02,132 ERROR Could not find element by: By.Name: email
+2021-09-17 11:25:57,863 INFO Launching browser
+2021-09-17 11:26:03,614 INFO Exit
+2021-09-17 11:26:12,319 INFO Logged Suucessfully
+2021-09-17 11:26:16,746 ERROR Could not find element by: By.Name: email
+2021-09-17 11:26:17,631 ERROR Could not find element by: By.Name: email
+2021-09-17 11:26:18,457 ERROR Could not find element by: By.Name: email
+2021-09-17 11:26:19,221 ERROR Could not find element by: By.Name: email
+2021-09-17 11:26:19,981 ERROR Could not find element by: By.Name: email
+2021-09-17 11:42:16,399 INFO Launching browser
+2021-09-17 11:42:21,509 INFO Exit
+2021-09-17 11:44:15,115 INFO Launching browser
+2021-09-17 11:44:19,696 INFO Exit
+2021-09-17 11:44:28,591 INFO Logged Suucessfully
+2021-09-17 11:44:32,782 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:33,590 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:34,425 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:35,157 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:35,991 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:36,677 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:37,331 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:38,159 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:38,943 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:39,611 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:40,332 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:40,959 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:41,644 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:42,310 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:43,043 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:43,668 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:44,388 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:45,517 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:46,250 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:47,002 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:47,743 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:48,581 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:49,302 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:50,116 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:50,802 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:51,484 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:52,143 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:52,951 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:53,629 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:54,397 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:55,202 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:55,977 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:56,667 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:57,380 ERROR Could not find element by: By.Name: email
+2021-09-17 11:44:58,104 ERROR Could not find element by: By.Name: email
+2021-09-17 11:46:11,324 INFO Launching browser
+2021-09-17 11:46:16,014 INFO Exit
+2021-09-17 11:46:25,086 INFO Logged Suucessfully
+2021-09-17 11:46:27,997 ERROR Exception has been thrown by the target of an invocation.
+2021-09-17 11:46:29,387 ERROR Could not find element by: By.Name: email
+2021-09-17 11:46:30,268 ERROR Could not find element by: By.Name: email
+2021-09-17 11:46:31,229 ERROR Could not find element by: By.Name: email
+2021-09-17 11:46:31,944 ERROR Could not find element by: By.Name: email
+2021-09-17 11:46:32,745 ERROR Could not find element by: By.Name: email
+2021-09-17 11:46:33,508 ERROR Could not find element by: By.Name: email
+2021-09-17 11:46:37,871 ERROR chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:46:50,088 ERROR chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:48:50,411 INFO Launching browser
+2021-09-17 11:48:55,586 INFO Exit
+2021-09-17 11:49:19,411 INFO Logged Suucessfully
+2021-09-17 11:49:19,549 ERROR Exception has been thrown by the target of an invocation.
+2021-09-17 11:49:21,030 ERROR Could not find element by: By.Name: email
+2021-09-17 11:49:21,793 ERROR Could not find element by: By.Name: email
+2021-09-17 11:49:22,548 ERROR Could not find element by: By.Name: email
+2021-09-17 11:49:23,371 ERROR Could not find element by: By.Name: email
+2021-09-17 11:49:24,057 ERROR Could not find element by: By.Name: email
+2021-09-17 11:49:24,735 ERROR Could not find element by: By.Name: email
+2021-09-17 11:49:25,352 ERROR Non-static method requires a target.
+2021-09-17 11:49:25,395 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,405 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,465 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,482 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,487 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,497 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,501 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,507 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,513 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,517 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,530 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,536 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,540 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,545 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,552 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,558 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,563 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,573 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,577 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,581 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,585 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,588 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,593 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,598 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,602 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,605 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,609 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:49:25,614 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 11:50:07,804 INFO Launching browser
+2021-09-17 11:50:13,374 INFO Exit
+2021-09-17 11:50:22,086 INFO Logged Suucessfully
+2021-09-17 11:50:25,033 ERROR Exception has been thrown by the target of an invocation.
+2021-09-17 11:50:26,494 ERROR Could not find element by: By.Name: email
+2021-09-17 11:50:27,350 ERROR Could not find element by: By.Name: email
+2021-09-17 11:50:28,110 ERROR Could not find element by: By.Name: email
+2021-09-17 11:50:32,813 ERROR chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+2021-09-17 12:26:40,274 INFO Launching browser
+2021-09-17 12:26:45,449 INFO Exit
+2021-09-17 12:26:54,506 INFO Logged Suucessfully
+2021-09-17 12:26:57,775 ERROR Exception has been thrown by the target of an invocation.
+2021-09-17 12:29:12,397 INFO Launching browser
+2021-09-17 12:29:17,859 INFO Exit
+2021-09-17 12:29:27,600 INFO Logged Suucessfully
+2021-09-17 12:30:44,189 INFO Launching browser
+2021-09-17 12:30:49,116 INFO Exit
+2021-09-17 12:31:00,927 ERROR Product not found
+2021-09-17 12:31:09,249 INFO Added to cart successfully
+2021-09-17 12:31:17,327 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-17 12:31:17,934 INFO Launching browser
+2021-09-17 12:31:22,418 INFO Exit
+2021-09-17 12:31:31,494 INFO Logged Suucessfully
+2021-09-17 12:31:34,493 INFO Launching browser
+2021-09-17 12:31:39,279 INFO Exit
+2021-09-17 12:31:45,101 ERROR Product not found
+2021-09-17 12:31:51,917 ERROR field not found
+2021-09-17 12:31:56,235 INFO Launching browser
+2021-09-17 12:32:00,719 INFO Exit
+2021-09-17 12:32:07,442 INFO New account created successfully
