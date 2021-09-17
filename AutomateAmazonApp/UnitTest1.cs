@@ -9,11 +9,12 @@ namespace AutomateAmazonApp
 {
     public class Tests : Base.Baseclass
     {
-
+        string csvFilePath = @"C:\Users\sona.g\source\repos\AutomateAmazonApp\AutomateAmazonApp\CsvFile\Filecsv.csv";
         [Test]
         public void TestLoginPage()
         {
-            DoAction.DoActions.CheckEmailAndPassword();
+            DoAction.DoActions.CheckEmailAndPassword(csvFilePath,
+                                                     "Email,Password");
         }
 
         [Test]

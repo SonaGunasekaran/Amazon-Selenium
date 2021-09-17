@@ -4,6 +4,7 @@
  * Date :15/09/2021
  */
 using AutomateAmazonApp.AmazonSignup;
+using System;
 
 namespace AutomateAmazonApp.ActionSigup
 {
@@ -11,30 +12,38 @@ namespace AutomateAmazonApp.ActionSigup
     {
         public static void CheckInputFields()
         {
-            SignupPage login = new SignupPage(driver);
+            try
+            {
+                SignupPage login = new SignupPage(driver);
 
-            //click on sign-in button
-            login.signIn.Click();
+                //click on sign-in button
+                login.signIn.Click();
 
-            //click on create account button
-            login.createAccount.Click();
+                //click on create account button
+                login.createAccount.Click();
 
-            //enter the name 
-            login.name.SendKeys("Sona");
+                //enter the name 
+                login.name.SendKeys("Sona");
 
-            //enter phone number
-            login.mobNumber.SendKeys("9876654412");
-            System.Threading.Thread.Sleep(4000);
+                //enter phone number
+                login.mobNumber.SendKeys("9876654412");
+                System.Threading.Thread.Sleep(4000);
 
-            //enter emil address
-            login.email.SendKeys("sona16061999@gmail.com");
+                //enter emil address
+                login.email.SendKeys("sona16061999@gmail.com");
 
-            //enter password
-            login.password.SendKeys("fkjfk67390");
+                //enter password
+                login.password.SendKeys("fkjfk67390");
 
-            //continue
-            login.continuebtn.Click();
-            System.Threading.Thread.Sleep(2000);
+                //continue
+                login.continuebtn.Click();
+                logger.Info("New account created successfully");
+                System.Threading.Thread.Sleep(2000);
+            }
+            catch (Exception ex)
+            {
+                logger.Error(ex.Message);
+            }
         }
     }
 }
