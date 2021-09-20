@@ -5,6 +5,7 @@
  */
 using AutomateAmazonApp.AmazonLogin;
 using Microsoft.VisualBasic.FileIO;
+using OpenQA.Selenium;
 using System;
 using System.IO;
 using System.Linq;
@@ -26,13 +27,15 @@ namespace AutomateAmazonApp.DoAction
 
                 while (!csvParser.EndOfData)
                 {
-                    // Read current line fields, pointer moves to the next line.
+                   // Read current line fields, pointer moves to the next line.
+
+
                     string[] column = csvParser.ReadFields();
                     try
                     {
                         LoginPage login = new LoginPage(driver);
 
-                        //click on sign-in button
+                       // click on sign-in button
                         login.signIn.Click();
 
                         //enter the email
@@ -50,6 +53,14 @@ namespace AutomateAmazonApp.DoAction
                         //click on loginbutton
                         login.signbtn.Click();
                         logger.Info("Logged Suucessfully");
+                        System.Threading.Thread.Sleep(4000);
+
+                        //login.menu.SendKeys(Keys.ArrowDown);
+
+                        login.hamBurgerMenu.Click();
+                        System.Threading.Thread.Sleep(8000);
+
+                        login.signOut.Click();
                         System.Threading.Thread.Sleep(2000);
                     }
                     catch (Exception ex)

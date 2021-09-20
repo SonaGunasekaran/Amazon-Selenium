@@ -34,5 +34,13 @@ namespace AutomateAmazonApp.AmazonLogin
         [FindsBy(How = How.Id, Using = "signInSubmit")]
         [CacheLookup]
         public IWebElement signbtn;
+
+        [FindsBy(How = How.Id, Using = "nav-hamburger-menu")]
+        [CacheLookup]
+        public IWebElement hamBurgerMenu;
+
+        [FindsBy(How = How.XPath, Using = "/html/body/div[3]/div[2]/div/ul[1]/li[29]/a")]
+        [CacheLookup]
+        public IWebElement signOut;
     }
 }

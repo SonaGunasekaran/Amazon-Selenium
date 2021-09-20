@@ -4,6 +4,7 @@
  * Date :15/09/2021
  */
 using AutomateAmazonApp.AddToCart;
+using OpenQA.Selenium;
 using System;
 
 namespace AutomateAmazonApp.AddToCartAction
@@ -41,7 +42,8 @@ namespace AutomateAmazonApp.AddToCartAction
                 add.proceedtobtn.Click();
                 logger.Info(" Items are proceed to buy ");
                 logger.Error("Field not found");
-                System.Threading.Thread.Sleep(10000);
+                ((ITakesScreenshot)driver).GetScreenshot().SaveAsFile("Test.png", ScreenshotImageFormat.Png);
+                System.Threading.Thread.Sleep(4000);
 
                 //enter the email address 
                 add.email.SendKeys("sona16061999@gmail.com");

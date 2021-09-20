@@ -46,6 +46,8 @@ namespace AutomateAmazonApp.SearchAction
 
                 //click on loginbutton
                 search.signbtn.Click();
+                System.Threading.Thread.Sleep(2000);
+
             }
             catch(Exception ex)
             {
