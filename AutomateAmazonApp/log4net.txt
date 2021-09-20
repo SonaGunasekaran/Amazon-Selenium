@@ -267,3 +267,305 @@ from unknown error: web view not found
 2021-09-17 12:31:56,235 INFO Launching browser
 2021-09-17 12:32:00,719 INFO Exit
 2021-09-17 12:32:07,442 INFO New account created successfully
+2021-09-17 15:26:56,241 INFO Launching browser
+2021-09-17 15:27:03,093 INFO Exit
+2021-09-17 15:28:27,738 INFO Launching browser
+2021-09-17 15:28:33,117 INFO Exit
+2021-09-17 15:42:44,765 INFO Launching browser
+2021-09-17 15:42:49,726 INFO Exit
+2021-09-17 15:45:22,082 INFO Launching browser
+2021-09-17 15:45:26,944 INFO Exit
+2021-09-17 15:46:36,720 INFO Launching browser
+2021-09-17 15:46:41,484 INFO Exit
+2021-09-17 15:47:20,039 INFO Launching browser
+2021-09-17 15:47:25,872 INFO Exit
+2021-09-17 15:49:32,866 INFO Launching browser
+2021-09-17 15:49:37,722 INFO Exit
+2021-09-17 15:49:48,656 ERROR Product not found
+2021-09-17 15:49:56,997 INFO Added to cart successfully
+2021-09-17 15:50:19,435 INFO  Items are proceed to buy 
+2021-09-17 15:50:19,436 ERROR Field not found
+2021-09-17 15:50:32,349 INFO Launching browser
+2021-09-17 15:50:38,520 INFO Exit
+2021-09-17 15:50:47,367 INFO Logged Suucessfully
+2021-09-17 15:50:51,160 INFO Launching browser
+2021-09-17 15:50:56,467 INFO Exit
+2021-09-17 15:51:01,458 ERROR Product not found
+2021-09-17 15:51:08,200 ERROR field not found
+2021-09-17 15:51:12,726 INFO Launching browser
+2021-09-17 15:51:16,938 INFO Exit
+2021-09-17 15:51:22,576 INFO Launching browser
+2021-09-17 15:51:26,662 INFO Exit
+2021-09-17 15:51:36,284 INFO New account created successfully
+2021-09-17 16:18:38,848 INFO Launching browser
+2021-09-17 16:20:08,180 INFO Launching browser
+2021-09-17 16:40:02,001 INFO Launching browser
+2021-09-17 16:40:59,171 INFO Exit
+2021-09-17 16:41:27,999 ERROR Product not found
+2021-09-17 16:42:36,038 ERROR The HTTP request to the remote WebDriver server for URL http://localhost:64443/session/5a7d433d6b5d8a37e69cf646c05666a1/element timed out after 60 seconds.
+2021-09-17 16:42:41,579 INFO Launching browser
+2021-09-17 16:43:07,297 INFO Exit
+2021-09-17 16:43:21,735 INFO Logged Suucessfully
+2021-09-17 16:43:24,355 INFO Launching browser
+2021-09-17 16:44:08,075 INFO Exit
+2021-09-17 16:44:22,747 ERROR Product not found
+2021-09-17 16:45:24,771 ERROR The HTTP request to the remote WebDriver server for URL http://localhost:49452/session/a634cc31a1b7569aef8e191c2982f2ad/element timed out after 60 seconds.
+2021-09-17 16:46:39,987 INFO Launching browser
+2021-09-17 16:47:31,423 INFO Exit
+2021-09-17 16:47:59,432 INFO Launching browser
+2021-09-17 16:56:13,398 INFO Launching browser
+2021-09-17 16:56:18,795 INFO Exit
+2021-09-17 16:56:27,916 INFO Logged Suucessfully
+2021-09-17 16:58:04,109 INFO Launching browser
+2021-09-17 16:58:09,059 INFO Exit
+2021-09-17 16:58:18,052 INFO Logged Suucessfully
+2021-09-17 16:58:22,487 ERROR Could not find element by: By.Name: email
+2021-09-17 16:58:53,011 INFO Launching browser
+2021-09-17 16:58:57,893 INFO Exit
+2021-09-17 16:59:06,944 INFO Logged Suucessfully
+2021-09-17 16:59:11,493 ERROR Could not find element by: By.Name: email
+2021-09-17 16:59:36,276 INFO Launching browser
+2021-09-17 16:59:41,286 INFO Exit
+2021-09-17 16:59:50,155 INFO Logged Suucessfully
+2021-09-17 16:59:54,821 ERROR Could not find element by: By.Name: email
+2021-09-17 17:00:47,114 INFO Launching browser
+2021-09-17 17:00:52,055 INFO Exit
+2021-09-17 17:00:58,623 ERROR Exception has been thrown by the target of an invocation.
+2021-09-17 17:00:58,638 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 17:15:23,326 INFO Launching browser
+2021-09-17 17:15:28,043 INFO Exit
+2021-09-17 17:15:34,923 ERROR Exception has been thrown by the target of an invocation.
+2021-09-17 17:19:29,736 INFO Launching browser
+2021-09-17 17:19:34,528 INFO Exit
+2021-09-17 17:19:43,673 INFO Logged Suucessfully
+2021-09-17 17:19:45,715 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 17:33:00,549 INFO Launching browser
+2021-09-17 17:33:05,156 INFO Exit
+2021-09-17 17:33:14,727 INFO Logged Suucessfully
+2021-09-17 17:33:16,774 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 17:33:52,058 INFO Launching browser
+2021-09-17 17:33:56,556 INFO Exit
+2021-09-17 17:34:05,665 INFO Logged Suucessfully
+2021-09-17 17:34:07,698 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 17:34:47,422 INFO Launching browser
+2021-09-17 17:34:51,893 INFO Exit
+2021-09-17 17:35:00,647 INFO Logged Suucessfully
+2021-09-17 17:35:05,427 ERROR Could not find element by: By.Name: email
+2021-09-17 17:36:05,040 INFO Launching browser
+2021-09-17 17:36:09,722 INFO Exit
+2021-09-17 17:36:18,521 INFO Logged Suucessfully
+2021-09-17 17:36:21,976 ERROR Exception has been thrown by the target of an invocation.
+2021-09-17 17:36:23,179 ERROR Could not find element by: By.Name: email
+2021-09-17 17:37:22,890 INFO Launching browser
+2021-09-17 17:37:27,473 INFO Exit
+2021-09-17 17:37:36,315 INFO Logged Suucessfully
+2021-09-17 17:37:39,570 ERROR Exception has been thrown by the target of an invocation.
+2021-09-17 17:37:40,607 ERROR Could not find element by: By.Name: email
+2021-09-17 17:38:12,242 INFO Launching browser
+2021-09-17 17:38:16,804 INFO Exit
+2021-09-17 17:38:25,758 INFO Logged Suucessfully
+2021-09-17 17:38:28,680 ERROR Exception has been thrown by the target of an invocation.
+2021-09-17 17:38:29,889 ERROR Could not find element by: By.Name: email
+2021-09-17 17:40:01,961 INFO Launching browser
+2021-09-17 17:40:06,762 INFO Exit
+2021-09-17 17:40:16,021 INFO Logged Suucessfully
+2021-09-17 17:40:24,285 ERROR Exception has been thrown by the target of an invocation.
+2021-09-17 17:40:25,166 ERROR Could not find element by: By.Name: email
+2021-09-17 17:42:57,903 INFO Launching browser
+2021-09-17 17:43:02,520 INFO Exit
+2021-09-17 17:43:11,762 INFO Logged Suucessfully
+2021-09-17 17:43:15,100 ERROR Could not find element by: By.Id: nav-link-account
+2021-09-17 17:43:16,182 ERROR Could not find element by: By.Name: email
+2021-09-17 17:43:49,992 INFO Launching browser
+2021-09-17 17:43:55,594 INFO Exit
+2021-09-17 17:44:04,409 INFO Logged Suucessfully
+2021-09-17 17:44:07,317 ERROR Could not find element by: By.Id: nav-link-account
+2021-09-17 17:44:08,802 ERROR Could not find element by: By.Name: email
+2021-09-17 17:47:09,119 INFO Launching browser
+2021-09-17 17:47:13,932 INFO Exit
+2021-09-17 17:47:22,665 INFO Logged Suucessfully
+2021-09-17 17:47:25,627 ERROR Could not find element by: By.Id: nav-link-account
+2021-09-17 17:47:27,025 ERROR Could not find element by: By.Name: email
+2021-09-17 17:51:19,916 INFO Launching browser
+2021-09-17 17:51:24,736 INFO Exit
+2021-09-17 17:51:33,730 INFO Logged Suucessfully
+2021-09-17 17:51:52,813 ERROR Could not find element by: By.XPath: //*[@class='nav-divider'][2]
+2021-09-17 17:51:53,513 ERROR Could not find element by: By.Name: email
+2021-09-17 17:52:54,565 INFO Launching browser
+2021-09-17 17:52:59,249 INFO Exit
+2021-09-17 17:53:08,088 INFO Logged Suucessfully
+2021-09-17 17:53:26,978 ERROR Exception has been thrown by the target of an invocation.
+2021-09-17 17:53:28,219 ERROR Could not find element by: By.Name: email
+2021-09-17 17:54:57,215 INFO Launching browser
+2021-09-17 17:55:01,958 INFO Exit
+2021-09-17 17:55:10,713 INFO Logged Suucessfully
+2021-09-17 17:55:27,682 ERROR Exception has been thrown by the target of an invocation.
+2021-09-17 17:55:28,449 ERROR Could not find element by: By.Name: email
+2021-09-17 18:02:55,240 INFO Launching browser
+2021-09-17 18:02:59,721 INFO Exit
+2021-09-17 18:03:08,835 INFO Logged Suucessfully
+2021-09-17 18:03:25,015 ERROR Exception has been thrown by the target of an invocation.
+2021-09-17 18:03:25,914 ERROR Could not find element by: By.Name: email
+2021-09-17 18:07:55,384 INFO Launching browser
+2021-09-17 18:08:00,277 INFO Exit
+2021-09-17 18:08:09,202 INFO Logged Suucessfully
+2021-09-17 18:08:25,362 ERROR Could not find element by: By.XPath: //*[@id='hmenu - content']/ul[1]/li[29]/a
+2021-09-17 18:08:26,312 ERROR Could not find element by: By.Name: email
+2021-09-17 18:08:58,148 INFO Launching browser
+2021-09-17 18:09:03,535 INFO Exit
+2021-09-17 18:09:12,384 INFO Logged Suucessfully
+2021-09-17 18:10:08,530 ERROR Could not find element by: By.XPath: //*[@id='hmenu - content']/ul[1]/li[29]/a
+2021-09-17 18:10:09,593 ERROR Exception has been thrown by the target of an invocation.
+2021-09-17 18:13:33,935 INFO Launching browser
+2021-09-17 18:13:38,698 INFO Exit
+2021-09-17 18:13:47,854 INFO Logged Suucessfully
+2021-09-17 18:14:13,461 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 21:01:00,450 INFO Launching browser
+2021-09-17 21:01:07,644 INFO Exit
+2021-09-17 21:01:17,198 INFO Logged Suucessfully
+2021-09-17 21:01:44,739 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 21:05:43,186 INFO Launching browser
+2021-09-17 21:05:49,951 INFO Exit
+2021-09-17 21:05:59,202 INFO Logged Suucessfully
+2021-09-17 21:06:25,014 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-17 21:12:56,017 INFO Launching browser
+2021-09-17 21:13:08,143 INFO Exit
+2021-09-17 21:13:16,331 INFO Logged Suucessfully
+2021-09-17 21:13:50,137 INFO Logged Suucessfully
+2021-09-17 21:13:58,246 ERROR Could not find element by: By.Id: nav-hamburger-menu
+2021-09-18 10:29:56,573 INFO Launching browser
+2021-09-18 10:30:02,580 INFO Exit
+2021-09-18 10:30:02,943 ERROR Could not find element by: By.Name: email
+2021-09-18 10:30:02,958 ERROR Could not find element by: By.Name: email
+2021-09-18 10:30:34,889 INFO Launching browser
+2021-09-18 10:30:40,196 INFO Exit
+2021-09-18 10:30:40,529 ERROR Could not find element by: By.Name: email
+2021-09-18 10:30:40,543 ERROR Could not find element by: By.Name: email
+2021-09-18 10:31:27,339 INFO Launching browser
+2021-09-18 10:31:32,009 INFO Exit
+2021-09-18 10:31:41,551 INFO Logged Suucessfully
+2021-09-18 10:31:49,660 ERROR Exception has been thrown by the target of an invocation.
+2021-09-18 10:31:50,532 ERROR Could not find element by: By.Name: email
+2021-09-18 10:38:49,870 INFO Launching browser
+2021-09-18 10:38:54,619 INFO Exit
+2021-09-18 10:39:05,696 ERROR Product not found
+2021-09-18 10:39:14,062 INFO Added to cart successfully
+2021-09-18 10:39:36,158 INFO  Items are proceed to buy 
+2021-09-18 10:39:36,159 ERROR Field not found
+2021-09-18 10:39:42,738 INFO Launching browser
+2021-09-18 10:39:46,969 INFO Exit
+2021-09-18 10:39:56,028 INFO Logged Suucessfully
+2021-09-18 10:40:12,567 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-18 10:40:12,974 INFO Launching browser
+2021-09-18 10:40:17,349 INFO Exit
+2021-09-18 10:40:22,992 ERROR Product not found
+2021-09-18 10:40:29,942 ERROR field not found
+2021-09-18 10:40:34,536 INFO Launching browser
+2021-09-18 10:40:38,667 INFO Exit
+2021-09-18 10:40:45,057 INFO Launching browser
+2021-09-18 10:40:49,314 INFO Exit
+2021-09-18 10:40:56,319 INFO New account created successfully
+2021-09-18 10:45:03,328 INFO Launching browser
+2021-09-18 10:45:08,121 INFO Exit
+2021-09-18 10:45:17,473 INFO Logged Suucessfully
+2021-09-18 10:45:36,369 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-18 10:45:36,798 INFO Launching browser
+2021-09-18 10:45:41,543 INFO Exit
+2021-09-18 10:45:48,155 INFO New account created successfully
+2021-09-18 10:45:52,102 INFO Launching browser
+2021-09-18 10:45:56,902 INFO Exit
+2021-09-18 10:46:02,573 ERROR Product not found
+2021-09-18 10:46:09,553 ERROR field not found
+2021-09-18 10:46:14,195 INFO Launching browser
+2021-09-18 10:46:19,042 INFO Exit
+2021-09-18 10:46:29,988 ERROR Product not found
+2021-09-18 10:46:38,484 INFO Added to cart successfully
+2021-09-18 10:47:00,832 INFO  Items are proceed to buy 
+2021-09-18 10:47:00,832 ERROR Field not found
+2021-09-18 10:47:08,374 INFO Launching browser
+2021-09-18 10:47:13,296 INFO Exit
+2021-09-18 11:05:53,358 INFO Launching browser
+2021-09-18 11:05:57,631 INFO Exit
+2021-09-18 11:06:06,668 INFO Logged Suucessfully
+2021-09-18 11:06:25,762 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-18 11:06:26,138 INFO Launching browser
+2021-09-18 11:06:30,205 INFO Exit
+2021-09-18 11:06:37,896 INFO New account created successfully
+2021-09-18 11:06:40,242 INFO Launching browser
+2021-09-18 11:06:44,100 INFO Exit
+2021-09-18 11:06:49,142 ERROR Product not found
+2021-09-18 11:06:55,283 ERROR field not found
+2021-09-18 11:06:59,504 INFO Launching browser
+2021-09-18 11:07:03,432 INFO Exit
+2021-09-18 11:07:14,349 ERROR Product not found
+2021-09-18 11:07:22,535 INFO Added to cart successfully
+2021-09-18 11:07:30,604 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-18 11:07:31,043 INFO Launching browser
+2021-09-18 11:07:35,335 INFO Exit
+2021-09-18 12:28:31,472 INFO Launching browser
+2021-09-18 12:28:37,192 INFO Exit
+2021-09-18 12:28:43,830 ERROR Product not found
+2021-09-18 12:28:53,282 ERROR field not found
+2021-09-18 12:33:13,755 INFO Launching browser
+2021-09-18 12:33:18,539 INFO Exit
+2021-09-18 12:33:23,638 ERROR Product not found
+2021-09-18 12:33:31,647 ERROR field not found
+2021-09-19 22:27:13,542 INFO Launching browser
+2021-09-19 22:27:20,003 INFO Exit
+2021-09-19 22:27:29,667 INFO Logged Suucessfully
+2021-09-19 22:27:46,142 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-19 22:27:54,470 INFO Launching browser
+2021-09-19 22:27:59,176 INFO Exit
+2021-09-19 22:28:06,348 INFO New account created successfully
+2021-09-19 22:28:09,703 INFO Launching browser
+2021-09-19 22:28:14,570 INFO Exit
+2021-09-19 22:28:19,736 ERROR Product not found
+2021-09-19 22:28:27,031 ERROR field not found
+2021-09-19 22:28:33,839 INFO Launching browser
+2021-09-19 22:28:39,092 INFO Exit
+2021-09-19 22:28:52,097 ERROR Product not found
+2021-09-19 22:29:00,377 INFO Added to cart successfully
+2021-09-19 22:29:24,011 INFO  Items are proceed to buy 
+2021-09-19 22:29:24,011 ERROR Field not found
+2021-09-19 22:29:30,895 INFO Launching browser
+2021-09-19 22:29:35,898 INFO Exit
+2021-09-19 22:45:38,796 INFO Launching browser
+2021-09-19 22:45:44,214 INFO Exit
+2021-09-19 22:50:15,447 INFO Launching browser
+2021-09-19 22:50:20,946 INFO Exit
+2021-09-19 22:50:55,417 INFO Launching browser
+2021-09-19 22:51:00,870 INFO Exit
+2021-09-19 22:53:01,228 INFO Launching browser
+2021-09-19 22:53:06,281 INFO Exit
+2021-09-19 22:54:20,387 INFO Launching browser
+2021-09-19 22:54:25,753 INFO Exit
+2021-09-19 22:57:13,310 INFO Launching browser
+2021-09-19 22:57:18,588 INFO Exit
+2021-09-19 22:57:29,481 ERROR Could not find element by: By.XPath: //*[@id='a - page']/div[2]/div/div[3]/div[1]/a/div/div/div/div[2]/div/span
+2021-09-19 22:58:39,924 INFO Launching browser
+2021-09-19 22:58:45,206 INFO Exit
+2021-09-19 22:58:55,866 ERROR Could not find element by: By.XPath: //*[@id='a - page']/div[2]/div/div[3]/div[1]/a
+2021-09-19 22:59:53,635 INFO Launching browser
+2021-09-19 22:59:58,654 INFO Exit
+2021-09-19 23:02:16,084 INFO Launching browser
+2021-09-19 23:02:21,438 INFO Exit
+2021-09-19 23:08:34,700 INFO Launching browser
+2021-09-19 23:08:39,422 INFO Exit
+2021-09-19 23:41:37,134 INFO Launching browser
+2021-09-19 23:41:41,970 INFO Exit
+2021-09-19 23:41:42,068 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-19 23:42:02,207 INFO Launching browser
+2021-09-19 23:42:07,069 INFO Exit
+2021-09-19 23:42:07,146 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-19 23:42:54,098 INFO Launching browser
+2021-09-19 23:42:58,927 INFO Exit
+2021-09-19 23:42:58,978 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-19 23:43:53,670 INFO Launching browser
+2021-09-19 23:43:58,978 INFO Exit
+2021-09-19 23:43:59,064 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-19 23:45:02,168 INFO Launching browser
+2021-09-19 23:45:14,973 INFO Exit
+2021-09-19 23:45:15,000 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-20 15:14:08,901 INFO Launching browser
+2021-09-20 15:14:14,269 INFO Exit
+2021-09-20 15:14:14,451 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
