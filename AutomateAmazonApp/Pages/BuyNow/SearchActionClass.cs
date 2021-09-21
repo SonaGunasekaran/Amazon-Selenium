@@ -3,11 +3,11 @@
  * Author:Sona G
  * Date :15/09/2021
  */
-using AutomateAmazonApp.Search;
+using NUnit.Framework;
 using OpenQA.Selenium;
 using System;
 
-namespace AutomateAmazonApp.SearchAction
+namespace AutomateAmazonApp.Pages.BuyNow
 {
     public class SearchActionClass : Base.Baseclass
     {
@@ -48,6 +48,7 @@ namespace AutomateAmazonApp.SearchAction
                 search.signbtn.Click();
                 System.Threading.Thread.Sleep(2000);
 
+                Assert.AreEqual(driver.Url, "https://www.amazon.in/gp/buy/itemselect/handlers/display.html?ie=UTF8&useCase=singleAddress&hasWorkingJavascript=1");
             }
             catch(Exception ex)
             {

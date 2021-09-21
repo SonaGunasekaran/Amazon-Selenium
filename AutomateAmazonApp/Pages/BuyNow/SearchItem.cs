@@ -6,7 +6,7 @@
 using OpenQA.Selenium;
 using SeleniumExtras.PageObjects;
 
-namespace AutomateAmazonApp.Search
+namespace AutomateAmazonApp.Pages.BuyNow
 {
     public class SearchItem
     {

@@ -569,3 +569,272 @@ from unknown error: web view not found
 2021-09-20 15:14:08,901 INFO Launching browser
 2021-09-20 15:14:14,269 INFO Exit
 2021-09-20 15:14:14,451 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-20 18:05:58,072 INFO Launching browser
+2021-09-20 18:06:02,975 INFO Exit
+2021-09-20 18:06:12,484 INFO Logged Suucessfully
+2021-09-20 18:06:32,415 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-20 18:06:38,101 INFO Launching browser
+2021-09-20 18:06:42,459 INFO Exit
+2021-09-20 18:06:49,478 INFO New account created successfully
+2021-09-20 18:06:52,443 INFO Launching browser
+2021-09-20 18:06:57,073 INFO Exit
+2021-09-20 18:07:02,351 ERROR Product not found
+2021-09-20 18:07:10,031 ERROR field not found
+2021-09-20 18:07:16,572 INFO Launching browser
+2021-09-20 18:07:21,221 INFO Exit
+2021-09-20 18:07:32,554 ERROR Product not found
+2021-09-20 18:07:40,846 INFO Added to cart successfully
+2021-09-20 18:07:48,884 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-20 18:07:49,455 INFO Launching browser
+2021-09-20 18:07:54,343 INFO Exit
+2021-09-20 18:07:54,367 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-20 18:07:55,029 INFO Launching browser
+2021-09-20 18:07:59,722 INFO Exit
+2021-09-20 21:02:21,577 INFO Launching browser
+2021-09-20 21:02:27,678 INFO Exit
+2021-09-20 21:02:36,691 INFO Launching browser
+2021-09-20 21:02:41,422 INFO Exit
+2021-09-20 21:02:48,300 INFO New account created successfully
+2021-09-20 21:02:50,714 INFO Launching browser
+2021-09-20 21:02:55,551 INFO Exit
+2021-09-20 21:03:00,598 ERROR Product not found
+2021-09-20 21:03:07,474 ERROR field not found
+2021-09-20 21:03:13,952 INFO Launching browser
+2021-09-20 21:03:18,834 INFO Exit
+2021-09-20 21:03:29,885 ERROR Product not found
+2021-09-20 21:03:38,693 INFO Added to cart successfully
+2021-09-20 21:04:00,746 INFO  Items are proceed to buy 
+2021-09-20 21:04:00,746 ERROR Field not found
+2021-09-20 21:04:08,221 INFO Launching browser
+2021-09-20 21:04:13,406 INFO Exit
+2021-09-20 21:04:13,411 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-20 21:28:54,394 INFO Launching browser
+2021-09-20 21:29:00,698 INFO Exit
+2021-09-20 21:29:09,978 INFO Logged Suucessfully
+2021-09-20 21:29:34,367 INFO Launching browser
+2021-09-20 21:29:39,421 INFO Exit
+2021-09-20 21:29:46,370 INFO New account created successfully
+2021-09-20 21:29:48,791 INFO Launching browser
+2021-09-20 21:29:53,292 INFO Exit
+2021-09-20 21:29:58,314 ERROR Product not found
+2021-09-20 21:30:04,849 ERROR field not found
+2021-09-20 21:30:16,609 INFO Launching browser
+2021-09-20 21:30:22,383 INFO Exit
+2021-09-20 21:30:34,086 ERROR Product not found
+2021-09-20 21:30:46,531 INFO Added to cart successfully
+2021-09-20 21:30:54,711 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-20 21:30:55,184 INFO Launching browser
+2021-09-20 21:31:00,230 INFO Exit
+2021-09-20 21:31:00,236 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-20 22:29:15,727 INFO Launching browser
+2021-09-20 22:29:20,662 INFO Exit
+2021-09-20 22:29:36,423 ERROR chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+2021-09-20 22:29:40,990 INFO Launching browser
+2021-09-20 22:29:44,746 INFO Exit
+2021-09-20 22:29:48,896 ERROR chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+2021-09-20 22:29:48,999 INFO Launching browser
+2021-09-20 22:29:52,399 INFO Exit
+2021-09-20 22:29:52,437 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-20 22:29:52,691 INFO Launching browser
+2021-09-20 22:29:55,897 INFO Exit
+2021-09-20 22:29:55,928 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=93.0.4577.82)
+2021-09-20 22:29:56,163 INFO Launching browser
+2021-09-20 22:29:59,226 INFO Exit
+2021-09-20 22:29:59,286 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-20 22:29:59,567 INFO Launching browser
+2021-09-20 22:30:02,921 INFO Exit
+2021-09-20 22:30:20,141 INFO Launching browser
+2021-09-20 22:30:24,570 INFO Exit
+2021-09-20 22:32:03,294 INFO Launching browser
+2021-09-20 22:32:07,908 INFO Exit
+2021-09-20 22:37:35,498 INFO Launching browser
+2021-09-20 22:37:39,851 INFO Exit
+2021-09-20 22:38:29,446 INFO Launching browser
+2021-09-20 22:38:33,546 INFO Exit
+2021-09-20 22:47:06,211 INFO Launching browser
+2021-09-20 22:47:10,874 INFO Exit
+2021-09-20 22:48:43,128 INFO Launching browser
+2021-09-20 22:48:47,714 INFO Exit
+2021-09-20 23:26:56,962 INFO Launching browser
+2021-09-20 23:27:02,537 INFO Exit
+2021-09-20 23:29:09,079 INFO Launching browser
+2021-09-20 23:29:14,018 INFO Exit
+2021-09-20 23:32:40,859 INFO Launching browser
+2021-09-20 23:32:45,085 INFO Exit
+2021-09-20 23:42:57,778 INFO Launching browser
+2021-09-20 23:43:02,558 INFO Exit
+2021-09-21 10:40:39,960 INFO Launching browser
+2021-09-21 10:40:45,563 INFO Exit
+2021-09-21 10:41:50,136 INFO Launching browser
+2021-09-21 10:41:54,999 INFO Exit
+2021-09-21 10:43:21,564 INFO Launching browser
+2021-09-21 10:43:26,351 INFO Exit
+2021-09-21 10:44:49,274 INFO Launching browser
+2021-09-21 10:44:54,234 INFO Exit
+2021-09-21 10:45:40,101 INFO Launching browser
+2021-09-21 10:45:45,450 INFO Exit
+2021-09-21 10:51:47,242 INFO Launching browser
+2021-09-21 10:51:51,655 INFO Exit
+2021-09-21 10:57:25,112 INFO Launching browser
+2021-09-21 10:57:29,803 INFO Exit
+2021-09-21 11:00:54,498 INFO Launching browser
+2021-09-21 11:00:59,651 INFO Exit
+2021-09-21 11:02:46,746 INFO Launching browser
+2021-09-21 11:02:52,399 INFO Exit
+2021-09-21 11:12:09,218 INFO Launching browser
+2021-09-21 11:12:14,092 INFO Exit
+2021-09-21 11:15:15,395 INFO Launching browser
+2021-09-21 11:15:20,378 INFO Exit
+2021-09-21 11:16:21,060 INFO Launching browser
+2021-09-21 11:16:26,354 INFO Exit
+2021-09-21 11:18:52,737 INFO Launching browser
+2021-09-21 11:18:57,479 INFO Exit
+2021-09-21 11:20:34,915 INFO Launching browser
+2021-09-21 11:20:39,716 INFO Exit
+2021-09-21 11:21:37,953 INFO Launching browser
+2021-09-21 11:21:44,882 INFO Exit
+2021-09-21 11:27:37,170 INFO Launching browser
+2021-09-21 11:27:41,676 INFO Exit
+2021-09-21 11:28:35,354 INFO Launching browser
+2021-09-21 11:28:40,219 INFO Exit
+2021-09-21 11:31:00,829 INFO Launching browser
+2021-09-21 11:31:05,439 INFO Exit
+2021-09-21 11:33:25,243 INFO Launching browser
+2021-09-21 11:33:29,568 INFO Exit
+2021-09-21 11:35:07,415 INFO Launching browser
+2021-09-21 11:35:12,139 INFO Exit
+2021-09-21 11:36:55,995 INFO Launching browser
+2021-09-21 11:37:00,789 INFO Exit
+2021-09-21 11:38:50,122 INFO Launching browser
+2021-09-21 11:38:54,415 INFO Exit
+2021-09-21 11:41:15,747 INFO Launching browser
+2021-09-21 11:41:20,363 INFO Exit
+2021-09-21 11:49:26,235 INFO Launching browser
+2021-09-21 11:49:31,162 INFO Exit
+2021-09-21 11:50:57,803 INFO Launching browser
+2021-09-21 11:51:02,596 INFO Exit
+2021-09-21 11:56:36,672 INFO Launching browser
+2021-09-21 11:56:41,538 INFO Exit
+2021-09-21 12:01:27,346 INFO Launching browser
+2021-09-21 12:01:32,507 INFO Exit
+2021-09-21 12:03:20,885 INFO Launching browser
+2021-09-21 12:03:25,360 INFO Exit
+2021-09-21 12:06:07,770 INFO Launching browser
+2021-09-21 12:06:12,141 INFO Exit
+2021-09-21 12:07:48,260 INFO Launching browser
+2021-09-21 12:07:53,127 INFO Exit
+2021-09-21 12:09:50,758 INFO Launching browser
+2021-09-21 12:09:55,135 INFO Exit
+2021-09-21 12:17:23,970 INFO Launching browser
+2021-09-21 12:17:29,338 INFO Exit
+2021-09-21 12:18:30,183 INFO Launching browser
+2021-09-21 12:18:35,001 INFO Exit
+2021-09-21 12:39:51,229 INFO Launching browser
+2021-09-21 12:39:56,989 INFO Exit
+2021-09-21 12:41:29,378 INFO Launching browser
+2021-09-21 12:41:34,371 INFO Exit
+2021-09-21 12:45:14,054 INFO Launching browser
+2021-09-21 12:45:19,023 INFO Exit
+2021-09-21 12:52:17,846 INFO Launching browser
+2021-09-21 12:52:22,772 INFO Exit
+2021-09-21 12:56:11,619 INFO Launching browser
+2021-09-21 12:56:16,596 INFO Exit
+2021-09-21 13:05:48,749 INFO Launching browser
+2021-09-21 13:05:54,150 INFO Exit
+2021-09-21 14:11:15,399 INFO Launching browser
+2021-09-21 14:11:20,047 INFO Exit
+2021-09-21 14:11:28,930 INFO Logged Suucessfully
+2021-09-21 14:11:33,077 ERROR   Expected: same as "https://www.amazon.in/?ref_=nav_ya_signin&"
+  But was:  "https://www.amazon.in/"
+
+2021-09-21 14:15:48,852 INFO Launching browser
+2021-09-21 14:15:53,643 INFO Exit
+2021-09-21 14:16:02,281 INFO Logged Suucessfully
+2021-09-21 14:16:06,407 ERROR   Expected: same as "https://www.amazon.in/?ref_=nav_ya_signin&"
+  But was:  "https://www.amazon.in/?ref_=nav_ya_signin&"
+
+2021-09-21 14:22:20,118 INFO Launching browser
+2021-09-21 14:22:24,542 INFO Exit
+2021-09-21 14:22:33,679 INFO Logged Suucessfully
+2021-09-21 14:26:01,692 INFO Launching browser
+2021-09-21 14:26:06,182 INFO Exit
+2021-09-21 14:26:13,256 INFO Logged Suucessfully
+2021-09-21 14:28:01,771 INFO Launching browser
+2021-09-21 14:28:07,082 INFO Exit
+2021-09-21 14:28:22,773 ERROR chrome not reachable
+  (Session info: chrome=93.0.4577.82)
+2021-09-21 14:29:33,473 INFO Launching browser
+2021-09-21 14:29:38,602 INFO Exit
+2021-09-21 14:29:46,843 INFO New account created successfully
+2021-09-21 14:29:48,942 ERROR   Expected string length 33 but was 42. Strings differ at index 22.
+  Expected: "https://www.amazon.in/ap/register"
+  But was:  "https://www.amazon.in/?ref_=nav_ya_signin&"
+  ---------------------------------^
+
+2021-09-21 14:30:49,541 INFO Launching browser
+2021-09-21 14:30:54,377 INFO Exit
+2021-09-21 14:31:02,131 INFO New account created successfully
+2021-09-21 14:34:16,463 INFO Launching browser
+2021-09-21 14:34:21,342 INFO Exit
+2021-09-21 14:34:32,915 ERROR Product not found
+2021-09-21 14:34:43,784 INFO Added to cart successfully
+2021-09-21 14:35:05,423 INFO  Items are proceed to buy 
+2021-09-21 14:35:05,423 ERROR Field not found
+2021-09-21 14:35:14,401 ERROR   Expected string length 31 but was 66. Strings differ at index 22.
+  Expected: "...://www.amazon.in/ap/signin"
+  But was:  "...://www.amazon.in/gp/cart/view.html%3Fapp-nav-type=none&dc=df?"
+  -------------------------------^
+
+2021-09-21 14:38:22,705 INFO Launching browser
+2021-09-21 14:38:27,761 INFO Exit
+2021-09-21 14:38:38,833 ERROR Product not found
+2021-09-21 14:38:47,076 INFO Added to cart successfully
+2021-09-21 14:38:55,154 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-21 14:39:31,816 INFO Launching browser
+2021-09-21 14:39:36,578 INFO Exit
+2021-09-21 14:39:41,475 ERROR Product not found
+2021-09-21 14:39:49,125 ERROR field not found
+2021-09-21 14:39:55,837 ERROR   Expected string length 114 but was 87. Strings differ at index 29.
+  Expected: "https://www.amazon.in/gp/buy/itemselect/handlers/display.html..."
+  But was:  "https://www.amazon.in/gp/buy/addressselect/handlers/display.h..."
+  ----------------------------------------^
+
+2021-09-21 14:40:45,135 INFO Launching browser
+2021-09-21 14:40:49,896 INFO Exit
+2021-09-21 14:40:55,130 ERROR Product not found
+2021-09-21 14:41:02,876 ERROR field not found
+2021-09-21 14:41:09,086 ERROR   Expected string length 114 but was 64. Strings differ at index 61.
+  Expected: "...lay.html?ie=UTF8&useCase=singleAddress&hasWorkingJavascript=1"
+  But was:  "...lay.html..."
+  ----------------------^
+
+2021-09-21 14:41:56,535 INFO Launching browser
+2021-09-21 14:42:01,315 INFO Exit
+2021-09-21 14:42:06,315 ERROR Product not found
+2021-09-21 14:42:14,040 ERROR field not found
+2021-09-21 15:05:42,545 INFO Launching browser
+2021-09-21 15:05:49,519 INFO Exit
+2021-09-21 15:05:56,464 INFO Logged Suucessfully
+2021-09-21 15:06:07,354 INFO Launching browser
+2021-09-21 15:06:12,334 INFO Exit
+2021-09-21 15:06:19,940 INFO New account created successfully
+2021-09-21 15:06:22,474 INFO Launching browser
+2021-09-21 15:06:27,369 INFO Exit
+2021-09-21 15:06:32,187 ERROR Product not found
+2021-09-21 15:06:38,640 ERROR field not found
+2021-09-21 15:06:45,557 INFO Launching browser
+2021-09-21 15:06:50,245 INFO Exit
+2021-09-21 15:07:01,179 ERROR Product not found
+2021-09-21 15:07:09,446 INFO Added to cart successfully
+2021-09-21 15:07:17,533 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-21 15:07:18,093 INFO Launching browser
+2021-09-21 15:07:23,022 INFO Exit
+2021-09-21 15:07:23,078 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-21 15:07:23,631 INFO Launching browser
+2021-09-21 15:07:27,883 INFO Exit

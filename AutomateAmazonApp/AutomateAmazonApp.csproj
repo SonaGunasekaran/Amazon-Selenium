@@ -7,6 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="CsvFile\**" />
+    <EmbeddedResource Remove="CsvFile\**" />
+    <None Remove="CsvFile\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="DotNetSeleniumExtras.PageObjects.Core" Version="3.12.0" />
     <PackageReference Include="ExtentReports" Version="4.1.0" />
     <PackageReference Include="log4net" Version="2.0.12" />
@@ -32,10 +38,6 @@
     <None Update="log4net.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="CsvFile\" />
   </ItemGroup>
 
 </Project>

@@ -3,14 +3,11 @@
  * Author:Sona G
  * Date :15/09/2021
  */
-using AutomateAmazonApp.AmazonLogin;
 using Microsoft.VisualBasic.FileIO;
-using OpenQA.Selenium;
+using NUnit.Framework;
 using System;
-using System.IO;
-using System.Linq;
 
-namespace AutomateAmazonApp.DoAction
+namespace AutomateAmazonApp.Pages.LoginPage
 {
     public class DoActions : Base.Baseclass
     {
@@ -44,24 +41,18 @@ namespace AutomateAmazonApp.DoAction
 
                         //click on continue button
                         login.continuebtn.Click();
-                        System.Threading.Thread.Sleep(2000);
+                        System.Threading.Thread.Sleep(1000);
 
                         //enter the password 
                         login.password.SendKeys(column[1]);
-                        System.Threading.Thread.Sleep(2000);
+                        System.Threading.Thread.Sleep(1000);
 
                         //click on loginbutton
                         login.signbtn.Click();
                         logger.Info("Logged Suucessfully");
-                        System.Threading.Thread.Sleep(4000);
+                        System.Threading.Thread.Sleep(1000);
 
-                        //login.menu.SendKeys(Keys.ArrowDown);
-
-                        login.hamBurgerMenu.Click();
-                        System.Threading.Thread.Sleep(8000);
-
-                        login.signOut.Click();
-                        System.Threading.Thread.Sleep(2000);
+                        Assert.AreEqual(driver.Url,"https://www.amazon.in/?ref_=nav_ya_signin&");
                     }
                     catch (Exception ex)
                     {
