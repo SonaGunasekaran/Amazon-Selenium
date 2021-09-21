@@ -4,9 +4,10 @@
  * Date :15/09/2021
  */
 using AutomateAmazonApp.AmazonSignup;
+using NUnit.Framework;
 using System;
 
-namespace AutomateAmazonApp.ActionSigup
+namespace AutomateAmazonApp.Pages.NewUser
 {
     public class SignupActionCass : Base.Baseclass
     {
@@ -39,6 +40,8 @@ namespace AutomateAmazonApp.ActionSigup
                 login.continuebtn.Click();
                 logger.Info("New account created successfully");
                 System.Threading.Thread.Sleep(2000);
+
+                Assert.AreEqual(driver.Url, "https://www.amazon.in/ap/register");
             }
             catch (Exception ex)
             {

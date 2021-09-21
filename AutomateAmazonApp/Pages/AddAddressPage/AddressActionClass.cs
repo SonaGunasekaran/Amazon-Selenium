@@ -1,7 +1,7 @@
 ﻿using AutomateAmazonApp.AddAddress;
 using System;
 
-namespace AutomateAmazonApp.AddressAction
+namespace AutomateAmazonApp.Pages.AddAddressPage
 {
     public class AddressActionClass : Base.Baseclass
     {

@@ -4,10 +4,11 @@
  * Date :15/09/2021
  */
 using AutomateAmazonApp.AddToCart;
+using NUnit.Framework;
 using OpenQA.Selenium;
 using System;
 
-namespace AutomateAmazonApp.AddToCartAction
+namespace AutomateAmazonApp.Pages.AddToCart
 {
     public class AddToCartActionPage : Base.Baseclass
     {
@@ -56,6 +57,8 @@ namespace AutomateAmazonApp.AddToCartAction
 
                 //click on loginbutton
                 add.signbtn.Click();
+
+                Assert.AreNotEqual(driver.Url, "https://www.amazon.in/gp/cart/view.html%3Fapp-nav-type=none&dc=df?");
             }
             catch (Exception ex)
             {

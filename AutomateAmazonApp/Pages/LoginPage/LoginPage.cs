@@ -6,7 +6,7 @@
 using OpenQA.Selenium;
 using SeleniumExtras.PageObjects;
 
-namespace AutomateAmazonApp.AmazonLogin
+namespace AutomateAmazonApp.Pages.LoginPage
 {
     public class LoginPage
     {

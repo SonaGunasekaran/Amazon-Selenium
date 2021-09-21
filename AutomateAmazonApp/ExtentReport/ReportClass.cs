@@ -15,7 +15,7 @@ namespace AutomateAmazonApp.ExtentReport
         {
             if (extent == null)
             {
-                string reportPath = @"C:\Users\sona.g\source\repos\AutomateFacebookApp\AutomateFacebookApp\ExtendReport\Report.html";
+                string reportPath = @"C:\Users\sona.g\source\repos\AutomateAmazonApp\AutomateAmazonApp\ExtentReport\ExportReport.html";
                 htmlReporter = new ExtentHtmlReporter(reportPath);
                 extent = new ExtentReports();
                 extent.AttachReporter(htmlReporter);
@@ -23,8 +23,8 @@ namespace AutomateAmazonApp.ExtentReport
                 extent.AddSystemInfo("UserName", "Sona");
                 extent.AddSystemInfo("ProviderName", "Sona");
                 extent.AddSystemInfo("Domain", "QA");
-                extent.AddSystemInfo("ProjectName", "Facebook Automation");
-                string conifgPath = @"C:\Users\sona.g\source\repos\AutomateFacebookApp\AutomateFacebookApp\ExtendReport\extend-config.xml";
+                extent.AddSystemInfo("ProjectName", "Amazon Automation");
+                string conifgPath = @"C:\Users\sona.g\source\repos\AutomateAmazonApp\AutomateAmazonApp\ExtentReport\extend-config.xml";
                 htmlReporter.LoadConfig(conifgPath);
             }
             return extent;
