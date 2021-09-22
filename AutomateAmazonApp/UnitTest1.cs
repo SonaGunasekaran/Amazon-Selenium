@@ -11,7 +11,8 @@ namespace AutomateAmazonApp
 {
     public class Tests : Base.Baseclass
     {
-        string csvFilePath = @"C:\Users\sona.g\source\repos\AutomateAmazonApp\AutomateAmazonApp\Pages\LoginPage\CsvFile\Filecsv.csv";
+        string csvFilePath = @"C:\Users\sona.g\source\repos\AutomateAmazonApp\AutomateAmazonApp\FileCSV\Filecsv.csv";
+        string emailCsvPath = @"C:\Users\sona.g\source\repos\AutomateAmazonApp\AutomateAmazonApp\FileCSV\Emailfile.csv";
         [Test, Order(1)]
         public void TestLoginPage()
         {
@@ -19,34 +20,40 @@ namespace AutomateAmazonApp
                                                      "Email,Password");
         }
 
-        [Test, Order(2)]
-        public void TestSignupPage()
+        //[Test, Order(2)]
+        //public void TestSignupPage()
+        //{
+        //    Pages.NewUser.SignupActionCass.CheckInputFields();
+        //}
+
+        //[Test, Order(3)]
+        //public void TestSearchActionAndBuyNowAction()
+        //{
+        //    Pages.BuyNow.SearchActionClass.CheckInputFields();
+        //}
+
+        //[Test, Order(4)]
+        //public void TestAddToCart()
+        //{
+        //    Pages.AddToCart.AddToCartActionPage.CheckInputFields();
+        //}
+
+        //[Test, Order(5)]
+        //public void TestAddAddress()
+        //{
+        //    Pages.AddAddressPage.AddressActionClass.CheckInputFields();
+        //}
+
+        //[Test, Order(6)]
+        //public void TestProductAndRating()
+        //{
+        //    Pages.SearchProduct.ProductAndRatingAction.GetProductAndRating();
+        //}
+        [Test]
+        public void TestMethodForEmailSending()
         {
-            Pages.NewUser.SignupActionCass.CheckInputFields();
+            ExtentReport.Email.UserData(emailCsvPath, "From,To,Password");
         }
 
-        [Test, Order(3)]
-        public void TestSearchActionAndBuyNowAction()
-        {
-            Pages.BuyNow.SearchActionClass.CheckInputFields();
-        }
-
-        [Test, Order(4)]
-        public void TestAddToCart()
-        {
-            Pages.AddToCart.AddToCartActionPage.CheckInputFields();
-        }
-
-        [Test, Order(5)]
-        public void TestAddAddress()
-        {
-            Pages.AddAddressPage.AddressActionClass.CheckInputFields();
-        }
-
-        [Test, Order(6)]
-        public void TestProductAndRating()
-        {
-            Pages.SearchProduct.ProductAndRatingAction.GetProductAndRating();
-        }
     }
 }

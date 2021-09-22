@@ -49,6 +49,13 @@ namespace AutomateAmazonApp.Base
 
             logger.Info("Exit");
         }
+        public static void Takescreenshot()
+        {
+            ITakesScreenshot screenshotDriver = driver as ITakesScreenshot;
+            Screenshot screenshot = screenshotDriver.GetScreenshot();
+            screenshot.SaveAsFile(@"C:\Users\sona.g\source\repos\AutomateFacebookApp\AutomateFacebookApp\Screenshot\Test.png");
+        }
+
         [TearDown]
         public void TearDown()
         {
