@@ -39,7 +39,8 @@ namespace AutomateAmazonApp.Pages.NewUser
                 //continue
                 login.continuebtn.Click();
                 logger.Info("New account created successfully");
-                System.Threading.Thread.Sleep(2000);
+                Takescreenshot();
+                System.Threading.Thread.Sleep(2000); 
 
                 Assert.AreEqual(driver.Url, "https://www.amazon.in/ap/register");
             }

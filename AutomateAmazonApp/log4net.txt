@@ -979,3 +979,639 @@ from unknown error: web view not found
 2021-09-22 13:39:00,219 INFO Logged Suucessfully
 2021-09-22 13:39:10,940 INFO Launching browser
 2021-09-22 13:39:15,955 INFO Exit
+2021-09-22 15:29:01,529 INFO Launching browser
+2021-09-22 15:29:06,829 INFO Exit
+2021-09-22 15:29:14,288 INFO Logged Suucessfully
+2021-09-22 15:29:19,301 ERROR   Expected string length 31 but was 42. Strings differ at index 22.
+  Expected: "https://www.amazon.in/ap/signin"
+  But was:  "https://www.amazon.in/?ref_=nav_ya_signin&"
+  ---------------------------------^
+
+2021-09-22 15:29:26,898 INFO Launching browser
+2021-09-22 15:29:32,049 INFO Exit
+2021-09-22 15:31:30,031 INFO Launching browser
+2021-09-22 15:31:35,841 INFO Exit
+2021-09-22 15:31:43,347 INFO New account created successfully
+2021-09-22 15:31:45,688 ERROR   Expected string length 501 but was 33. Strings differ at index 33.
+  Expected: "...ps://www.amazon.in/ap/register?showRememberMe=true&openid...."
+  But was:  "...ps://www.amazon.in/ap/register"
+  --------------------------------------------^
+
+2021-09-22 15:31:51,818 INFO Launching browser
+2021-09-22 15:31:56,478 INFO Exit
+2021-09-22 15:32:35,747 INFO Launching browser
+2021-09-22 15:32:40,561 INFO Exit
+2021-09-22 15:32:47,615 INFO New account created successfully
+2021-09-22 15:32:55,651 INFO Launching browser
+2021-09-22 15:32:59,754 INFO Exit
+2021-09-22 15:35:58,793 INFO Launching browser
+2021-09-22 15:36:03,467 INFO Exit
+2021-09-22 15:36:11,446 INFO New account created successfully
+2021-09-22 15:36:13,800 ERROR   Expected: not equal to "https://www.amazon.in/ap/register"
+  But was:  "https://www.amazon.in/ap/register"
+
+2021-09-22 15:36:19,795 INFO Launching browser
+2021-09-22 15:36:24,094 INFO Exit
+2021-09-22 15:37:20,484 INFO Launching browser
+2021-09-22 15:37:25,447 INFO Exit
+2021-09-22 15:37:33,301 INFO New account created successfully
+2021-09-22 15:37:35,637 ERROR   Expected: not equal to "https://www.amazon.in/ap/register"
+  But was:  "https://www.amazon.in/ap/register"
+
+2021-09-22 15:37:41,167 INFO Launching browser
+2021-09-22 15:37:45,395 INFO Exit
+2021-09-22 15:49:29,287 INFO Launching browser
+2021-09-22 15:49:34,101 INFO Exit
+2021-09-22 15:49:41,116 INFO New account created successfully
+2021-09-22 15:49:48,934 INFO Launching browser
+2021-09-22 15:49:53,759 INFO Exit
+2021-09-22 15:51:31,861 INFO Launching browser
+2021-09-22 15:51:36,727 INFO Exit
+2021-09-22 15:51:43,593 INFO New account created successfully
+2021-09-22 15:51:51,724 INFO Launching browser
+2021-09-22 15:51:56,222 INFO Exit
+2021-09-22 15:53:15,246 INFO Launching browser
+2021-09-22 15:53:20,059 INFO Exit
+2021-09-22 15:53:26,983 INFO New account created successfully
+2021-09-22 15:53:35,604 INFO Launching browser
+2021-09-22 15:53:40,045 INFO Exit
+2021-09-22 15:55:25,974 INFO Launching browser
+2021-09-22 15:55:31,286 INFO Exit
+2021-09-22 15:55:38,009 INFO New account created successfully
+2021-09-22 15:55:46,346 INFO Launching browser
+2021-09-22 15:55:51,171 INFO Exit
+2021-09-22 15:59:24,104 INFO Launching browser
+2021-09-22 15:59:29,165 INFO Exit
+2021-09-22 15:59:37,548 INFO New account created successfully
+2021-09-22 15:59:39,885 ERROR   Expected: not equal to "https://www.amazon.in/ap/register"
+  But was:  "https://www.amazon.in/ap/register"
+
+2021-09-22 15:59:45,425 INFO Launching browser
+2021-09-22 15:59:50,474 INFO Exit
+2021-09-22 16:00:24,473 INFO Launching browser
+2021-09-22 16:00:29,443 INFO Exit
+2021-09-22 16:00:36,574 INFO New account created successfully
+2021-09-22 16:00:38,935 ERROR   Expected string length 501 but was 33. Strings differ at index 33.
+  Expected: "...ps://www.amazon.in/ap/register?showRememberMe=true&openid...."
+  But was:  "...ps://www.amazon.in/ap/register"
+  --------------------------------------------^
+
+2021-09-22 16:00:45,237 INFO Launching browser
+2021-09-22 16:00:49,871 INFO Exit
+2021-09-22 16:01:59,639 INFO Launching browser
+2021-09-22 16:02:04,826 INFO Exit
+2021-09-22 16:02:12,818 INFO New account created successfully
+2021-09-22 16:02:23,559 INFO Launching browser
+2021-09-22 16:02:28,667 INFO Exit
+2021-09-22 16:04:48,789 INFO Launching browser
+2021-09-22 16:04:53,927 INFO Exit
+2021-09-22 16:05:01,864 INFO New account created successfully
+2021-09-22 16:05:04,208 ERROR   Expected: not equal to "https://www.amazon.in/ap/register"
+  But was:  "https://www.amazon.in/ap/register"
+
+2021-09-22 16:05:10,268 INFO Launching browser
+2021-09-22 16:05:15,299 INFO Exit
+2021-09-22 16:05:53,068 INFO Launching browser
+2021-09-22 16:05:58,170 INFO Exit
+2021-09-22 16:06:05,509 INFO New account created successfully
+2021-09-22 16:06:13,862 INFO Launching browser
+2021-09-22 16:06:18,809 INFO Exit
+2021-09-22 16:06:57,994 INFO Launching browser
+2021-09-22 16:07:02,995 INFO Exit
+2021-09-22 16:07:10,255 INFO New account created successfully
+2021-09-22 16:07:18,624 INFO Launching browser
+2021-09-22 16:07:23,521 INFO Exit
+2021-09-22 16:36:32,665 INFO Launching browser
+2021-09-22 16:36:37,885 INFO Exit
+2021-09-22 16:36:45,811 INFO New account created successfully
+2021-09-22 16:36:54,510 INFO Launching browser
+2021-09-22 16:36:59,546 INFO Exit
+2021-09-22 16:42:11,690 INFO Launching browser
+2021-09-22 16:42:16,953 INFO Exit
+2021-09-22 16:42:25,372 INFO New account created successfully
+2021-09-22 16:42:34,324 INFO Launching browser
+2021-09-22 16:42:39,146 INFO Exit
+2021-09-22 16:46:05,793 INFO Launching browser
+2021-09-22 16:46:10,724 INFO Exit
+2021-09-22 16:46:19,563 INFO New account created successfully
+2021-09-22 17:23:58,989 INFO Launching browser
+2021-09-22 17:24:04,090 INFO Exit
+2021-09-22 17:24:10,914 INFO New account created successfully
+2021-09-22 22:26:34,380 INFO Launching browser
+2021-09-22 22:26:40,060 INFO Exit
+2021-09-22 22:26:46,729 INFO New account created successfully
+2021-09-24 15:55:06,635 INFO Launching browser
+2021-09-24 15:55:12,855 INFO Exit
+2021-09-24 15:55:20,137 INFO Logged Suucessfully
+2021-09-24 15:55:31,136 INFO Launching browser
+2021-09-24 15:55:36,016 INFO Exit
+2021-09-24 15:55:43,068 INFO New account created successfully
+2021-09-24 15:55:46,034 INFO Launching browser
+2021-09-24 15:55:50,442 INFO Exit
+2021-09-24 15:55:55,413 ERROR Product not found
+2021-09-24 15:56:02,251 ERROR field not found
+2021-09-24 15:56:09,293 INFO Launching browser
+2021-09-24 15:56:13,834 INFO Exit
+2021-09-24 15:56:24,965 ERROR Product not found
+2021-09-24 15:56:33,226 INFO Added to cart successfully
+2021-09-24 15:56:41,313 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-24 15:56:42,113 INFO Launching browser
+2021-09-24 15:56:46,420 INFO Exit
+2021-09-24 15:56:46,505 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-24 15:56:47,723 INFO Launching browser
+2021-09-24 15:56:52,449 INFO Exit
+2021-09-24 17:00:50,085 INFO Launching browser
+2021-09-24 17:00:57,228 INFO Exit
+2021-09-24 17:00:57,278 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-24 17:10:47,665 INFO Launching browser
+2021-09-24 17:10:53,788 INFO Exit
+2021-09-24 17:10:53,885 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-24 17:12:17,069 INFO Launching browser
+2021-09-24 17:12:21,715 INFO Exit
+2021-09-24 17:12:21,810 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-24 17:14:22,861 INFO Launching browser
+2021-09-24 17:14:27,515 INFO Exit
+2021-09-24 17:14:27,592 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 10:18:50,354 INFO Launching browser
+2021-09-25 10:18:57,957 INFO Exit
+2021-09-25 10:18:58,119 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 10:26:19,430 INFO Launching browser
+2021-09-25 10:26:24,909 INFO Exit
+2021-09-25 10:26:30,394 ERROR Product not found
+2021-09-25 10:26:38,091 ERROR field not found
+2021-09-25 10:26:45,123 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 10:28:53,085 INFO Launching browser
+2021-09-25 10:28:58,322 INFO Exit
+2021-09-25 10:28:58,380 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 10:30:26,976 INFO Launching browser
+2021-09-25 10:30:31,939 INFO Exit
+2021-09-25 10:30:32,002 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 10:32:25,596 INFO Launching browser
+2021-09-25 10:32:32,073 INFO Exit
+2021-09-25 10:32:32,115 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 10:38:25,172 INFO Launching browser
+2021-09-25 10:38:30,278 INFO Exit
+2021-09-25 10:38:37,997 INFO New account created successfully
+2021-09-25 10:38:40,380 ERROR   Expected string length 501 but was 22. Strings differ at index 22.
+  Expected: "https://www.amazon.in/ap/register?showRememberMe=true&openid...."
+  But was:  "https://www.amazon.in/"
+  ---------------------------------^
+
+2021-09-25 10:38:47,087 INFO Launching browser
+2021-09-25 10:38:52,629 INFO Exit
+2021-09-25 10:38:52,646 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 10:40:25,536 INFO Launching browser
+2021-09-25 10:40:31,545 INFO Exit
+2021-09-25 10:40:46,841 INFO New account created successfully
+2021-09-25 10:40:49,682 ERROR   Expected string length 33 but was 34. Strings differ at index 33.
+  Expected: "https://www.amazon.in/ap/register"
+  But was:  "https://www.amazon.in/ap/register?"
+  --------------------------------------------^
+
+2021-09-25 10:40:58,488 INFO Launching browser
+2021-09-25 10:41:03,869 INFO Exit
+2021-09-25 10:41:03,889 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 10:41:34,692 INFO Launching browser
+2021-09-25 10:41:40,167 INFO Exit
+2021-09-25 10:41:47,189 INFO New account created successfully
+2021-09-25 10:41:49,556 ERROR   Expected string length 501 but was 33. Strings differ at index 33.
+  Expected: "...ps://www.amazon.in/ap/register?showRememberMe=true&openid...."
+  But was:  "...ps://www.amazon.in/ap/register"
+  --------------------------------------------^
+
+2021-09-25 10:41:56,322 INFO Launching browser
+2021-09-25 10:42:01,566 INFO Exit
+2021-09-25 10:42:01,583 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 11:41:23,495 INFO Launching browser
+2021-09-25 11:41:29,310 INFO Exit
+2021-09-25 11:41:38,786 INFO New account created successfully
+2021-09-25 11:41:47,432 INFO Launching browser
+2021-09-25 11:41:52,424 INFO Exit
+2021-09-25 11:41:58,469 ERROR Exception has been thrown by the target of an invocation.
+2021-09-25 11:41:58,470 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 11:49:28,014 INFO Launching browser
+2021-09-25 11:49:32,814 INFO Exit
+2021-09-25 11:49:41,072 INFO New account created successfully
+2021-09-25 11:49:49,624 INFO Launching browser
+2021-09-25 11:49:57,133 INFO Exit
+2021-09-25 11:50:02,073 ERROR Product not found
+2021-09-25 11:50:11,857 ERROR field not found
+2021-09-25 11:50:18,257 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 11:50:38,100 INFO Launching browser
+2021-09-25 11:50:43,552 INFO Exit
+2021-09-25 11:50:51,010 INFO New account created successfully
+2021-09-25 11:50:53,426 ERROR   Expected string length 501 but was 33. Strings differ at index 33.
+  Expected: "...ps://www.amazon.in/ap/register?showRememberMe=true&openid...."
+  But was:  "...ps://www.amazon.in/ap/register"
+  --------------------------------------------^
+
+2021-09-25 11:50:59,853 INFO Launching browser
+2021-09-25 11:51:05,209 INFO Exit
+2021-09-25 11:51:05,214 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 11:53:33,594 INFO Launching browser
+2021-09-25 11:53:39,954 INFO Exit
+2021-09-25 11:53:40,008 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 11:54:42,757 INFO Launching browser
+2021-09-25 11:54:47,627 INFO Exit
+2021-09-25 11:54:47,696 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 11:57:02,164 INFO Launching browser
+2021-09-25 11:57:07,346 INFO Exit
+2021-09-25 11:57:07,425 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 11:58:51,693 INFO Launching browser
+2021-09-25 11:58:57,089 INFO Exit
+2021-09-25 11:58:57,161 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 12:01:28,381 INFO Launching browser
+2021-09-25 12:01:33,434 INFO Exit
+2021-09-25 12:01:33,475 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 12:01:51,034 INFO Launching browser
+2021-09-25 12:01:56,111 INFO Exit
+2021-09-25 12:01:56,204 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 12:02:35,540 INFO Launching browser
+2021-09-25 12:02:40,637 INFO Exit
+2021-09-25 12:02:47,252 INFO Logged Suucessfully
+2021-09-25 12:02:58,014 INFO Launching browser
+2021-09-25 12:03:02,813 INFO Exit
+2021-09-25 12:03:09,799 INFO New account created successfully
+2021-09-25 12:03:12,144 ERROR   Expected string length 501 but was 33. Strings differ at index 33.
+  Expected: "...ps://www.amazon.in/ap/register?showRememberMe=true&openid...."
+  But was:  "...ps://www.amazon.in/ap/register"
+  --------------------------------------------^
+
+2021-09-25 12:03:12,948 INFO Launching browser
+2021-09-25 12:03:17,912 INFO Exit
+2021-09-25 12:03:23,565 ERROR Product not found
+2021-09-25 12:03:30,641 ERROR field not found
+2021-09-25 12:03:37,912 INFO Launching browser
+2021-09-25 12:03:42,438 INFO Exit
+2021-09-25 12:03:53,404 ERROR Product not found
+2021-09-25 12:04:01,666 INFO Added to cart successfully
+2021-09-25 12:04:09,781 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-25 12:04:10,528 INFO Launching browser
+2021-09-25 12:04:15,376 INFO Exit
+2021-09-25 12:04:15,381 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-25 12:04:16,916 INFO Launching browser
+2021-09-25 12:04:21,311 INFO Exit
+2021-09-25 12:06:39,277 INFO Launching browser
+2021-09-25 12:06:43,740 INFO Exit
+2021-09-26 11:38:11,747 INFO Launching browser
+2021-09-26 11:38:18,066 INFO Exit
+2021-09-26 11:38:25,368 INFO Logged Suucessfully
+2021-09-26 11:38:38,539 INFO Launching browser
+2021-09-26 11:38:43,677 INFO Exit
+2021-09-26 11:38:52,721 INFO New account created successfully
+2021-09-26 11:38:55,350 ERROR   Expected string length 501 but was 33. Strings differ at index 33.
+  Expected: "...ps://www.amazon.in/ap/register?showRememberMe=true&openid...."
+  But was:  "...ps://www.amazon.in/ap/register"
+  --------------------------------------------^
+
+2021-09-26 11:38:55,989 INFO Launching browser
+2021-09-26 11:39:01,722 INFO Exit
+2021-09-26 11:39:07,630 ERROR Product not found
+2021-09-26 11:39:17,645 ERROR field not found
+2021-09-26 11:39:26,730 INFO Launching browser
+2021-09-26 11:39:31,943 INFO Exit
+2021-09-26 11:39:44,457 ERROR Product not found
+2021-09-26 11:39:52,672 INFO Added to cart successfully
+2021-09-26 11:40:14,111 INFO  Items are proceed to buy 
+2021-09-26 11:40:14,112 ERROR Field not found
+2021-09-26 11:40:23,844 INFO Launching browser
+2021-09-26 11:40:29,111 INFO Exit
+2021-09-26 11:40:29,175 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-26 11:40:30,277 INFO Launching browser
+2021-09-26 11:40:35,070 INFO Exit
+2021-09-26 11:41:48,306 INFO Launching browser
+2021-09-26 11:41:53,071 INFO Exit
+2021-09-26 11:53:43,757 INFO Launching browser
+2021-09-26 11:53:48,753 INFO Exit
+2021-09-26 11:53:48,833 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-26 12:01:37,848 INFO Launching browser
+2021-09-26 12:01:43,084 INFO Exit
+2021-09-26 12:01:43,167 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-26 12:03:55,851 INFO Launching browser
+2021-09-26 12:04:00,970 INFO Exit
+2021-09-26 12:04:01,042 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-26 12:05:31,845 INFO Launching browser
+2021-09-26 12:05:37,041 INFO Exit
+2021-09-26 12:05:37,123 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-26 12:06:35,097 INFO Launching browser
+2021-09-26 12:06:40,477 INFO Exit
+2021-09-26 12:08:47,855 INFO Launching browser
+2021-09-26 12:08:52,997 INFO Exit
+2021-09-26 12:12:52,980 INFO Launching browser
+2021-09-26 12:12:57,932 INFO Exit
+2021-09-26 12:17:46,843 INFO Launching browser
+2021-09-26 12:17:51,506 INFO Exit
+2021-09-26 12:18:01,067 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-26 12:18:53,689 INFO Launching browser
+2021-09-26 12:19:00,903 INFO Exit
+2021-09-26 12:19:10,259 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-26 12:21:40,573 INFO Launching browser
+2021-09-26 12:21:45,447 INFO Exit
+2021-09-26 12:21:54,986 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-26 12:27:16,419 INFO Launching browser
+2021-09-26 12:27:21,485 INFO Exit
+2021-09-26 12:29:12,211 INFO Launching browser
+2021-09-26 12:29:17,613 INFO Exit
+2021-09-26 12:30:54,716 INFO Launching browser
+2021-09-26 12:30:59,993 INFO Exit
+2021-09-26 12:31:12,157 ERROR Could not find element by: By.XPath: email
+2021-09-26 12:33:21,780 INFO Launching browser
+2021-09-26 12:33:27,297 INFO Exit
+2021-09-26 12:36:33,669 INFO Launching browser
+2021-09-26 12:36:38,506 INFO Exit
+2021-09-26 12:37:44,153 INFO Launching browser
+2021-09-26 12:37:49,508 INFO Exit
+2021-09-26 12:39:14,189 INFO Launching browser
+2021-09-26 12:39:19,170 INFO Exit
+2021-09-26 12:41:03,607 INFO Launching browser
+2021-09-26 12:41:08,684 INFO Exit
+2021-09-26 12:43:58,965 INFO Launching browser
+2021-09-26 12:44:04,124 INFO Exit
+2021-09-26 12:44:13,489 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-26 12:44:56,818 INFO Launching browser
+2021-09-26 12:45:01,807 INFO Exit
+2021-09-26 12:45:11,302 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-26 12:46:01,190 INFO Launching browser
+2021-09-26 12:46:06,568 INFO Exit
+2021-09-26 12:46:16,156 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-26 18:14:36,384 INFO Launching browser
+2021-09-26 18:14:42,025 INFO Exit
+2021-09-26 18:14:51,593 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-26 18:15:57,212 INFO Launching browser
+2021-09-26 18:16:02,525 INFO Exit
+2021-09-26 18:16:12,292 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-26 18:17:44,533 INFO Launching browser
+2021-09-26 18:17:49,767 INFO Exit
+2021-09-26 18:17:59,671 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-26 18:24:44,097 INFO Launching browser
+2021-09-26 18:24:49,468 INFO Exit
+2021-09-26 18:25:02,092 ERROR element not interactable
+  (Session info: chrome=94.0.4606.61)
+2021-09-26 18:26:48,567 INFO Launching browser
+2021-09-26 18:26:53,758 INFO Exit
+2021-09-26 18:33:49,944 INFO Launching browser
+2021-09-26 18:33:55,453 INFO Exit
+2021-09-26 18:36:58,472 INFO Launching browser
+2021-09-26 18:37:04,350 INFO Exit
+2021-09-26 18:37:21,243 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"#ya\-myab\-address\-add\-link"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-26 18:44:31,268 INFO Launching browser
+2021-09-26 18:44:36,841 INFO Exit
+2021-09-26 18:44:54,137 ERROR Unable to cast object of type 'OpenQA.Selenium.Remote.RemoteWebElement' to type 'OpenQA.Selenium.Support.UI.SelectElement'.
+2021-09-26 18:45:47,756 INFO Launching browser
+2021-09-26 18:45:53,056 INFO Exit
+2021-09-26 18:46:09,970 ERROR Unable to cast object of type 'OpenQA.Selenium.Remote.RemoteWebElement' to type 'OpenQA.Selenium.Support.UI.SelectElement'.
+2021-09-26 18:57:00,783 INFO Launching browser
+2021-09-26 18:57:06,536 INFO Exit
+2021-09-26 18:57:23,915 ERROR Unable to cast object of type 'OpenQA.Selenium.Remote.RemoteWebElement' to type 'OpenQA.Selenium.Support.UI.SelectElement'.
+2021-09-26 18:58:04,021 INFO Launching browser
+2021-09-26 18:58:09,226 INFO Exit
+2021-09-26 18:58:27,170 ERROR Unable to cast object of type 'OpenQA.Selenium.Remote.RemoteWebElement' to type 'OpenQA.Selenium.Support.UI.SelectElement'.
+2021-09-26 18:59:26,296 INFO Launching browser
+2021-09-26 18:59:31,754 INFO Exit
+2021-09-26 18:59:48,365 ERROR Unable to cast object of type 'OpenQA.Selenium.Remote.RemoteWebElement' to type 'OpenQA.Selenium.Support.UI.SelectElement'.
+2021-09-26 19:01:59,745 INFO Launching browser
+2021-09-26 19:02:05,237 INFO Exit
+2021-09-26 19:02:21,499 ERROR Unable to cast object of type 'OpenQA.Selenium.Remote.RemoteWebElement' to type 'OpenQA.Selenium.Support.UI.SelectElement'.
+2021-09-26 19:04:07,418 INFO Launching browser
+2021-09-26 19:04:13,099 INFO Exit
+2021-09-26 19:04:23,357 ERROR no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div[1]/a/div/div/div/div[2]/div/span"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-26 19:04:49,628 INFO Launching browser
+2021-09-26 19:04:54,549 INFO Exit
+2021-09-26 19:05:11,103 ERROR Unable to cast object of type 'OpenQA.Selenium.Remote.RemoteWebElement' to type 'OpenQA.Selenium.Support.UI.SelectElement'.
+2021-09-26 19:06:51,644 INFO Launching browser
+2021-09-26 19:06:56,933 INFO Exit
+2021-09-26 19:07:13,373 ERROR Unable to cast object of type 'OpenQA.Selenium.Remote.RemoteWebElement' to type 'OpenQA.Selenium.Support.UI.SelectElement'.
+2021-09-26 19:13:39,750 INFO Launching browser
+2021-09-26 19:13:45,752 INFO Exit
+2021-09-26 19:14:02,221 ERROR Unable to cast object of type 'OpenQA.Selenium.Remote.RemoteWebElement' to type 'OpenQA.Selenium.Support.UI.SelectElement'.
+2021-09-26 19:17:24,176 INFO Launching browser
+2021-09-26 19:17:30,698 INFO Exit
+2021-09-26 19:17:47,724 ERROR Unable to cast object of type 'OpenQA.Selenium.Remote.RemoteWebElement' to type 'OpenQA.Selenium.Support.UI.SelectElement'.
+2021-09-26 19:18:11,663 INFO Launching browser
+2021-09-26 19:18:16,967 INFO Exit
+2021-09-26 19:18:33,579 ERROR Unable to cast object of type 'OpenQA.Selenium.Remote.RemoteWebElement' to type 'OpenQA.Selenium.Support.UI.SelectElement'.
+2021-09-26 19:27:22,113 INFO Launching browser
+2021-09-26 19:27:27,702 INFO Exit
+2021-09-26 19:27:43,915 ERROR Unable to cast object of type 'OpenQA.Selenium.Remote.RemoteWebElement' to type 'OpenQA.Selenium.Support.UI.SelectElement'.
+2021-09-26 19:29:27,010 INFO Launching browser
+2021-09-26 19:29:32,469 INFO Exit
+2021-09-26 19:29:42,635 ERROR no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div[1]/a/div/div/div/div[2]/div/span"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-26 19:30:07,166 INFO Launching browser
+2021-09-26 19:30:12,535 INFO Exit
+2021-09-26 19:30:28,976 ERROR Unable to cast object of type 'OpenQA.Selenium.Remote.RemoteWebElement' to type 'OpenQA.Selenium.Support.UI.SelectElement'.
+2021-09-26 19:31:16,263 INFO Launching browser
+2021-09-26 19:31:21,687 INFO Exit
+2021-09-26 19:31:38,907 ERROR Unable to cast object of type 'OpenQA.Selenium.Remote.RemoteWebElement' to type 'OpenQA.Selenium.Support.UI.SelectElement'.
+2021-09-26 19:32:59,807 INFO Launching browser
+2021-09-26 19:33:04,692 INFO Exit
+2021-09-26 19:35:22,738 INFO Launching browser
+2021-09-26 19:35:28,468 INFO Exit
+2021-09-26 19:36:30,932 INFO Launching browser
+2021-09-26 19:36:36,683 INFO Exit
+2021-09-26 20:04:50,284 INFO Launching browser
+2021-09-26 20:04:55,253 INFO Exit
+2021-09-26 20:06:13,916 INFO Launching browser
+2021-09-26 20:06:20,946 INFO Exit
+2021-09-26 20:11:07,915 INFO Launching browser
+2021-09-26 20:11:11,813 INFO Exit
+2021-09-26 20:13:34,672 INFO Launching browser
+2021-09-26 20:13:40,167 INFO Exit
+2021-09-26 20:14:04,150 INFO Launching browser
+2021-09-26 20:14:09,180 INFO Exit
+2021-09-26 20:15:59,923 INFO Launching browser
+2021-09-26 20:16:04,452 INFO Exit
+2021-09-26 20:17:50,267 INFO Launching browser
+2021-09-26 20:17:54,484 INFO Exit
+2021-09-26 20:20:35,484 INFO Launching browser
+2021-09-26 20:20:40,284 INFO Exit
+2021-09-26 20:22:42,654 INFO Launching browser
+2021-09-26 20:22:47,657 INFO Exit
+2021-09-26 20:23:14,807 INFO Launching browser
+2021-09-26 20:23:19,205 INFO Exit
+2021-09-26 20:23:49,042 INFO Launching browser
+2021-09-26 20:23:53,547 INFO Exit
+2021-09-26 20:26:54,967 INFO Launching browser
+2021-09-26 20:27:00,082 INFO Exit
+2021-09-26 20:27:56,632 INFO Launching browser
+2021-09-26 20:28:01,558 INFO Exit
+2021-09-26 22:22:20,331 INFO Launching browser
+2021-09-26 22:22:25,624 INFO Exit
+2021-09-26 22:29:19,768 INFO Launching browser
+2021-09-26 22:29:24,499 INFO Exit
+2021-09-26 22:29:34,405 ERROR no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div[1]/a/div/div/div/div[2]/div/span"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-26 22:30:18,494 INFO Launching browser
+2021-09-26 22:30:23,461 INFO Exit
+2021-09-26 22:30:33,108 ERROR no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div[1]/a/div/div/div/div[2]/div/span"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-26 22:30:55,998 INFO Launching browser
+2021-09-26 22:31:00,742 INFO Exit
+2021-09-26 22:31:10,316 ERROR no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div[1]/a/div/div/div/div[2]/div/span"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-26 22:32:01,486 INFO Launching browser
+2021-09-26 22:32:06,027 INFO Exit
+2021-09-26 22:32:15,979 ERROR no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div[1]/a/div/div/div/div[2]/div/span"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-26 22:33:06,810 INFO Launching browser
+2021-09-26 22:33:11,790 INFO Exit
+2021-09-26 22:33:21,645 ERROR no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div[1]/a/div/div/div/div[2]/div/span"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-26 22:33:54,771 INFO Launching browser
+2021-09-26 22:33:59,263 INFO Exit
+2021-09-26 22:34:09,146 ERROR no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div[1]/a/div/div/div/div[2]/div/span"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-26 22:34:32,317 INFO Launching browser
+2021-09-26 22:34:37,093 INFO Exit
+2021-09-26 22:34:46,447 ERROR no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div[1]/a/div/div/div/div[2]/div/span"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-26 22:35:53,856 INFO Launching browser
+2021-09-26 22:35:58,752 INFO Exit
+2021-09-26 22:36:08,247 ERROR no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div[1]/a/div/div/div/div[2]/div/span"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-26 22:37:14,553 INFO Launching browser
+2021-09-26 22:37:19,048 INFO Exit
+2021-09-26 22:38:29,297 INFO Launching browser
+2021-09-26 22:38:34,058 INFO Exit
+2021-09-26 22:38:43,659 ERROR no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div[1]/a/div/div/div/div[2]/div/span"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-26 22:39:25,112 INFO Launching browser
+2021-09-26 22:39:29,878 INFO Exit
+2021-09-26 22:39:39,452 ERROR no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[3]/div[1]/a/div/div/div/div[2]/div/span"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-26 22:41:42,885 INFO Launching browser
+2021-09-26 22:41:47,735 INFO Exit
+2021-09-26 22:49:22,817 INFO Launching browser
+2021-09-26 22:49:27,351 INFO Exit
+2021-09-26 22:51:03,259 INFO Launching browser
+2021-09-26 22:51:08,047 INFO Exit
+2021-09-26 22:54:03,420 INFO Launching browser
+2021-09-26 22:54:08,279 INFO Exit
+2021-09-26 22:54:54,587 INFO Launching browser
+2021-09-26 22:54:59,477 INFO Exit
+2021-09-26 22:55:20,649 INFO Launching browser
+2021-09-26 22:55:25,859 INFO Exit
+2021-09-26 22:58:01,830 INFO Launching browser
+2021-09-26 22:58:06,514 INFO Exit
+2021-09-26 23:00:40,140 INFO Launching browser
+2021-09-26 23:00:45,439 INFO Exit
+2021-09-26 23:02:57,612 INFO Launching browser
+2021-09-26 23:03:02,721 INFO Exit
+2021-09-26 23:03:49,772 INFO Launching browser
+2021-09-26 23:03:54,499 INFO Exit
+2021-09-26 23:18:22,766 INFO Launching browser
+2021-09-26 23:18:27,139 INFO Exit
+2021-09-26 23:18:32,116 INFO Logged Suucessfully
+2021-09-26 23:18:44,100 INFO Launching browser
+2021-09-26 23:18:48,319 INFO Exit
+2021-09-26 23:18:55,336 INFO New account created successfully
+2021-09-26 23:18:57,603 ERROR   Expected string length 501 but was 33. Strings differ at index 33.
+  Expected: "...ps://www.amazon.in/ap/register?showRememberMe=true&openid...."
+  But was:  "...ps://www.amazon.in/ap/register"
+  --------------------------------------------^
+
+2021-09-26 23:18:58,215 INFO Launching browser
+2021-09-26 23:19:03,077 INFO Exit
+2021-09-26 23:19:08,331 ERROR Product not found
+2021-09-26 23:19:17,393 ERROR field not found
+2021-09-26 23:19:24,475 INFO Launching browser
+2021-09-26 23:19:29,067 INFO Exit
+2021-09-26 23:19:40,019 ERROR Product not found
+2021-09-26 23:19:48,376 INFO Added to cart successfully
+2021-09-26 23:19:56,409 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-26 23:19:57,378 INFO Launching browser
+2021-09-26 23:20:01,948 INFO Exit
+2021-09-26 23:20:27,748 INFO Launching browser
+2021-09-26 23:20:32,166 INFO Exit
+2021-09-26 23:21:31,355 INFO Launching browser
+2021-09-26 23:21:35,576 INFO Exit
+2021-09-27 15:00:18,306 INFO Launching browser
+2021-09-27 15:00:23,742 INFO Exit
+2021-09-27 15:00:28,397 INFO Logged Suucessfully
+2021-09-27 15:01:11,829 INFO Launching browser
+2021-09-27 15:01:16,848 INFO Exit
+2021-09-27 15:01:21,154 INFO Logged Suucessfully
+2021-09-27 15:02:48,878 INFO Launching browser
+2021-09-27 15:02:53,716 INFO Exit
+2021-09-27 15:02:58,382 INFO Logged Suucessfully
+2021-09-27 15:04:33,548 INFO Launching browser
+2021-09-27 15:04:38,294 INFO Exit
+2021-09-27 15:04:42,409 INFO Logged Suucessfully
+2021-09-27 15:04:53,939 INFO Launching browser
+2021-09-27 15:04:58,506 INFO Exit
+2021-09-27 15:12:02,676 INFO Launching browser
+2021-09-27 15:12:08,159 INFO Exit
+2021-09-27 15:12:12,845 INFO Logged Suucessfully
+2021-09-27 15:12:23,930 INFO Launching browser
+2021-09-27 15:12:30,210 INFO Exit
+2021-09-27 15:12:37,816 INFO New account created successfully
+2021-09-27 15:12:40,588 INFO Launching browser
+2021-09-27 15:12:45,760 INFO Exit
+2021-09-27 15:12:50,569 ERROR Product not found
+2021-09-27 15:12:57,441 ERROR field not found
+2021-09-27 15:13:04,363 INFO Launching browser
+2021-09-27 15:13:09,035 INFO Exit
+2021-09-27 15:13:20,260 ERROR Product not found
+2021-09-27 15:13:28,556 INFO Added to cart successfully
+2021-09-27 15:13:36,647 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-27 15:13:37,411 INFO Launching browser
+2021-09-27 15:13:42,180 INFO Exit
+2021-09-27 15:14:09,067 INFO Launching browser
+2021-09-27 15:14:14,035 INFO Exit
+2021-09-27 15:15:19,309 INFO Launching browser
+2021-09-27 15:15:23,729 INFO Exit
+2021-09-27 15:15:28,926 INFO Launching browser
+2021-09-27 15:15:33,648 INFO Exit
+2021-09-27 15:30:34,864 INFO Launching browser
+2021-09-27 15:30:39,691 INFO Exit
+2021-09-27 15:31:05,543 ERROR   Expected string length 68 but was 34. Strings differ at index 34.
+  Expected: ".../www.amazon.in/a/addresses?alertId=yaab-enterAddressDuplicate"
+  But was:  ".../www.amazon.in/a/addresses?"
+  -----------------------------------------^
+
+2021-09-27 15:33:26,561 INFO Launching browser
+2021-09-27 15:33:31,068 INFO Exit
+2021-09-27 15:33:57,340 ERROR   Expected string length 68 but was 34. Strings differ at index 34.
+  Expected: ".../www.amazon.in/a/addresses?alertId=yaab-enterAddressDuplicate"
+  But was:  ".../www.amazon.in/a/addresses?"
+  -----------------------------------------^
+
+2021-09-27 15:38:43,318 INFO Launching browser
+2021-09-27 15:38:48,227 INFO Exit
+2021-09-27 15:39:14,580 ERROR no such alert
+  (Session info: chrome=94.0.4606.61)
+2021-09-27 15:40:27,580 INFO Launching browser
+2021-09-27 15:40:32,416 INFO Exit
+2021-09-27 15:40:58,591 ERROR no such alert
+  (Session info: chrome=94.0.4606.61)
+2021-09-27 15:43:31,340 INFO Launching browser
+2021-09-27 15:43:36,358 INFO Exit
+2021-09-27 15:44:02,739 ERROR no such alert
+  (Session info: chrome=94.0.4606.61)
+2021-09-27 15:46:12,694 INFO Launching browser
+2021-09-27 15:46:17,590 INFO Exit
+2021-09-27 15:46:43,355 ERROR no such element: Unable to locate element: {"method":"link text","selector":"Yes"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-27 15:47:40,305 INFO Launching browser
+2021-09-27 15:47:45,254 INFO Exit
+2021-09-27 15:48:10,854 ERROR no such element: Unable to locate element: {"method":"link text","selector":"Remove"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-27 15:48:31,123 INFO Launching browser
+2021-09-27 15:48:37,513 INFO Exit
+2021-09-27 15:49:04,788 ERROR element click intercepted: Element <span id="deleteAddressModal-0-submit-btn-announce" class="a-button-text" aria-hidden="true">...</span> is not clickable at point (756, 467). Other element would receive the click: <input class="a-button-input" type="submit" aria-labelledby="deleteAddressModal-0-submit-btn-announce">
+  (Session info: chrome=94.0.4606.61)
+2021-09-27 15:58:24,324 INFO Launching browser
+2021-09-27 15:58:29,353 INFO Exit
+2021-09-27 15:58:54,787 ERROR no such element: Unable to locate element: {"method":"link text","selector":"Remove"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-27 16:00:11,010 INFO Launching browser
+2021-09-27 16:00:17,703 INFO Exit
+2021-09-27 16:00:45,052 ERROR   Expected string length 66 but was 34. Strings differ at index 34.
+  Expected: "...://www.amazon.in/a/addresses?alertId=yaab-enterAddressSucceed"
+  But was:  "...://www.amazon.in/a/addresses?"
+  -------------------------------------------^
+
+2021-09-27 16:01:52,035 INFO Launching browser
+2021-09-27 16:01:57,395 INFO Exit

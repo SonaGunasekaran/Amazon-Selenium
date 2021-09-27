@@ -1,11 +1,11 @@
-﻿
-
-using AventStack.ExtentReports.Utils;
+﻿/*
+ * Project:Amazon Application-Selenium WebDriver
+ * Author:Sona G
+ * Date :23/09/2021
+ */
 using OpenQA.Selenium;
 using System;
 using System.Collections.Generic;
-using OpenQA.Selenium.Support.UI;
-using System.Linq;
 
 namespace AutomateAmazonApp.Pages.SearchProduct
 {
