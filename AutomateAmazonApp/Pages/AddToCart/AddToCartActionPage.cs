@@ -43,7 +43,7 @@ namespace AutomateAmazonApp.Pages.AddToCart
                 add.proceedtobtn.Click();
                 logger.Info(" Items are proceed to buy ");
                 logger.Error("Field not found");
-                ((ITakesScreenshot)driver).GetScreenshot().SaveAsFile("Test.png", ScreenshotImageFormat.Png);
+                Takescreenshot();
                 System.Threading.Thread.Sleep(4000);
 
                 //enter the email address 

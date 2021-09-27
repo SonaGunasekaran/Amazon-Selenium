@@ -1,10 +1,11 @@
-﻿
-
-using AventStack.ExtentReports.Utils;
+﻿/*
+ * Project:Amazon Application-Selenium WebDriver
+ * Author:Sona G
+ * Date :23/09/2021
+ */
 using OpenQA.Selenium;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace AutomateAmazonApp.Pages.SearchProduct
 {
@@ -12,8 +13,8 @@ namespace AutomateAmazonApp.Pages.SearchProduct
     {
         public static void GetProductAndRating()
         {
-            IWebElement search=driver.FindElement(By.Id("twotabsearchtextbox"));
-           //enter the search item to search
+            IWebElement search = driver.FindElement(By.Id("twotabsearchtextbox"));
+            //enter the search item to search
             search.SendKeys("women boots");
 
             //click on search icon
@@ -58,20 +59,23 @@ namespace AutomateAmazonApp.Pages.SearchProduct
             Console.WriteLine("*****************Product Rating**********************");
 
             IList<string> productRating = new List<string>();
-            foreach (var rating in driver.FindElements(By.XPath("//*[@class='a-icon a-icon-star-small a-star-small-4 aok-align-bottom']")))
+            foreach (var r in driver.FindElements(By.XPath("//*[@class='a-popover-trigger a-declarative']")))
             {
-                if (!string.IsNullOrEmpty(rating.Text))
+                r.Click();
+                System.Threading.Thread.Sleep(5000);
+                foreach (var rating in driver.FindElements(By.CssSelector("span[class='a-size-medium a-color-base a-text-beside-button a-text-bold']")))
                 {
-                    productRating.Add(rating.Text);
-                    Console.WriteLine("Product Rating {0}", rating.Text);
-                }
-
-                else
-                {
-                    productRating.Remove(rating.Text);
+                    if (!string.IsNullOrEmpty(rating.Text))
+                    {
+                        productRating.Add(rating.Text);
+                        Console.WriteLine("Product Rating {0}", rating.Text);
+                    }
+                    else
+                    {
+                        productRating.Remove(rating.Text);
+                    }
                 }
             }
-
         }
     }
 }

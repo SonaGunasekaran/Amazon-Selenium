@@ -27,6 +27,14 @@ namespace AutomateAmazonApp.Pages.LoginPage
         [CacheLookup]
         public IWebElement continuebtn;
 
+        [FindsBy(How = How.LinkText, Using = "Forgot Password")]
+        [CacheLookup]
+        public IWebElement forgetPass;
+
+        [FindsBy(How = How.Id, Using = "continue")]
+        [CacheLookup]
+        public IWebElement contbtn;
+
         [FindsBy(How = How.Name, Using = "password")]
         [CacheLookup]
         public IWebElement password;

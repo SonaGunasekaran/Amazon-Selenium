@@ -37,20 +37,20 @@ namespace AutomateAmazonApp.Pages.LoginPage
 
                         //enter the email
                         login.email.SendKeys(column[0]);
-                        System.Threading.Thread.Sleep(2000);
+                        System.Threading.Thread.Sleep(500);
 
                         //click on continue button
                         login.continuebtn.Click();
-                        System.Threading.Thread.Sleep(1000);
+                        System.Threading.Thread.Sleep(500);
 
                         //enter the password 
                         login.password.SendKeys(column[1]);
-                        System.Threading.Thread.Sleep(1000);
+                        System.Threading.Thread.Sleep(500);
 
                         //click on loginbutton
                         login.signbtn.Click();
                         logger.Info("Logged Suucessfully");
-                        System.Threading.Thread.Sleep(1000);
+                        System.Threading.Thread.Sleep(500);
 
                         Assert.AreEqual(driver.Url,"https://www.amazon.in/?ref_=nav_ya_signin&");
                     }
