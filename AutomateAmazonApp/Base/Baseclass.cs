@@ -10,6 +10,7 @@ using log4net.Config;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Firefox;
 using System.IO;
 using System.Reflection;
 
@@ -52,15 +53,15 @@ namespace AutomateAmazonApp.Base
         {
             ITakesScreenshot screenshotDriver = driver as ITakesScreenshot;
             Screenshot screenshot = screenshotDriver.GetScreenshot();
-            screenshot.SaveAsFile(@"C:\Users\sona.g\source\repos\AutomateAmazonApp\AutomateAmazonApp\Screenshot\Test6.png");
+            screenshot.SaveAsFile(@"C:\Users\sona.g\source\repos\AutomateAmazonApp\AutomateAmazonApp\Screenshot\Test9.png");
         }
 
         [TearDown]
         public void TearDown()
         {
             Takescreenshot();
-            test.Info("Details", MediaEntityBuilder.CreateScreenCaptureFromPath(@"C:\Users\sona.g\source\repos\AutomateAmazonApp\AutomateAmazonApp\Screenshot\Test6.jpg").Build());
-
+            test.Info("Details", MediaEntityBuilder.CreateScreenCaptureFromPath(@"C:\Users\sona.g\source\repos\AutomateAmazonApp\AutomateAmazonApp\Screenshot\Test9.png").Build());
+            
             test.Log(Status.Pass, "Test Passes");
 
             reports.Flush();

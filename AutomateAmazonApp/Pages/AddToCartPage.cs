@@ -6,7 +6,7 @@
 using OpenQA.Selenium;
 using SeleniumExtras.PageObjects;
 
-namespace AutomateAmazonApp.AddToCart
+namespace AutomateAmazonApp.Pages
 {
     public class AddToCartPage
     {
@@ -23,7 +23,7 @@ namespace AutomateAmazonApp.AddToCart
         [CacheLookup]
         public IWebElement searchIcon;
 
-        [FindsBy(How = How.XPath, Using = "//*[@class='_bXVsd_gridColumn_2Jfab']")]
+        [FindsBy(How = How.XPath, Using = "/html/body/div[1]/div[2]/div[1]/div[1]/div/span[3]/div[2]/div[1]/span/div/div/div[1]/div[2]/div[1]/div/div[1]/a/div/img")]
         [CacheLookup]
         public IWebElement product;
 
@@ -39,20 +39,8 @@ namespace AutomateAmazonApp.AddToCart
         [CacheLookup]
         public IWebElement proceedtobtn;
 
-        [FindsBy(How = How.Name, Using = "email")]
+        [FindsBy(How = How.ClassName, Using = "a-size-medium-plus a-color-base sw-atc-text a-text-bold")]
         [CacheLookup]
-        public IWebElement email;
-
-        [FindsBy(How = How.Id, Using = "continue")]
-        [CacheLookup]
-        public IWebElement continuebtn;
-
-        [FindsBy(How = How.Name, Using = "password")]
-        [CacheLookup]
-        public IWebElement password;
-
-        [FindsBy(How = How.Id, Using = "signInSubmit")]
-        [CacheLookup]
-        public IWebElement signbtn;
+        public IWebElement addedCart;
     }
 }

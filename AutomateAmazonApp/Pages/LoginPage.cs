@@ -6,7 +6,7 @@
 using OpenQA.Selenium;
 using SeleniumExtras.PageObjects;
 
-namespace AutomateAmazonApp.Pages.LoginPage
+namespace AutomateAmazonApp.Pages
 {
     public class LoginPage
     {
@@ -19,6 +19,10 @@ namespace AutomateAmazonApp.Pages.LoginPage
         [CacheLookup]
         public IWebElement signIn;
 
+        [FindsBy(How = How.ClassName, Using = "a-spacing-small")]
+        [CacheLookup]
+        public IWebElement signInTitle;
+        
         [FindsBy(How = How.Name, Using = "email")]
         [CacheLookup]
         public IWebElement email;

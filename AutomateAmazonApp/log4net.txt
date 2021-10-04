@@ -1615,3 +1615,1189 @@ from unknown error: web view not found
 
 2021-09-27 16:01:52,035 INFO Launching browser
 2021-09-27 16:01:57,395 INFO Exit
+2021-09-27 16:36:04,871 INFO Launching browser
+2021-09-27 16:36:10,077 INFO Exit
+2021-09-27 16:36:14,781 INFO Logged Suucessfully
+2021-09-27 16:36:28,006 INFO Launching browser
+2021-09-27 16:36:33,381 INFO Exit
+2021-09-27 16:36:40,772 INFO New account created successfully
+2021-09-27 16:36:43,146 ERROR   Expected string length 501 but was 33. Strings differ at index 33.
+  Expected: "...ps://www.amazon.in/ap/register?showRememberMe=true&openid...."
+  But was:  "...ps://www.amazon.in/ap/register"
+  --------------------------------------------^
+
+2021-09-27 16:36:44,812 INFO Launching browser
+2021-09-27 16:36:49,677 INFO Exit
+2021-09-27 16:36:55,283 ERROR Product not found
+2021-09-27 16:37:04,495 ERROR field not found
+2021-09-27 16:37:11,833 INFO Launching browser
+2021-09-27 16:37:16,784 INFO Exit
+2021-09-27 16:37:28,054 ERROR Product not found
+2021-09-27 16:37:36,360 INFO Added to cart successfully
+2021-09-27 16:37:44,423 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-27 16:37:45,146 INFO Launching browser
+2021-09-27 16:37:49,907 INFO Exit
+2021-09-27 16:38:18,045 INFO Launching browser
+2021-09-27 16:38:23,692 INFO Exit
+2021-09-27 16:40:43,697 INFO Launching browser
+2021-09-27 16:40:48,637 INFO Exit
+2021-09-27 16:40:54,899 INFO Launching browser
+2021-09-27 16:41:00,254 INFO Exit
+2021-09-27 17:01:27,088 INFO Launching browser
+2021-09-27 17:01:33,175 INFO Exit
+2021-09-28 11:27:50,861 INFO Launching browser
+2021-09-28 11:27:56,182 INFO Exit
+2021-09-28 11:28:22,208 INFO Launching browser
+2021-09-28 11:28:27,479 INFO Exit
+2021-09-28 11:31:32,404 INFO Launching browser
+2021-09-28 11:31:39,058 INFO Exit
+2021-09-28 11:33:10,064 INFO Launching browser
+2021-09-28 11:33:15,497 INFO Exit
+2021-09-28 12:27:07,666 INFO Launching browser
+2021-09-28 12:27:13,402 INFO Exit
+2021-09-28 12:27:17,910 INFO Logged Suucessfully
+2021-09-28 12:28:22,669 INFO Launching browser
+2021-09-28 12:28:29,508 INFO Exit
+2021-09-28 12:47:46,380 INFO Launching browser
+2021-09-28 12:47:52,062 INFO Exit
+2021-09-28 12:47:57,814 ERROR Product not found
+2021-09-28 12:47:59,876 ERROR Could not find element by: By.Id: buy-now-button
+2021-09-28 12:48:47,481 INFO Launching browser
+2021-09-28 12:48:52,752 INFO Exit
+2021-09-28 12:48:58,207 ERROR Product not found
+2021-09-28 12:49:06,265 ERROR Could not find element by: By.Id: buy-now-button
+2021-09-28 12:58:53,019 INFO Launching browser
+2021-09-28 12:59:00,007 INFO Exit
+2021-09-28 12:59:05,928 ERROR Could not find element by: By.CssSelector: div[data-asin='B09DY5QRVR']
+2021-09-28 12:59:23,206 INFO Launching browser
+2021-09-28 12:59:27,713 INFO Exit
+2021-09-28 12:59:33,048 ERROR Product not found
+2021-09-28 12:59:41,095 ERROR Could not find element by: By.Id: buy-now-button
+2021-09-28 13:02:15,340 INFO Launching browser
+2021-09-28 13:02:20,220 INFO Exit
+2021-09-28 13:02:25,691 ERROR Product not found
+2021-09-28 13:02:33,732 ERROR Could not find element by: By.Id: buy-now-button
+2021-09-28 13:04:34,312 INFO Launching browser
+2021-09-28 13:04:38,692 INFO Exit
+2021-09-28 13:04:43,634 ERROR Could not find element by: By.CssSelector: //*[@data-image-index='1']
+2021-09-28 13:05:27,297 INFO Launching browser
+2021-09-28 13:05:31,879 INFO Exit
+2021-09-28 13:05:36,972 ERROR Could not find element by: By.CssSelector: //img[@class='s-image']
+2021-09-28 13:06:10,695 INFO Launching browser
+2021-09-28 13:06:15,313 INFO Exit
+2021-09-28 13:06:20,916 ERROR Product not found
+2021-09-28 13:06:28,968 ERROR Could not find element by: By.Id: buy-now-button
+2021-09-28 13:07:22,657 INFO Launching browser
+2021-09-28 13:07:27,329 INFO Exit
+2021-09-28 13:07:32,355 ERROR Product not found
+2021-09-28 13:07:40,407 ERROR Could not find element by: By.Id: buy-now-button
+2021-09-28 13:08:48,694 INFO Launching browser
+2021-09-28 13:08:53,740 INFO Exit
+2021-09-28 13:08:59,409 ERROR Product not found
+2021-09-28 13:09:09,531 ERROR field not found
+2021-09-28 13:11:51,564 INFO Launching browser
+2021-09-28 13:11:56,168 INFO Exit
+2021-09-28 13:12:01,165 ERROR Product not found
+2021-09-28 13:12:10,915 ERROR field not found
+2021-09-28 13:13:11,276 INFO Launching browser
+2021-09-28 13:13:15,952 INFO Exit
+2021-09-28 13:13:21,115 ERROR Could not find element by: By.XPath: //*[@class='_bXVsd_gridColumn_2Jfab']
+2021-09-28 13:13:41,231 INFO Launching browser
+2021-09-28 13:13:45,678 INFO Exit
+2021-09-28 13:13:51,549 ERROR Product not found
+2021-09-28 13:14:02,676 ERROR field not found
+2021-09-28 13:19:23,764 INFO Launching browser
+2021-09-28 13:19:28,666 INFO Exit
+2021-09-28 13:19:34,635 ERROR Could not find element by: By.XPath: //*[@class='_bXVsd_tint_M0L-m']
+2021-09-28 13:19:57,241 INFO Launching browser
+2021-09-28 13:20:02,044 INFO Exit
+2021-09-28 13:20:09,104 ERROR Exception has been thrown by the target of an invocation.
+2021-09-28 13:21:31,635 INFO Launching browser
+2021-09-28 13:21:36,219 INFO Exit
+2021-09-28 13:21:41,631 ERROR Could not find element by: By.XPath: //*[@class='_bXVsd_tint_M0L-m']
+2021-09-28 13:22:55,743 INFO Launching browser
+2021-09-28 13:23:01,357 INFO Exit
+2021-09-28 13:23:06,273 ERROR Product not found
+2021-09-28 13:23:15,139 ERROR field not found
+2021-09-28 21:13:42,023 INFO Launching browser
+2021-09-28 21:13:46,947 INFO Exit
+2021-09-28 21:13:47,197 ERROR no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=94.0.4606.61)
+2021-09-28 21:14:16,754 INFO Launching browser
+2021-09-28 21:14:21,834 INFO Exit
+2021-09-28 21:14:27,180 ERROR Product not found
+2021-09-28 21:14:29,276 ERROR Could not find element by: By.Id: buy-now-button
+2021-09-28 21:16:20,562 INFO Launching browser
+2021-09-28 21:16:25,727 INFO Exit
+2021-09-28 21:16:33,814 ERROR Product not found
+2021-09-28 21:16:43,901 ERROR Could not find element by: By.Id: buy-now-button
+2021-09-28 21:22:30,917 INFO Launching browser
+2021-09-28 21:22:36,149 INFO Exit
+2021-09-28 21:22:43,418 ERROR Exception has been thrown by the target of an invocation.
+2021-09-28 21:23:27,900 INFO Launching browser
+2021-09-28 21:23:33,075 INFO Exit
+2021-09-28 21:23:41,769 ERROR Could not find element by: By.XPath: //*[@class='_bXVsd_tint_M0L-m']
+2021-09-28 21:25:46,813 INFO Launching browser
+2021-09-28 21:25:52,050 INFO Exit
+2021-09-28 21:25:58,699 ERROR Product not found
+2021-09-28 21:26:08,739 ERROR Could not find element by: By.Id: buy-now-button
+2021-09-28 21:27:13,336 INFO Launching browser
+2021-09-28 21:27:18,590 INFO Exit
+2021-09-28 21:27:25,895 ERROR Product not found
+2021-09-28 21:27:36,135 ERROR Could not find element by: By.Id: buy-now-button
+2021-09-28 21:29:16,180 INFO Launching browser
+2021-09-28 21:29:21,298 INFO Exit
+2021-09-28 21:29:27,115 ERROR Could not find element by: By.XPath: //*[@class='_bGlmZ_itemImage_2uzWz']
+2021-09-28 21:31:47,877 INFO Launching browser
+2021-09-28 21:31:53,220 INFO Exit
+2021-09-28 21:31:58,491 ERROR Product not found
+2021-09-28 21:32:08,595 ERROR Could not find element by: By.Id: buy-now-button
+2021-09-28 21:33:53,208 INFO Launching browser
+2021-09-28 21:33:57,796 INFO Exit
+2021-09-28 21:34:08,915 ERROR Product not found
+2021-09-28 21:34:17,260 INFO Added to cart successfully
+2021-09-28 21:34:39,046 INFO  Items are proceed to buy 
+2021-09-28 21:34:39,047 ERROR Field not found
+2021-09-28 21:35:59,203 INFO Launching browser
+2021-09-28 21:36:04,409 INFO Exit
+2021-09-28 21:36:15,769 ERROR Product not found
+2021-09-28 21:36:23,855 ERROR Could not find element by: By.Id: add-to-cart-button
+2021-09-28 21:44:22,658 INFO Launching browser
+2021-09-28 21:44:27,983 INFO Exit
+2021-09-28 21:44:33,955 ERROR Product not found
+2021-09-28 21:44:45,796 ERROR field not found
+2021-09-28 21:44:53,999 ERROR   Expected string length 87 but was 114. Strings differ at index 29.
+  Expected: "https://www.amazon.in/gp/buy/addressselect/handlers/display.h..."
+  But was:  "https://www.amazon.in/gp/buy/itemselect/handlers/display.html..."
+  ----------------------------------------^
+
+2021-09-28 21:51:20,248 INFO Launching browser
+2021-09-28 21:51:25,846 INFO Exit
+2021-09-28 21:51:31,865 ERROR Could not find element by: By.XPath: /html/body/div[1]/div[2]/div[1]/div[1]/div/span[3]/div[2]/div[1]/span/div/div/div[1]/div[2]/div[1]/div/div[1]/a/div/img
+2021-09-28 21:53:58,103 INFO Launching browser
+2021-09-28 21:54:03,355 INFO Exit
+2021-09-28 21:54:09,112 ERROR Product not found
+2021-09-28 21:54:21,282 ERROR field not found
+2021-09-28 21:56:13,869 INFO Launching browser
+2021-09-28 21:56:18,760 INFO Exit
+2021-09-28 21:56:24,562 ERROR Product not found
+2021-09-28 21:56:37,149 ERROR field not found
+2021-09-28 21:56:46,370 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"#ya\-myab\-address\-add\-link"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-28 21:58:23,941 INFO Launching browser
+2021-09-28 21:58:29,824 INFO Exit
+2021-09-28 21:58:35,514 ERROR Product not found
+2021-09-28 21:58:48,744 ERROR field not found
+2021-09-28 21:59:04,874 ERROR element not interactable: Element is not currently visible and may not be manipulated
+  (Session info: chrome=94.0.4606.61)
+2021-09-28 21:59:36,148 INFO Launching browser
+2021-09-28 21:59:42,218 INFO Exit
+2021-09-28 21:59:47,677 ERROR Product not found
+2021-09-28 21:59:59,665 ERROR field not found
+2021-09-28 22:00:12,591 ERROR element not interactable: Element is not currently visible and may not be manipulated
+  (Session info: chrome=94.0.4606.61)
+2021-09-28 22:01:11,981 INFO Launching browser
+2021-09-28 22:01:17,411 INFO Exit
+2021-09-28 22:01:23,709 ERROR Product not found
+2021-09-28 22:01:37,566 ERROR field not found
+2021-09-28 22:01:54,086 ERROR element not interactable: Element is not currently visible and may not be manipulated
+  (Session info: chrome=94.0.4606.61)
+2021-09-28 22:03:48,634 INFO Launching browser
+2021-09-28 22:03:53,542 INFO Exit
+2021-09-28 22:03:58,753 ERROR Product not found
+2021-09-28 22:04:10,555 ERROR field not found
+2021-09-28 22:04:26,527 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"*[name="a-icon a-icon-dropdown"]"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-28 22:05:06,659 INFO Launching browser
+2021-09-28 22:05:12,903 INFO Exit
+2021-09-28 22:05:18,375 ERROR Product not found
+2021-09-28 22:05:30,169 ERROR field not found
+2021-09-28 22:05:46,379 ERROR Compound class names not allowed. Cannot have whitespace in class name. Use CSS selectors instead.
+2021-09-28 22:07:10,538 INFO Launching browser
+2021-09-28 22:07:16,155 INFO Exit
+2021-09-28 22:07:21,322 ERROR Product not found
+2021-09-28 22:07:33,093 ERROR field not found
+2021-09-28 22:07:50,081 ERROR Element should have been select but was i
+2021-09-28 22:09:09,313 INFO Launching browser
+2021-09-28 22:09:14,629 INFO Exit
+2021-09-28 22:09:20,487 ERROR Product not found
+2021-09-28 22:09:32,300 ERROR field not found
+2021-09-28 22:09:48,873 ERROR element not interactable: Element is not currently visible and may not be manipulated
+  (Session info: chrome=94.0.4606.61)
+2021-09-28 22:17:19,775 INFO Launching browser
+2021-09-28 22:17:24,690 INFO Exit
+2021-09-28 22:17:30,914 ERROR Product not found
+2021-09-28 22:17:42,877 ERROR field not found
+2021-09-28 22:17:59,273 ERROR Cannot locate option with value:  Home (7 am – 9 pm delivery) 
+2021-09-28 22:19:12,091 INFO Launching browser
+2021-09-28 22:19:16,769 INFO Exit
+2021-09-28 22:19:22,067 ERROR Product not found
+2021-09-28 22:19:34,407 ERROR field not found
+2021-09-28 22:19:50,244 ERROR element not interactable: Element is not currently visible and may not be manipulated
+  (Session info: chrome=94.0.4606.61)
+2021-09-28 22:24:53,222 INFO Launching browser
+2021-09-28 22:24:58,081 INFO Exit
+2021-09-28 22:26:56,281 INFO Launching browser
+2021-09-28 22:27:01,333 INFO Exit
+2021-09-28 22:27:11,612 ERROR Product not found
+2021-09-28 22:27:23,211 ERROR field not found
+2021-09-28 22:27:34,652 ERROR element not interactable: Element is not currently visible and may not be manipulated
+  (Session info: chrome=94.0.4606.61)
+2021-09-28 22:34:06,095 INFO Launching browser
+2021-09-28 22:34:10,713 INFO Exit
+2021-09-28 22:34:16,112 ERROR Product not found
+2021-09-28 22:34:28,073 ERROR field not found
+2021-09-28 22:34:34,942 ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='ship-to-this-address a-button a-button-primary a-button-span12 a-spacing-medium']"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-28 22:35:50,410 INFO Launching browser
+2021-09-28 22:35:54,801 INFO Exit
+2021-09-28 22:36:00,006 ERROR Product not found
+2021-09-28 22:36:11,857 ERROR field not found
+2021-09-28 22:36:18,450 ERROR no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='a-declarative a-button-text']"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-28 22:38:36,900 INFO Launching browser
+2021-09-28 22:38:41,539 INFO Exit
+2021-09-28 22:38:46,956 ERROR Product not found
+2021-09-28 22:38:58,873 ERROR field not found
+2021-09-28 22:39:09,837 ERROR   Expected string length 83 but was 66. Strings differ at index 22.
+  Expected: "...gp/buy/payselect/handlers/display.html?hasWorkingJavascript=1"
+  But was:  "...a/addresses?alertId=yaab-enterAddressSucceed"
+  --------------^
+
+2021-09-28 22:41:18,180 INFO Launching browser
+2021-09-28 22:41:22,663 INFO Exit
+2021-09-28 22:41:27,726 ERROR Product not found
+2021-09-28 22:41:39,458 ERROR field not found
+2021-09-28 22:41:49,806 ERROR   Expected string length 83 but was 66. Strings differ at index 22.
+  Expected: "...gp/buy/payselect/handlers/display.html?hasWorkingJavascript=1"
+  But was:  "...a/addresses?alertId=yaab-enterAddressSucceed"
+  --------------^
+
+2021-09-28 22:49:01,080 INFO Launching browser
+2021-09-28 22:49:05,779 INFO Exit
+2021-09-28 22:49:11,120 ERROR Product not found
+2021-09-28 22:49:22,853 ERROR field not found
+2021-09-28 22:49:30,120 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"*[name=""]"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-28 22:53:46,211 INFO Launching browser
+2021-09-28 22:53:50,643 INFO Exit
+2021-09-28 22:53:55,547 ERROR Product not found
+2021-09-28 22:54:07,282 ERROR field not found
+2021-09-28 22:54:19,481 ERROR Element should have been select but was span
+2021-09-28 22:55:36,803 INFO Launching browser
+2021-09-28 22:55:41,275 INFO Exit
+2021-09-28 22:55:46,801 ERROR Product not found
+2021-09-28 22:55:58,672 ERROR field not found
+2021-09-28 22:56:10,392 ERROR element not interactable: Element is not currently visible and may not be manipulated
+  (Session info: chrome=94.0.4606.61)
+2021-09-29 18:04:57,559 INFO Launching browser
+2021-09-29 18:05:03,840 INFO Exit
+2021-09-29 18:05:09,870 ERROR Product not found
+2021-09-29 18:05:21,603 ERROR field not found
+2021-09-29 18:05:33,247 ERROR element not interactable: Element is not currently visible and may not be manipulated
+  (Session info: chrome=94.0.4606.61)
+2021-09-29 18:26:04,003 INFO Launching browser
+2021-09-29 18:26:09,765 INFO Exit
+2021-09-29 18:26:16,038 ERROR Product not found
+2021-09-29 18:26:27,677 ERROR field not found
+2021-09-29 18:26:39,577 ERROR element not interactable: Element is not currently visible and may not be manipulated
+  (Session info: chrome=94.0.4606.61)
+2021-09-29 18:26:45,601 INFO Launching browser
+2021-09-29 18:26:50,592 INFO Exit
+2021-09-29 18:27:02,379 ERROR Product not found
+2021-09-29 18:27:13,194 INFO Added to cart successfully
+2021-09-29 18:27:21,243 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-29 18:32:53,973 INFO Launching browser
+2021-09-29 18:32:59,826 INFO Exit
+2021-09-29 18:33:11,311 ERROR Product not found
+2021-09-29 18:33:20,798 INFO Added to cart successfully
+2021-09-29 18:33:28,854 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-29 21:33:04,539 INFO Launching browser
+2021-09-29 21:33:11,171 INFO Exit
+2021-09-29 21:33:22,681 ERROR Product not found
+2021-09-29 21:33:32,091 INFO Added to cart successfully
+2021-09-29 21:33:40,173 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-29 21:36:11,358 INFO Launching browser
+2021-09-29 21:36:16,156 INFO Exit
+2021-09-29 21:36:20,872 ERROR Product not found
+2021-09-29 21:36:32,531 ERROR field not found
+2021-09-29 21:36:43,914 ERROR element not interactable: Element is not currently visible and may not be manipulated
+  (Session info: chrome=94.0.4606.61)
+2021-09-29 21:47:59,738 INFO Launching browser
+2021-09-29 21:48:07,265 INFO Exit
+2021-09-29 21:48:12,512 INFO Logged Suucessfully
+2021-09-29 21:48:22,108 ERROR Product not found
+2021-09-29 21:48:35,497 ERROR field not found
+2021-09-29 21:48:37,706 ERROR Could not find element by: By.Name: email
+2021-09-29 21:48:59,623 INFO Launching browser
+2021-09-29 21:49:12,014 INFO Exit
+2021-09-29 21:49:17,606 INFO Logged Suucessfully
+2021-09-29 21:49:28,146 ERROR Product not found
+2021-09-29 21:49:40,922 ERROR field not found
+2021-09-29 21:49:43,113 ERROR Could not find element by: By.Name: email
+2021-09-29 21:50:39,216 INFO Launching browser
+2021-09-29 21:50:48,410 INFO Exit
+2021-09-29 21:50:53,748 INFO Logged Suucessfully
+2021-09-29 21:51:04,619 INFO Launching browser
+2021-09-29 21:51:13,132 INFO Exit
+2021-09-29 21:51:17,915 INFO Logged Suucessfully
+2021-09-29 21:51:28,734 ERROR Product not found
+2021-09-29 21:51:41,521 ERROR field not found
+2021-09-29 21:51:43,762 ERROR Could not find element by: By.Name: email
+2021-09-29 22:07:44,499 INFO Launching browser
+2021-09-29 22:07:51,767 INFO Exit
+2021-09-29 22:07:56,246 INFO Logged Suucessfully
+2021-09-29 22:08:08,180 INFO Launching browser
+2021-09-29 22:08:13,040 INFO Exit
+2021-09-29 22:08:17,230 INFO Logged Suucessfully
+2021-09-29 22:08:25,857 ERROR Product not found
+2021-09-29 22:08:38,289 ERROR field not found
+2021-09-29 22:08:40,510 ERROR Could not find element by: By.Name: email
+2021-09-29 22:14:31,131 INFO Launching browser
+2021-09-29 22:14:35,939 INFO Exit
+2021-09-29 22:14:40,578 INFO Logged Suucessfully
+2021-09-29 22:14:51,765 INFO Launching browser
+2021-09-29 22:14:56,560 INFO Exit
+2021-09-29 22:15:00,908 INFO Logged Suucessfully
+2021-09-29 22:15:09,095 ERROR Product not found
+2021-09-29 22:15:19,203 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"#address\-ui\-widgets\-enterAddressFullName"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-29 22:18:22,152 INFO Launching browser
+2021-09-29 22:18:26,910 INFO Exit
+2021-09-29 22:18:31,916 INFO Logged Suucessfully
+2021-09-29 22:18:42,787 INFO Launching browser
+2021-09-29 22:18:47,477 INFO Exit
+2021-09-29 22:18:51,921 INFO Logged Suucessfully
+2021-09-29 22:18:59,685 ERROR Product not found
+2021-09-29 22:19:09,802 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"#address\-ui\-widgets\-enterAddressFullName"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-29 22:19:57,307 INFO Launching browser
+2021-09-29 22:20:02,487 INFO Exit
+2021-09-29 22:20:06,467 INFO Logged Suucessfully
+2021-09-29 22:20:17,606 INFO Launching browser
+2021-09-29 22:20:22,477 INFO Exit
+2021-09-29 22:20:26,405 INFO Logged Suucessfully
+2021-09-29 22:20:34,887 ERROR Product not found
+2021-09-29 22:20:45,003 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"#address\-ui\-widgets\-enterAddressFullName"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-29 22:20:47,157 INFO Added to cart successfully
+2021-09-29 22:20:55,228 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-29 22:29:26,219 INFO Launching browser
+2021-09-29 22:29:31,251 INFO Exit
+2021-09-29 22:29:35,789 INFO Logged Suucessfully
+2021-09-29 22:29:46,775 INFO Launching browser
+2021-09-29 22:29:51,423 INFO Exit
+2021-09-29 22:29:57,089 INFO Logged Suucessfully
+2021-09-29 22:30:06,066 ERROR Product not found
+2021-09-29 22:30:16,185 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"#address\-ui\-widgets\-enterAddressFullName"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-29 22:30:17,801 INFO Added to cart successfully
+2021-09-29 22:30:25,879 ERROR Could not find element by: By.XPath: /html/body/div[2]/div[2]/div[5]/div[4]/div[1]/div[9]/div/div[1]/div/div/div[1]/div[3]/div[1]/div[2]/div[3]/form/span/span/input
+2021-09-29 22:31:11,320 INFO Launching browser
+2021-09-29 22:31:26,161 INFO Exit
+2021-09-29 22:31:30,964 INFO Logged Suucessfully
+2021-09-29 22:31:43,887 INFO Launching browser
+2021-09-29 22:31:48,567 INFO Exit
+2021-09-29 22:31:52,698 INFO Logged Suucessfully
+2021-09-29 22:32:00,892 ERROR Product not found
+2021-09-29 22:32:11,017 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"#address\-ui\-widgets\-enterAddressFullName"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-29 22:33:36,327 INFO Launching browser
+2021-09-29 22:33:41,453 INFO Exit
+2021-09-29 22:33:45,647 INFO Logged Suucessfully
+2021-09-29 22:33:56,736 INFO Launching browser
+2021-09-29 22:34:01,640 INFO Exit
+2021-09-29 22:34:05,880 INFO Logged Suucessfully
+2021-09-29 22:34:13,634 ERROR Product not found
+2021-09-29 22:34:23,756 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"#address\-ui\-widgets\-enterAddressFullName"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-29 22:35:57,862 INFO Launching browser
+2021-09-29 22:36:02,893 INFO Exit
+2021-09-29 22:36:07,582 INFO Logged Suucessfully
+2021-09-29 22:36:17,169 INFO Launching browser
+2021-09-29 22:36:30,494 INFO Exit
+2021-09-29 22:36:35,031 INFO Logged Suucessfully
+2021-09-29 22:36:45,311 ERROR Product not found
+2021-09-29 22:37:53,274 INFO Launching browser
+2021-09-29 22:37:58,356 INFO Exit
+2021-09-29 22:38:03,069 INFO Logged Suucessfully
+2021-09-29 22:38:11,740 ERROR Product not found
+2021-09-29 22:39:21,102 INFO Launching browser
+2021-09-29 22:39:25,945 INFO Exit
+2021-09-29 22:39:30,314 INFO Logged Suucessfully
+2021-09-29 22:39:38,685 ERROR Product not found
+2021-09-29 22:43:01,786 INFO Launching browser
+2021-09-29 22:43:07,197 INFO Exit
+2021-09-29 22:43:12,058 INFO Logged Suucessfully
+2021-09-29 22:43:20,506 ERROR Product not found
+2021-09-29 22:43:33,112 ERROR field not found
+2021-09-29 22:44:19,409 INFO Launching browser
+2021-09-29 22:44:24,586 INFO Exit
+2021-09-29 22:44:28,862 INFO Logged Suucessfully
+2021-09-29 22:44:37,793 ERROR Product not found
+2021-09-29 22:44:50,069 ERROR field not found
+2021-09-29 22:44:57,037 ERROR no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div[2]/div/div[2]/form/span/div/span/span/span/input"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-29 22:47:22,430 INFO Launching browser
+2021-09-29 22:47:27,147 INFO Exit
+2021-09-29 22:47:31,715 INFO Logged Suucessfully
+2021-09-29 22:47:40,308 ERROR Product not found
+2021-09-29 22:47:52,793 ERROR field not found
+2021-09-29 22:48:00,857 ERROR element click intercepted: Element <span id="address-ui-widgets-form-submit-button-announce" class="a-button-text" aria-hidden="true">...</span> is not clickable at point (146, 597). Other element would receive the click: <div class="a-container">...</div>
+  (Session info: chrome=94.0.4606.61)
+2021-09-29 22:50:05,418 INFO Launching browser
+2021-09-29 22:50:10,267 INFO Exit
+2021-09-29 22:50:14,571 INFO Logged Suucessfully
+2021-09-29 22:50:23,090 ERROR Product not found
+2021-09-29 22:50:35,632 ERROR field not found
+2021-09-29 22:50:43,683 ERROR element click intercepted: Element <span id="address-ui-widgets-form-submit-button-announce" class="a-button-text" aria-hidden="true">...</span> is not clickable at point (146, 451). Other element would receive the click: <input class="a-button-input" type="submit" aria-labelledby="address-ui-widgets-form-submit-button-announce">
+  (Session info: chrome=94.0.4606.61)
+2021-09-29 22:53:19,959 INFO Launching browser
+2021-09-29 22:53:24,722 INFO Exit
+2021-09-29 22:53:29,660 INFO Logged Suucessfully
+2021-09-29 22:53:38,293 ERROR Product not found
+2021-09-29 22:53:51,471 ERROR field not found
+2021-09-29 22:53:58,637 ERROR   Expected string length 87 but was 66. Strings differ at index 22.
+  Expected: "https://www.amazon.in/gp/buy/addressselect/handlers/display.h..."
+  But was:  "https://www.amazon.in/a/addresses?alertId=yaab-enterAddressSu..."
+  ---------------------------------^
+
+2021-09-29 22:54:37,302 INFO Launching browser
+2021-09-29 22:54:42,266 INFO Exit
+2021-09-29 22:54:46,668 INFO Logged Suucessfully
+2021-09-29 22:54:55,099 ERROR Product not found
+2021-09-29 22:55:07,478 ERROR field not found
+2021-09-29 23:07:32,409 INFO Launching browser
+2021-09-29 23:07:37,391 INFO Exit
+2021-09-29 23:07:43,379 INFO Logged Suucessfully
+2021-09-29 23:07:55,639 INFO Launching browser
+2021-09-29 23:08:00,457 INFO Exit
+2021-09-29 23:08:04,982 INFO Logged Suucessfully
+2021-09-29 23:08:08,895 INFO Launching browser
+2021-09-29 23:08:14,047 INFO Exit
+2021-09-29 23:08:18,135 INFO Logged Suucessfully
+2021-09-29 23:08:26,989 ERROR Product not found
+2021-09-29 23:08:47,077 ERROR field not found
+2021-09-29 23:09:25,961 INFO Launching browser
+2021-09-29 23:09:30,715 INFO Exit
+2021-09-29 23:09:33,111 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-29 23:09:41,568 INFO Launching browser
+2021-09-29 23:09:46,264 INFO Exit
+2021-09-29 23:13:19,573 INFO Launching browser
+2021-09-29 23:13:19,669 INFO Launching browser
+2021-09-29 23:14:56,042 INFO Launching browser
+2021-09-29 23:14:56,130 INFO Launching browser
+2021-09-30 12:46:32,312 INFO Launching browser
+2021-09-30 12:46:32,406 INFO Launching browser
+2021-09-30 13:43:23,961 INFO Launching browser
+2021-09-30 13:43:24,132 INFO Launching browser
+2021-09-30 13:45:03,340 INFO Launching browser
+2021-09-30 13:45:03,434 INFO Launching browser
+2021-09-30 13:45:29,275 INFO Launching browser
+2021-09-30 13:45:29,364 INFO Launching browser
+2021-09-30 13:46:11,207 INFO Launching browser
+2021-09-30 13:46:11,308 INFO Launching browser
+2021-09-30 13:52:16,838 INFO Launching browser
+2021-09-30 13:52:16,934 INFO Launching browser
+2021-09-30 15:08:57,720 INFO Launching browser
+2021-09-30 15:08:57,908 INFO Launching browser
+2021-09-30 15:09:37,418 INFO Launching browser
+2021-09-30 15:09:37,510 INFO Launching browser
+2021-09-30 15:10:24,239 INFO Launching browser
+2021-09-30 15:10:30,982 INFO Exit
+2021-09-30 15:10:39,778 INFO Launching browser
+2021-09-30 15:10:44,522 INFO Exit
+2021-09-30 15:10:49,605 INFO Logged Suucessfully
+2021-09-30 15:10:58,524 ERROR Product not found
+2021-09-30 15:11:11,191 ERROR field not found
+2021-09-30 15:13:47,350 INFO Launching browser
+2021-09-30 15:13:52,518 INFO Exit
+2021-09-30 15:14:02,013 INFO Launching browser
+2021-09-30 15:14:06,860 INFO Exit
+2021-09-30 15:14:11,484 INFO Logged Suucessfully
+2021-09-30 15:14:19,236 ERROR Product not found
+2021-09-30 15:14:31,804 ERROR field not found
+2021-09-30 21:05:03,060 INFO Launching browser
+2021-09-30 21:05:18,471 INFO Exit
+2021-09-30 21:05:28,377 INFO Launching browser
+2021-09-30 21:05:33,265 INFO Exit
+2021-09-30 21:05:38,819 INFO Logged Suucessfully
+2021-09-30 21:05:48,258 ERROR Product not found
+2021-09-30 21:06:00,826 ERROR field not found
+2021-09-30 21:18:34,064 INFO Launching browser
+2021-09-30 21:18:39,379 INFO Exit
+2021-09-30 21:18:47,900 INFO Launching browser
+2021-09-30 21:18:52,867 INFO Exit
+2021-09-30 21:18:59,710 INFO Logged Suucessfully
+2021-09-30 21:19:08,553 ERROR Product not found
+2021-09-30 21:19:21,251 ERROR field not found
+2021-09-30 21:28:06,834 INFO Launching browser
+2021-09-30 21:28:11,996 INFO Exit
+2021-09-30 21:28:20,303 INFO Launching browser
+2021-09-30 21:28:47,232 INFO Exit
+2021-09-30 21:28:54,141 INFO Logged Suucessfully
+2021-09-30 21:29:15,919 ERROR Product not found
+2021-09-30 21:29:30,565 ERROR field not found
+2021-09-30 21:29:32,858 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-30 21:29:32,882 ERROR Could not find element by: By.Id: twotabsearchtextbox
+2021-09-30 21:29:32,892 ERROR Could not find element by: By.Id: buy-now-button
+2021-09-30 21:31:54,565 INFO Launching browser
+2021-09-30 21:31:59,195 INFO Exit
+2021-09-30 21:32:08,488 INFO Launching browser
+2021-09-30 21:32:13,383 INFO Exit
+2021-09-30 21:32:18,259 INFO Logged Suucessfully
+2021-09-30 21:32:28,200 ERROR Product not found
+2021-09-30 21:32:41,280 ERROR field not found
+2021-09-30 21:32:43,603 ERROR Could not find element by: By.Id: nav-link-accountList
+2021-09-30 21:32:43,618 ERROR Could not find element by: By.Id: twotabsearchtextbox
+2021-09-30 21:32:43,627 ERROR Could not find element by: By.Id: buy-now-button
+2021-09-30 21:35:20,401 INFO Launching browser
+2021-09-30 21:35:34,981 INFO Exit
+2021-09-30 21:35:44,022 INFO Launching browser
+2021-09-30 21:35:49,144 INFO Exit
+2021-09-30 21:35:55,087 INFO Logged Suucessfully
+2021-09-30 21:36:06,357 ERROR Product not found
+2021-09-30 21:36:19,918 ERROR field not found
+2021-09-30 21:37:13,643 INFO Launching browser
+2021-09-30 21:37:18,741 INFO Exit
+2021-09-30 21:37:29,801 INFO Launching browser
+2021-09-30 21:37:34,942 INFO Exit
+2021-09-30 21:37:40,267 INFO Logged Suucessfully
+2021-09-30 21:37:49,168 ERROR Product not found
+2021-09-30 21:38:05,061 ERROR field not found
+2021-09-30 21:38:16,667 ERROR element not interactable: Element is not currently visible and may not be manipulated
+  (Session info: chrome=94.0.4606.61)
+2021-09-30 21:39:10,329 INFO Launching browser
+2021-09-30 21:39:15,562 INFO Exit
+2021-09-30 21:39:24,660 INFO Launching browser
+2021-09-30 21:39:29,486 INFO Exit
+2021-09-30 21:39:34,442 INFO Logged Suucessfully
+2021-09-30 21:39:50,142 ERROR Product not found
+2021-09-30 21:40:02,926 ERROR field not found
+2021-09-30 21:41:41,769 INFO Launching browser
+2021-09-30 21:41:51,842 INFO Exit
+2021-09-30 21:42:00,672 INFO Launching browser
+2021-09-30 21:42:05,401 INFO Exit
+2021-09-30 21:42:11,137 INFO Logged Suucessfully
+2021-09-30 21:42:21,111 ERROR Product not found
+2021-09-30 21:42:35,341 ERROR field not found
+2021-09-30 21:48:08,786 INFO Launching browser
+2021-09-30 21:48:13,865 INFO Exit
+2021-09-30 21:48:22,904 INFO Launching browser
+2021-09-30 21:48:27,955 INFO Exit
+2021-09-30 21:48:33,084 INFO Logged Suucessfully
+2021-09-30 21:48:42,996 ERROR Product not found
+2021-09-30 21:48:55,503 ERROR field not found
+2021-09-30 21:48:58,530 ERROR element not interactable: Element is not currently visible and may not be manipulated
+  (Session info: chrome=94.0.4606.61)
+2021-09-30 21:56:05,345 INFO Launching browser
+2021-09-30 21:56:11,002 INFO Exit
+2021-09-30 21:56:19,718 INFO Launching browser
+2021-09-30 21:56:24,688 INFO Exit
+2021-09-30 21:57:22,194 INFO Launching browser
+2021-09-30 21:57:27,441 INFO Exit
+2021-09-30 21:57:36,379 INFO Launching browser
+2021-09-30 21:57:46,264 INFO Exit
+2021-09-30 21:58:19,662 INFO Launching browser
+2021-09-30 21:58:25,030 INFO Exit
+2021-09-30 21:58:33,754 INFO Launching browser
+2021-09-30 21:58:38,698 INFO Exit
+2021-09-30 21:58:44,290 INFO Logged Suucessfully
+2021-09-30 21:58:53,734 ERROR Product not found
+2021-09-30 21:59:06,316 ERROR field not found
+2021-09-30 21:59:25,860 ERROR Could not find element by: By.XPath: //*[@id='checkoutDisplayPage']/div/div[2]/div[1]/h1
+2021-09-30 22:00:40,079 INFO Launching browser
+2021-09-30 22:00:46,540 INFO Exit
+2021-09-30 22:00:55,104 INFO Launching browser
+2021-09-30 22:01:28,230 INFO Exit
+2021-09-30 22:01:33,303 INFO Logged Suucessfully
+2021-09-30 22:01:42,910 ERROR Product not found
+2021-09-30 22:01:56,884 ERROR field not found
+2021-09-30 22:02:19,398 ERROR Could not find element by: By.XPath: //*[@id='checkoutDisplayPage']/div/div[2]/div[1]/h1
+2021-09-30 22:23:39,702 INFO Launching browser
+2021-09-30 22:23:45,329 INFO Exit
+2021-09-30 22:23:54,093 INFO Launching browser
+2021-09-30 22:24:00,852 INFO Exit
+2021-09-30 22:24:05,848 INFO Logged Suucessfully
+2021-09-30 22:24:14,305 ERROR Product not found
+2021-09-30 22:24:26,623 ERROR field not found
+2021-09-30 22:24:28,928 ERROR   Expected string length 41 but was 25. Strings differ at index 0.
+  Expected: "Enter the delivery address for this order"
+  But was:  "Select a delivery address"
+  -----------^
+
+2021-09-30 22:24:28,928 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-30 22:25:14,571 INFO Launching browser
+2021-09-30 22:25:19,529 INFO Exit
+2021-09-30 22:25:23,960 INFO Logged Suucessfully
+2021-09-30 22:25:32,614 ERROR Product not found
+2021-09-30 22:25:44,999 ERROR field not found
+2021-09-30 22:26:07,082 ERROR Could not find element by: By.XPath: //*[@id='checkoutDisplayPage']/div/div[2]/div[1]/h1
+2021-09-30 22:26:07,083 ERROR Type of member 'SelectElement' is not IWebElement or IList<IWebElement>
+2021-09-30 22:32:16,328 INFO Launching browser
+2021-09-30 22:32:21,177 INFO Exit
+2021-09-30 22:32:30,708 INFO Launching browser
+2021-09-30 22:32:35,133 INFO Exit
+2021-09-30 22:32:39,530 INFO Logged Suucessfully
+2021-09-30 22:32:47,964 ERROR Product not found
+2021-09-30 22:33:00,560 ERROR field not found
+2021-09-30 22:33:02,839 ERROR   Expected string length 41 but was 25. Strings differ at index 0.
+  Expected: "Enter the delivery address for this order"
+  But was:  "Select a delivery address"
+  -----------^
+
+2021-09-30 22:33:02,864 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"#pp\-qCg9oL\-86"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-30 22:33:38,340 INFO Launching browser
+2021-09-30 22:33:43,264 INFO Exit
+2021-09-30 22:33:52,589 INFO Launching browser
+2021-09-30 22:33:57,577 INFO Exit
+2021-09-30 22:34:02,276 INFO Logged Suucessfully
+2021-09-30 22:34:10,947 ERROR Product not found
+2021-09-30 22:34:23,658 ERROR field not found
+2021-09-30 22:34:45,594 ERROR Could not find element by: By.XPath: //*[@id='checkoutDisplayPage']/div/div[2]/div[1]/h1
+2021-09-30 22:34:45,606 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"#pp\-qCg9oL\-86"}
+  (Session info: chrome=94.0.4606.61)
+2021-09-30 22:39:00,323 INFO Launching browser
+2021-09-30 22:39:04,945 INFO Exit
+2021-09-30 22:39:09,721 INFO Logged Suucessfully
+2021-09-30 22:39:18,294 ERROR Product not found
+2021-09-30 22:39:31,004 ERROR field not found
+2021-09-30 22:39:33,321 ERROR   Expected string length 41 but was 25. Strings differ at index 0.
+  Expected: "Enter the delivery address for this order"
+  But was:  "Select a delivery address"
+  -----------^
+
+2021-09-30 22:39:41,383 ERROR Could not find element by: By.Id: pp-qCg9oL-86
+2021-09-30 22:40:54,935 INFO Launching browser
+2021-09-30 22:40:59,581 INFO Exit
+2021-09-30 22:41:06,147 INFO Logged Suucessfully
+2021-09-30 22:41:15,661 ERROR Product not found
+2021-09-30 22:41:28,383 ERROR field not found
+2021-09-30 22:41:50,839 ERROR Could not find element by: By.XPath: //*[@id='checkoutDisplayPage']/div/div[2]/div[1]/h1
+2021-09-30 22:41:58,881 ERROR Could not find element by: By.Id: pp-qCg9oL-86
+2021-09-30 22:44:21,288 INFO Launching browser
+2021-09-30 22:44:25,746 INFO Exit
+2021-09-30 22:44:30,461 INFO Logged Suucessfully
+2021-09-30 22:44:39,013 ERROR Product not found
+2021-09-30 22:44:51,331 ERROR field not found
+2021-09-30 22:45:13,803 ERROR Could not find element by: By.XPath: //*[@id='checkoutDisplayPage']/div/div[2]/div[1]/h1
+2021-09-30 22:45:13,821 ERROR Could not find element by: By.Id: pp-qCg9oL-86
+2021-09-30 22:47:18,234 INFO Launching browser
+2021-09-30 22:47:23,125 INFO Exit
+2021-09-30 22:47:27,792 INFO Logged Suucessfully
+2021-09-30 22:47:35,469 ERROR Product not found
+2021-09-30 22:47:48,758 ERROR field not found
+2021-09-30 22:48:11,290 ERROR Could not find element by: By.XPath: //*[@id='checkoutDisplayPage']/div/div[2]/div[1]/h1
+2021-09-30 22:48:11,307 ERROR Could not find element by: By.Id: pp-7uF6gW-86
+2021-09-30 22:50:45,690 INFO Launching browser
+2021-09-30 22:50:50,562 INFO Exit
+2021-09-30 22:50:55,034 INFO Logged Suucessfully
+2021-09-30 22:51:03,557 ERROR Product not found
+2021-09-30 22:51:15,871 ERROR field not found
+2021-09-30 22:51:18,171 ERROR   Expected string length 41 but was 25. Strings differ at index 0.
+  Expected: "Enter the delivery address for this order"
+  But was:  "Select a delivery address"
+  -----------^
+
+2021-09-30 22:51:18,204 ERROR Could not find element by: By.Id: pp-7uF6gW-86
+2021-09-30 22:52:42,178 INFO Launching browser
+2021-09-30 22:52:47,365 INFO Exit
+2021-09-30 22:52:52,879 INFO Logged Suucessfully
+2021-09-30 22:53:01,910 ERROR Product not found
+2021-09-30 22:53:14,131 ERROR field not found
+2021-09-30 22:53:36,599 ERROR Could not find element by: By.Id: pp-7uF6gW-86
+2021-09-30 22:54:27,074 INFO Launching browser
+2021-09-30 23:01:04,903 INFO Launching browser
+2021-09-30 23:01:10,157 INFO Exit
+2021-09-30 23:01:16,806 INFO Logged Suucessfully
+2021-09-30 23:01:25,759 ERROR Product not found
+2021-09-30 23:01:38,394 ERROR field not found
+2021-09-30 23:02:00,913 ERROR Could not find element by: By.XPath: //*[@id='pp-c3qVSc-86']
+2021-09-30 23:05:26,298 INFO Launching browser
+2021-09-30 23:05:31,341 INFO Exit
+2021-09-30 23:05:35,883 INFO Logged Suucessfully
+2021-09-30 23:05:44,161 ERROR Product not found
+2021-09-30 23:05:56,406 ERROR field not found
+2021-09-30 23:06:28,059 ERROR Exception has been thrown by the target of an invocation.
+2021-09-30 23:09:38,582 INFO Launching browser
+2021-09-30 23:09:43,818 INFO Exit
+2021-09-30 23:09:48,332 INFO Logged Suucessfully
+2021-09-30 23:09:56,625 ERROR Product not found
+2021-09-30 23:10:08,844 ERROR field not found
+2021-09-30 23:10:23,329 ERROR   Expected string length 25 but was 23. Strings differ at index 9.
+  Expected: "Select a delivery address"
+  But was:  "Select a payment method"
+  --------------------^
+
+2021-09-30 23:12:17,034 INFO Launching browser
+2021-09-30 23:12:22,140 INFO Exit
+2021-09-30 23:12:27,160 INFO Logged Suucessfully
+2021-09-30 23:12:35,414 ERROR Product not found
+2021-09-30 23:12:47,745 ERROR field not found
+2021-09-30 23:12:50,043 ERROR   Expected string length 41 but was 25. Strings differ at index 0.
+  Expected: "Enter the delivery address for this order"
+  But was:  "Select a delivery address"
+  -----------^
+
+2021-09-30 23:14:20,977 INFO Launching browser
+2021-09-30 23:14:26,139 INFO Exit
+2021-09-30 23:14:33,611 INFO Logged Suucessfully
+2021-09-30 23:14:42,373 ERROR Product not found
+2021-09-30 23:14:54,526 ERROR field not found
+2021-09-30 23:19:12,343 INFO Launching browser
+2021-09-30 23:19:17,568 INFO Exit
+2021-09-30 23:19:22,022 INFO Logged Suucessfully
+2021-09-30 23:19:30,257 ERROR Product not found
+2021-09-30 23:19:42,671 ERROR field not found
+2021-09-30 23:19:44,963 ERROR   Expected string length 41 but was 25. Strings differ at index 0.
+  Expected: "Enter the delivery address for this order"
+  But was:  "Select a delivery address"
+  -----------^
+
+2021-09-30 23:19:45,143 ERROR Exception has been thrown by the target of an invocation.
+2021-09-30 23:19:59,081 INFO Launching browser
+2021-09-30 23:20:04,552 INFO Exit
+2021-09-30 23:20:09,241 INFO Logged Suucessfully
+2021-09-30 23:20:17,751 ERROR Product not found
+2021-09-30 23:20:30,177 ERROR field not found
+2021-09-30 23:20:48,825 ERROR Exception has been thrown by the target of an invocation.
+2021-09-30 23:22:22,333 INFO Launching browser
+2021-09-30 23:22:27,191 INFO Exit
+2021-09-30 23:22:32,163 INFO Logged Suucessfully
+2021-09-30 23:22:40,735 ERROR Product not found
+2021-09-30 23:22:53,072 ERROR field not found
+2021-09-30 23:22:55,392 ERROR   Expected string length 41 but was 25. Strings differ at index 0.
+  Expected: "Enter the delivery address for this order"
+  But was:  "Select a delivery address"
+  -----------^
+
+2021-09-30 23:22:55,566 ERROR Exception has been thrown by the target of an invocation.
+2021-09-30 23:23:09,101 INFO Launching browser
+2021-09-30 23:23:14,098 INFO Exit
+2021-09-30 23:23:19,106 INFO Logged Suucessfully
+2021-09-30 23:23:29,375 ERROR Product not found
+2021-09-30 23:23:41,765 ERROR field not found
+2021-09-30 23:24:00,359 ERROR   Expected string length 25 but was 23. Strings differ at index 9.
+  Expected: "Select a delivery address"
+  But was:  "Select a payment method"
+  --------------------^
+
+2021-09-30 23:24:00,668 ERROR Exception has been thrown by the target of an invocation.
+2021-09-30 23:25:27,182 INFO Launching browser
+2021-09-30 23:25:32,107 INFO Exit
+2021-09-30 23:25:37,227 INFO Logged Suucessfully
+2021-09-30 23:25:45,723 ERROR Product not found
+2021-09-30 23:25:58,882 ERROR field not found
+2021-09-30 23:26:17,523 ERROR Exception has been thrown by the target of an invocation.
+2021-10-01 10:41:30,194 INFO Launching browser
+2021-10-01 10:41:36,453 INFO Exit
+2021-10-01 10:41:42,116 INFO Logged Suucessfully
+2021-10-01 10:41:50,059 ERROR Product not found
+2021-10-01 10:42:02,369 ERROR field not found
+2021-10-01 10:48:37,216 INFO Launching browser
+2021-10-01 10:48:42,109 INFO Exit
+2021-10-01 10:48:46,784 INFO Logged Suucessfully
+2021-10-01 10:48:55,385 ERROR Product not found
+2021-10-01 10:49:07,702 ERROR field not found
+2021-10-01 10:58:12,883 INFO Launching browser
+2021-10-01 10:58:18,409 INFO Exit
+2021-10-01 10:58:22,868 INFO Logged Suucessfully
+2021-10-01 10:58:31,432 ERROR Product not found
+2021-10-01 10:58:43,924 ERROR field not found
+2021-10-01 10:59:03,285 ERROR   Expected string length 37 but was 44. Strings differ at index 0.
+  Expected: "Place Your Order - Amazon.in Checkout"
+  But was:  "Select a Payment Method - Amazon.in Checkout"
+  -----------^
+
+2021-10-01 11:00:27,560 INFO Launching browser
+2021-10-01 11:00:32,587 INFO Exit
+2021-10-01 11:00:37,150 INFO Logged Suucessfully
+2021-10-01 11:00:45,144 ERROR Product not found
+2021-10-01 11:00:57,523 ERROR field not found
+2021-10-01 11:01:32,925 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-01 11:04:04,972 INFO Launching browser
+2021-10-01 11:04:09,939 INFO Exit
+2021-10-01 11:04:15,186 INFO Logged Suucessfully
+2021-10-01 11:04:23,607 ERROR Product not found
+2021-10-01 11:04:35,970 ERROR field not found
+2021-10-01 11:05:05,569 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-01 11:09:50,552 INFO Launching browser
+2021-10-01 11:09:55,543 INFO Exit
+2021-10-01 11:10:00,114 INFO Logged Suucessfully
+2021-10-01 11:10:09,107 ERROR Product not found
+2021-10-01 11:10:21,436 ERROR field not found
+2021-10-01 11:10:43,046 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-01 11:22:03,487 INFO Launching browser
+2021-10-01 11:22:08,594 INFO Exit
+2021-10-01 11:22:13,333 INFO Logged Suucessfully
+2021-10-01 11:22:21,735 ERROR Product not found
+2021-10-01 11:22:34,040 ERROR field not found
+2021-10-01 11:22:55,089 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-01 11:22:55,268 ERROR   Expected string length 36 but was 44. Strings differ at index 0.
+  Expected: "Place your order- Amazon.in Checkout"
+  But was:  "Select a Payment Method - Amazon.in Checkout"
+  -----------^
+
+2021-10-01 11:24:12,554 INFO Launching browser
+2021-10-01 11:24:17,447 INFO Exit
+2021-10-01 11:24:22,319 INFO Logged Suucessfully
+2021-10-01 11:24:30,654 ERROR Product not found
+2021-10-01 11:24:43,082 ERROR field not found
+2021-10-01 11:24:45,507 ERROR   Expected string length 41 but was 25. Strings differ at index 0.
+  Expected: "Enter the delivery address for this order"
+  But was:  "Select a delivery address"
+  -----------^
+
+2021-10-01 11:24:45,519 ERROR Multiple failures or warnings in test:
+  1)   Expected string length 41 but was 25. Strings differ at index 0.
+  Expected: "Enter the delivery address for this order"
+  But was:  "Select a delivery address"
+  -----------^
+
+  2)   Expected string length 44 but was 25. Strings differ at index 9.
+  Expected: "Select a Payment Method - Amazon.in Checkout"
+  But was:  "Select a delivery address"
+  --------------------^
+
+
+2021-10-01 11:24:45,529 ERROR Multiple failures or warnings in test:
+  1)   Expected string length 41 but was 25. Strings differ at index 0.
+  Expected: "Enter the delivery address for this order"
+  But was:  "Select a delivery address"
+  -----------^
+
+  2)   Expected string length 44 but was 25. Strings differ at index 9.
+  Expected: "Select a Payment Method - Amazon.in Checkout"
+  But was:  "Select a delivery address"
+  --------------------^
+
+  3)   Expected string length 36 but was 25. Strings differ at index 0.
+  Expected: "Place your order- Amazon.in Checkout"
+  But was:  "Select a delivery address"
+  -----------^
+
+
+2021-10-01 11:25:25,436 INFO Launching browser
+2021-10-01 11:25:30,677 INFO Exit
+2021-10-01 11:25:36,109 INFO Logged Suucessfully
+2021-10-01 11:25:44,832 ERROR Product not found
+2021-10-01 11:25:57,428 ERROR field not found
+2021-10-01 11:26:18,700 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-01 11:26:18,858 ERROR   Expected string length 36 but was 44. Strings differ at index 0.
+  Expected: "Place your order- Amazon.in Checkout"
+  But was:  "Select a Payment Method - Amazon.in Checkout"
+  -----------^
+
+2021-10-01 11:32:27,063 INFO Launching browser
+2021-10-01 11:32:33,547 INFO Exit
+2021-10-01 11:32:38,555 INFO Logged Suucessfully
+2021-10-01 11:32:46,635 ERROR Product not found
+2021-10-01 11:32:58,988 ERROR field not found
+2021-10-01 11:33:19,746 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-01 11:33:19,751 ERROR Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+2021-10-01 12:08:05,336 INFO Launching browser
+2021-10-01 12:08:11,404 INFO Exit
+2021-10-01 12:08:15,926 INFO Logged Suucessfully
+2021-10-01 12:08:24,520 ERROR Product not found
+2021-10-01 12:08:36,812 ERROR field not found
+2021-10-01 12:08:57,519 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-01 12:08:59,692 ERROR   Expected string length 36 but was 44. Strings differ at index 0.
+  Expected: "Place your order- Amazon.in Checkout"
+  But was:  "Select a Payment Method - Amazon.in Checkout"
+  -----------^
+
+2021-10-01 15:48:30,251 INFO Launching browser
+2021-10-01 15:48:35,633 INFO Exit
+2021-10-01 15:48:40,414 INFO Logged Suucessfully
+2021-10-01 15:48:50,435 ERROR Product not found
+2021-10-01 15:49:02,928 ERROR field not found
+2021-10-01 15:49:24,133 ERROR Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+2021-10-01 15:49:26,333 ERROR   Expected string length 36 but was 44. Strings differ at index 0.
+  Expected: "Place your order- Amazon.in Checkout"
+  But was:  "Select a Payment Method - Amazon.in Checkout"
+  -----------^
+
+2021-10-01 15:51:28,521 INFO Launching browser
+2021-10-01 15:51:33,389 INFO Exit
+2021-10-01 15:51:38,555 INFO Logged Suucessfully
+2021-10-01 15:51:47,741 ERROR Product not found
+2021-10-01 15:52:01,559 ERROR field not found
+2021-10-01 15:52:23,295 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-01 15:52:25,448 ERROR   Expected string length 36 but was 44. Strings differ at index 0.
+  Expected: "Place your order- Amazon.in Checkout"
+  But was:  "Select a Payment Method - Amazon.in Checkout"
+  -----------^
+
+2021-10-01 16:04:22,159 INFO Launching browser
+2021-10-01 16:04:27,772 INFO Exit
+2021-10-01 16:04:32,465 INFO Logged Suucessfully
+2021-10-01 16:04:42,574 ERROR Product not found
+2021-10-01 16:04:55,329 ERROR field not found
+2021-10-01 16:05:16,528 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-01 16:05:18,727 ERROR   Expected string length 36 but was 44. Strings differ at index 0.
+  Expected: "Place your order- Amazon.in Checkout"
+  But was:  "Select a Payment Method - Amazon.in Checkout"
+  -----------^
+
+2021-10-01 17:25:01,915 INFO Launching browser
+2021-10-01 17:25:07,455 INFO Exit
+2021-10-01 17:25:12,636 INFO Logged Suucessfully
+2021-10-01 17:25:21,317 ERROR Product not found
+2021-10-01 17:25:33,835 ERROR field not found
+2021-10-01 17:25:54,622 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-01 17:25:56,748 ERROR   Expected string length 36 but was 44. Strings differ at index 0.
+  Expected: "Place your order- Amazon.in Checkout"
+  But was:  "Select a Payment Method - Amazon.in Checkout"
+  -----------^
+
+2021-10-02 11:53:42,311 INFO Launching browser
+2021-10-02 11:53:48,920 INFO Exit
+2021-10-02 11:53:54,352 INFO Logged Suucessfully
+2021-10-02 11:54:06,875 ERROR Product not found
+2021-10-02 11:54:19,779 ERROR field not found
+2021-10-02 11:54:40,811 ERROR Could not find element by: By.Id: pp-Lx4BGi-122-announce
+2021-10-02 11:54:43,036 ERROR   Expected string length 36 but was 44. Strings differ at index 0.
+  Expected: "Place your order- Amazon.in Checkout"
+  But was:  "Select a Payment Method - Amazon.in Checkout"
+  -----------^
+
+2021-10-02 11:56:15,308 INFO Launching browser
+2021-10-02 11:56:21,517 INFO Exit
+2021-10-02 11:56:26,861 INFO Logged Suucessfully
+2021-10-02 11:56:38,774 ERROR Product not found
+2021-10-02 11:56:51,440 ERROR field not found
+2021-10-02 11:57:12,832 ERROR Could not find element by: By.Id: pp-Lx4BGi-122-announce
+2021-10-02 11:57:14,891 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"*[name="claimCode"]"}
+  (Session info: chrome=94.0.4606.61)
+2021-10-02 12:02:12,170 INFO Launching browser
+2021-10-02 12:02:58,778 INFO Exit
+2021-10-02 12:03:13,191 INFO Logged Suucessfully
+2021-10-02 12:04:15,334 ERROR Product not found
+2021-10-02 12:04:50,864 ERROR field not found
+2021-10-02 12:05:12,170 ERROR Could not find element by: By.XPath: //*[@id='pp-V7V3tq-122]/span/input
+2021-10-02 12:05:14,205 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"*[name="claimCode"]"}
+  (Session info: chrome=94.0.4606.61)
+2021-10-02 12:08:35,731 INFO Launching browser
+2021-10-02 12:09:25,779 INFO Exit
+2021-10-02 12:09:34,638 INFO Logged Suucessfully
+2021-10-02 12:09:54,461 ERROR Product not found
+2021-10-02 12:10:14,296 ERROR field not found
+2021-10-02 12:10:35,554 ERROR Could not find element by: By.XPath: /html/body/div[5]/div[1]/div[2]/div[2]/div/div[2]/div[2]/div[2]/div/div/span/span/input
+2021-10-02 12:10:37,606 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"*[name="claimCode"]"}
+  (Session info: chrome=94.0.4606.61)
+2021-10-02 12:14:24,731 INFO Launching browser
+2021-10-02 12:14:31,007 INFO Exit
+2021-10-02 12:14:36,763 INFO Logged Suucessfully
+2021-10-02 12:14:45,931 ERROR Product not found
+2021-10-02 12:14:59,257 ERROR field not found
+2021-10-02 12:15:23,488 ERROR Could not find element by: By.XPath: /html/body/div[5]/div[1]/div[2]/div[2]/div/div[2]/div[2]/div[2]/div/div/span/span/input
+2021-10-02 12:15:25,537 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"*[name="claimCode"]"}
+  (Session info: chrome=94.0.4606.61)
+2021-10-02 12:17:08,380 INFO Launching browser
+2021-10-02 12:17:13,798 INFO Exit
+2021-10-02 12:17:18,616 INFO Logged Suucessfully
+2021-10-02 12:17:26,788 ERROR Product not found
+2021-10-02 12:17:39,355 ERROR field not found
+2021-10-02 12:18:03,242 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-02 12:18:05,327 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"*[name="claimCode"]"}
+  (Session info: chrome=94.0.4606.61)
+2021-10-02 21:30:48,836 INFO Launching browser
+2021-10-02 21:31:07,976 INFO Exit
+2021-10-02 21:31:17,266 INFO New account created successfully
+2021-10-02 21:31:19,655 ERROR   Expected string length 501 but was 33. Strings differ at index 33.
+  Expected: "...ps://www.amazon.in/ap/register?showRememberMe=true&openid...."
+  But was:  "...ps://www.amazon.in/ap/register"
+  --------------------------------------------^
+
+2021-10-02 21:52:12,659 INFO Launching browser
+2021-10-02 21:52:25,785 INFO Exit
+2021-10-02 21:52:30,860 INFO Logged Suucessfully
+2021-10-02 21:52:39,639 ERROR Product not found
+2021-10-02 21:52:52,440 ERROR field not found
+2021-10-03 11:16:57,254 INFO Launching browser
+2021-10-03 11:17:05,076 INFO Exit
+2021-10-03 11:18:56,994 INFO Launching browser
+2021-10-03 11:19:02,450 INFO Exit
+2021-10-03 11:19:07,824 INFO Logged Suucessfully
+2021-10-03 11:19:17,269 ERROR Product not found
+2021-10-03 11:19:30,077 ERROR field not found
+2021-10-03 11:19:59,676 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-03 11:20:01,759 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"*[name="claimCode"]"}
+  (Session info: chrome=94.0.4606.61)
+2021-10-03 11:21:52,944 INFO Launching browser
+2021-10-03 11:21:57,924 INFO Exit
+2021-10-03 11:22:02,345 INFO Logged Suucessfully
+2021-10-03 11:22:10,870 ERROR Product not found
+2021-10-03 11:22:23,591 ERROR field not found
+2021-10-03 11:22:58,523 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-03 11:23:00,580 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"*[name="claimCode"]"}
+  (Session info: chrome=94.0.4606.61)
+2021-10-03 11:30:38,338 INFO Launching browser
+2021-10-03 11:30:45,388 INFO Exit
+2021-10-03 11:30:50,097 INFO Logged Suucessfully
+2021-10-03 11:31:01,356 ERROR Product not found
+2021-10-03 11:31:14,193 ERROR field not found
+2021-10-03 11:31:48,703 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-03 11:31:50,806 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"*[name="claimCode"]"}
+  (Session info: chrome=94.0.4606.61)
+2021-10-03 19:43:25,978 INFO Launching browser
+2021-10-03 19:43:31,903 INFO Exit
+2021-10-03 19:43:36,666 INFO Logged Suucessfully
+2021-10-03 19:43:47,648 ERROR Product not found
+2021-10-03 19:44:00,375 ERROR field not found
+2021-10-03 19:44:30,235 ERROR Element should have been select but was a
+2021-10-03 19:44:32,284 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"*[name="claimCode"]"}
+  (Session info: chrome=94.0.4606.61)
+2021-10-03 19:46:11,799 INFO Launching browser
+2021-10-03 19:46:17,184 INFO Exit
+2021-10-03 19:46:21,615 INFO Logged Suucessfully
+2021-10-03 19:46:30,942 ERROR Product not found
+2021-10-03 19:46:43,201 ERROR field not found
+2021-10-03 19:47:12,873 ERROR Element should have been select but was a
+2021-10-03 19:47:14,921 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"*[name="claimCode"]"}
+  (Session info: chrome=94.0.4606.61)
+2021-10-03 19:50:03,649 INFO Launching browser
+2021-10-03 19:50:19,105 INFO Exit
+2021-10-03 19:50:25,052 INFO Logged Suucessfully
+2021-10-03 19:50:34,739 ERROR Product not found
+2021-10-03 19:50:51,359 ERROR field not found
+2021-10-03 19:51:21,040 ERROR Element should have been select but was a
+2021-10-03 19:51:23,097 ERROR no such element: Unable to locate element: {"method":"css selector","selector":"*[name="claimCode"]"}
+  (Session info: chrome=94.0.4606.61)
+2021-10-03 19:52:55,152 INFO Launching browser
+2021-10-03 19:53:03,446 INFO Exit
+2021-10-03 19:53:08,124 INFO Logged Suucessfully
+2021-10-03 19:53:18,971 ERROR Product not found
+2021-10-03 19:53:31,401 ERROR field not found
+2021-10-03 19:54:01,120 ERROR Element should have been select but was a
+2021-10-03 19:55:22,273 INFO Launching browser
+2021-10-03 19:55:27,507 INFO Exit
+2021-10-03 19:55:31,774 INFO Logged Suucessfully
+2021-10-03 19:55:39,978 ERROR Product not found
+2021-10-03 19:55:52,779 ERROR field not found
+2021-10-03 20:01:35,388 INFO Launching browser
+2021-10-03 20:01:40,128 INFO Exit
+2021-10-03 20:01:44,862 INFO Logged Suucessfully
+2021-10-03 20:01:52,958 ERROR Product not found
+2021-10-03 20:02:05,703 ERROR field not found
+2021-10-03 20:04:57,482 INFO Launching browser
+2021-10-03 20:05:02,815 INFO Exit
+2021-10-03 20:05:08,370 INFO Logged Suucessfully
+2021-10-03 20:05:10,694 ERROR   Expected string length 31 but was 42. Strings differ at index 22.
+  Expected: "https://www.amazon.in/ap/signin"
+  But was:  "https://www.amazon.in/?ref_=nav_ya_signin&"
+  ---------------------------------^
+
+2021-10-03 20:05:10,731 ERROR Could not find element by: By.Id: twotabsearchtextbox
+2021-10-03 20:05:10,746 ERROR Could not find element by: By.Id: buy-now-button
+2021-10-03 20:06:33,641 INFO Launching browser
+2021-10-03 20:06:38,973 INFO Exit
+2021-10-03 20:06:43,297 INFO Logged Suucessfully
+2021-10-03 20:06:51,785 ERROR Could not find element by: By.XPath: /html/body/div[1]/div[2]/div[1]/div[1]/div/span[3]/div[2]/div[1]/span/div/div/div[1]/div[2]/div[1]/div/div[1]/a/div/img
+2021-10-03 20:06:51,805 ERROR Could not find element by: By.Id: buy-now-button
+2021-10-03 20:08:06,297 INFO Launching browser
+2021-10-03 20:08:11,686 INFO Exit
+2021-10-03 20:08:15,942 INFO Logged Suucessfully
+2021-10-03 20:08:24,638 ERROR Product not found
+2021-10-03 20:08:37,123 ERROR field not found
+2021-10-03 20:12:20,511 INFO Launching browser
+2021-10-03 20:12:26,713 INFO Exit
+2021-10-03 20:12:32,406 INFO Logged Suucessfully
+2021-10-03 20:12:41,587 ERROR Product not found
+2021-10-03 20:12:54,292 ERROR field not found
+2021-10-03 20:18:21,782 INFO Launching browser
+2021-10-03 20:18:27,325 INFO Exit
+2021-10-03 20:18:31,515 INFO Logged Suucessfully
+2021-10-03 20:18:40,243 ERROR Product not found
+2021-10-03 20:18:52,633 ERROR field not found
+2021-10-03 20:19:32,479 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-03 22:15:42,347 INFO Launching browser
+2021-10-03 22:15:47,875 INFO Exit
+2021-10-03 22:15:48,220 ERROR Could not find element by: By.XPath: //*[@class='a-spacing-small moa_desktop_signup']
+2021-10-03 22:16:12,414 INFO Launching browser
+2021-10-03 22:16:17,533 INFO Exit
+2021-10-03 22:16:17,905 ERROR Could not find element by: By.XPath: //*[@class='a-spacing-small moa_desktop_signup']
+2021-10-03 22:17:03,488 INFO Launching browser
+2021-10-03 22:17:08,356 INFO Exit
+2021-10-03 22:17:11,118 ERROR Could not find element by: By.XPath: //*[@class='a-spacing-small moa_desktop_signup']
+2021-10-03 22:19:08,496 INFO Launching browser
+2021-10-03 22:19:13,800 INFO Exit
+2021-10-03 22:19:21,500 INFO New account created successfully
+2021-10-03 22:20:18,723 INFO Launching browser
+2021-10-03 22:20:24,215 INFO Exit
+2021-10-03 22:20:27,212 ERROR Could not find element by: By.XPath: //*[@class='a-spacing-small moa_desktop_signup']
+2021-10-03 22:20:35,764 INFO Launching browser
+2021-10-03 22:20:40,720 INFO Exit
+2021-10-03 22:20:45,674 INFO Logged Suucessfully
+2021-10-03 22:20:54,918 ERROR Product not found
+2021-10-03 22:21:07,708 ERROR field not found
+2021-10-03 22:21:40,118 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-03 22:22:39,563 INFO Launching browser
+2021-10-03 22:22:52,007 INFO Exit
+2021-10-03 22:22:54,898 ERROR Could not find element by: By.XPath: //*[@class='a-spacing-small moa_desktop_signup']
+2021-10-03 22:24:20,238 INFO Launching browser
+2021-10-03 22:24:25,402 INFO Exit
+2021-10-03 22:24:37,532 INFO New account created successfully
+2021-10-03 22:38:05,649 INFO Launching browser
+2021-10-03 22:38:13,227 INFO Exit
+2021-10-03 22:38:25,767 INFO New account created successfully
+2021-10-03 22:38:36,671 INFO Launching browser
+2021-10-03 22:38:41,684 INFO Exit
+2021-10-03 22:38:48,091 INFO Launching browser
+2021-10-03 22:38:52,572 INFO Exit
+2021-10-03 22:38:58,990 INFO Launching browser
+2021-10-03 22:39:03,867 INFO Exit
+2021-10-03 22:39:08,892 INFO Logged Suucessfully
+2021-10-03 22:39:17,033 ERROR Product not found
+2021-10-03 22:39:29,463 ERROR field not found
+2021-10-03 22:40:02,674 ERROR Could not find element by: By.ClassName[Contains]: a-row a-size-large a-text-bold a-spacing-mini
+2021-10-03 22:40:06,088 INFO Launching browser
+2021-10-03 22:40:11,001 INFO Exit
+2021-10-03 22:58:00,161 INFO Launching browser
+2021-10-03 22:58:08,283 INFO Exit
+2021-10-03 22:58:10,691 ERROR Could not find element by: By.XPath: //*[@class='a-spacing-small moa_desktop_signup']
+2021-10-03 22:58:18,582 INFO Launching browser
+2021-10-03 22:58:23,745 INFO Exit
+2021-10-03 22:58:29,500 INFO Launching browser
+2021-10-03 22:58:34,397 INFO Exit
+2021-10-03 22:58:40,116 INFO Launching browser
+2021-10-03 22:58:45,095 INFO Exit
+2021-10-03 22:58:49,676 INFO Logged Suucessfully
+2021-10-03 22:58:57,958 ERROR Product not found
+2021-10-03 22:59:10,609 ERROR field not found
+2021-10-03 22:59:53,121 ERROR   Expected string length 36 but was 37. Strings differ at index 6.
+  Expected: "Place your order- Amazon.in Checkout"
+  But was:  "Place Your Order - Amazon.in Checkout"
+  -----------------^
+
+2021-10-03 22:59:53,915 INFO Launching browser
+2021-10-03 22:59:59,109 INFO Exit
+2021-10-03 23:13:47,165 INFO Launching browser
+2021-10-03 23:13:52,411 INFO Exit
+2021-10-03 23:13:54,937 ERROR Could not find element by: By.XPath: //*[@class='a-spacing-small moa_desktop_signup']
+2021-10-03 23:14:02,511 INFO Launching browser
+2021-10-03 23:14:07,516 INFO Exit
+2021-10-03 23:14:11,883 INFO Logged Suucessfully
+2021-10-03 23:14:20,653 ERROR Product not found
+2021-10-03 23:14:33,135 ERROR field not found
+2021-10-03 23:14:58,330 ERROR Exception has been thrown by the target of an invocation.
+2021-10-03 23:15:00,442 ERROR   Expected string length 37 but was 44. Strings differ at index 0.
+  Expected: "Place Your Order - Amazon.in Checkout"
+  But was:  "Select a Payment Method - Amazon.in Checkout"
+  -----------^
+
+2021-10-03 23:16:52,370 INFO Launching browser
+2021-10-03 23:16:57,431 INFO Exit
+2021-10-03 23:17:09,395 INFO New account created successfully
+2021-10-03 23:17:17,056 INFO Launching browser
+2021-10-03 23:17:21,942 INFO Exit
+2021-10-03 23:17:26,054 INFO Logged Suucessfully
+2021-10-03 23:17:33,961 ERROR Product not found
+2021-10-03 23:17:46,479 ERROR field not found
+2021-10-03 23:18:29,092 ERROR   Expected string length 23 but was 22. Strings differ at index 22.
+  Expected: "Net Banking: HDFC Bank "
+  But was:  "Net Banking: HDFC Bank"
+  ---------------------------------^
+
