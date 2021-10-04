@@ -16,7 +16,7 @@ namespace AutomateAmazonApp.Pages
         {
             try
             {
-                PaymentActionPage.CheckForPayment();
+                DoActions.CheckForPayment();
 
                 System.Threading.Thread.Sleep(2000);
 
