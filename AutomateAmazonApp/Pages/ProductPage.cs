@@ -6,11 +6,11 @@
 using OpenQA.Selenium;
 using SeleniumExtras.PageObjects;
 
-namespace AutomateAmazonApp.Pages.BuyNow
+namespace AutomateAmazonApp.Pages
 {
-    public class SearchItem
+    public class ProductPage
     {
-        public SearchItem(IWebDriver driver)
+        public ProductPage(IWebDriver driver)
         {
             PageFactory.InitElements(driver, this);
         }
@@ -23,28 +23,20 @@ namespace AutomateAmazonApp.Pages.BuyNow
         [CacheLookup]
         public IWebElement searchIcon;
 
-        [FindsBy(How = How.XPath, Using = "//*[@class='_bXVsd_gridColumn_2Jfab']")]
+        [FindsBy(How = How.XPath, Using = "/html/body/div[1]/div[2]/div[1]/div[1]/div/span[3]/div[2]/div[1]/span/div/div/div[1]/div[2]/div[1]/div/div[1]/a/div/img")]
         [CacheLookup]
         public IWebElement product;
+        
+        [FindsBy(How = How.Id, Using = "productTitle")]
+        [CacheLookup]
+        public IWebElement productTitle;
 
         [FindsBy(How = How.Id, Using = "buy-now-button")]
         [CacheLookup]
         public IWebElement buyNowbtn;
 
-        [FindsBy(How = How.Name, Using = "email")]
+        [FindsBy(How = How.XPath, Using = "//*[@class='a-spacing-base']")]
         [CacheLookup]
-        public IWebElement email;
-
-        [FindsBy(How = How.Id, Using = "continue")]
-        [CacheLookup]
-        public IWebElement continuebtn;
-
-        [FindsBy(How = How.Name, Using = "password")]
-        [CacheLookup]
-        public IWebElement password;
-
-        [FindsBy(How = How.Id, Using = "signInSubmit")]
-        [CacheLookup]
-        public IWebElement signbtn;
+        public IWebElement addressTitle;
     }
 }

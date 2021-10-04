@@ -4,7 +4,9 @@
  * Date :21/09/2021
  */
 
-namespace AutomateAmazonApp.Pages.LoginPage
+using AutomateAmazonApp.Pages;
+
+namespace AutomateAmazonApp.DoAction
 {
     public class ForgetPasswordAction : Base.Baseclass
     {
@@ -15,7 +17,7 @@ namespace AutomateAmazonApp.Pages.LoginPage
             //Click on signin button
             flogin.signIn.Click();
 
-            //Enter the email
+            //Passing email id through sendkeys
             flogin.email.SendKeys("sona16061999@gmail.com");
             
             //click on continue button

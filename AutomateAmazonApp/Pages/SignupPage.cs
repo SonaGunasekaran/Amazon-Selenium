@@ -6,7 +6,7 @@
 using OpenQA.Selenium;
 using SeleniumExtras.PageObjects;
 
-namespace AutomateAmazonApp.AmazonSignup
+namespace AutomateAmazonApp.Pages
 {
     public class SignupPage
     {
@@ -22,6 +22,10 @@ namespace AutomateAmazonApp.AmazonSignup
         [FindsBy(How = How.Id, Using = "createAccountSubmit")]
         [CacheLookup]
         public IWebElement createAccount;
+
+        [FindsBy(How = How.XPath, Using = "//*[@class='a-spacing-small moa_desktop_signup']")]
+        [CacheLookup]
+        public IWebElement createAccDisplay;
 
         [FindsBy(How = How.Name, Using = "customerName")]
         [CacheLookup]
