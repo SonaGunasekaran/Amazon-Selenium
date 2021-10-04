@@ -2801,3 +2801,23 @@ from unknown error: web view not found
   But was:  "Net Banking: HDFC Bank"
   ---------------------------------^
 
+2021-10-04 16:09:18,705 INFO Launching browser
+2021-10-04 16:09:25,303 INFO Exit
+2021-10-04 16:09:30,483 INFO Logged Suucessfully
+2021-10-04 16:09:38,797 ERROR Product not found
+2021-10-04 16:09:51,166 ERROR field not found
+2021-10-04 16:10:33,966 ERROR   Expected string length 23 but was 22. Strings differ at index 22.
+  Expected: "Net Banking: HDFC Bank "
+  But was:  "Net Banking: HDFC Bank"
+  ---------------------------------^
+
+2021-10-04 16:42:21,750 INFO Launching browser
+2021-10-04 16:42:27,626 INFO Exit
+2021-10-04 16:42:32,868 INFO Logged Suucessfully
+2021-10-04 16:42:43,199 ERROR Product not found
+2021-10-04 16:42:56,138 ERROR field not found
+2021-10-04 16:43:39,377 ERROR   Expected string length 23 but was 22. Strings differ at index 22.
+  Expected: "Net Banking: HDFC Bank "
+  But was:  "Net Banking: HDFC Bank"
+  ---------------------------------^
+
