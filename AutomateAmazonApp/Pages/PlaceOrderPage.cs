@@ -27,7 +27,7 @@ namespace AutomateAmazonApp.Pages
                 string actual=driver.FindElement(By.Id("spc_netbanking")).Text;
                 Assert.AreEqual(actual, "Net Banking: HDFC Bank");
             }
-            catch (Exception ex)
+            catch (CustomException ex)
             {
                 logger.Error(ex.Message);
             }

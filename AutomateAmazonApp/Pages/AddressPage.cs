@@ -43,6 +43,10 @@ namespace AutomateAmazonApp.Pages
         [CacheLookup]
         public IWebElement townOrcity;
 
+        [FindsBy(How = How.Id, Using = "address-ui-widgets-enterAddressStateOrRegion")]
+        [CacheLookup]
+        public IWebElement state;
+
         [FindsBy(How = How.XPath, Using = "//*[@id='address-ui-widgets-form-submit-button']/span/input")]
         [CacheLookup]
         public IWebElement addressbtn;

@@ -48,7 +48,7 @@ namespace AutomateAmazonApp.ExtentReport
                                 smtp.Send(mail);
                             }
                         }
-                        catch(Exception ex)
+                        catch(CustomException ex)
                         {
                             Console.WriteLine(ex.Message);
                         }
