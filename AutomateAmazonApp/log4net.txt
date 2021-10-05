@@ -2821,3 +2821,98 @@ from unknown error: web view not found
   But was:  "Net Banking: HDFC Bank"
   ---------------------------------^
 
+2021-10-05 10:54:46,130 INFO Launching browser
+2021-10-05 10:55:02,874 INFO Exit
+2021-10-05 10:55:12,957 INFO Logged Suucessfully
+2021-10-05 10:55:26,592 ERROR Product not found
+2021-10-05 10:55:42,184 ERROR field not found
+2021-10-05 10:59:38,861 INFO Launching browser
+2021-10-05 10:59:43,999 INFO Exit
+2021-10-05 10:59:49,044 INFO Logged Suucessfully
+2021-10-05 10:59:57,106 ERROR Product not found
+2021-10-05 11:00:10,035 ERROR field not found
+2021-10-05 11:02:44,247 INFO Launching browser
+2021-10-05 11:02:49,806 INFO Exit
+2021-10-05 11:02:54,585 INFO Logged Suucessfully
+2021-10-05 11:03:03,614 ERROR Product not found
+2021-10-05 11:03:16,353 ERROR field not found
+2021-10-05 11:06:11,350 INFO Launching browser
+2021-10-05 11:06:16,887 INFO Exit
+2021-10-05 11:06:21,331 INFO Logged Suucessfully
+2021-10-05 11:06:31,743 ERROR Product not found
+2021-10-05 11:06:44,116 ERROR field not found
+2021-10-05 11:11:25,796 INFO Launching browser
+2021-10-05 11:11:30,707 INFO Exit
+2021-10-05 11:11:35,577 INFO Logged Suucessfully
+2021-10-05 11:11:45,151 ERROR Product not found
+2021-10-05 11:11:57,665 ERROR field not found
+2021-10-05 11:14:33,158 INFO Launching browser
+2021-10-05 11:14:42,793 INFO Exit
+2021-10-05 11:14:47,407 INFO Logged Suucessfully
+2021-10-05 11:14:57,178 ERROR Product not found
+2021-10-05 11:15:09,444 ERROR field not found
+2021-10-05 11:16:36,020 INFO Launching browser
+2021-10-05 11:16:41,292 INFO Exit
+2021-10-05 11:16:45,621 INFO Logged Suucessfully
+2021-10-05 11:16:55,850 ERROR Product not found
+2021-10-05 11:17:08,725 ERROR field not found
+2021-10-05 11:18:42,781 INFO Launching browser
+2021-10-05 11:18:47,319 INFO Exit
+2021-10-05 11:18:52,117 INFO Logged Suucessfully
+2021-10-05 11:19:02,099 ERROR Product not found
+2021-10-05 11:19:14,715 ERROR field not found
+2021-10-05 11:20:52,149 INFO Launching browser
+2021-10-05 11:20:56,974 INFO Exit
+2021-10-05 11:21:01,593 INFO Logged Suucessfully
+2021-10-05 11:21:10,512 ERROR Product not found
+2021-10-05 11:21:22,770 ERROR field not found
+2021-10-05 13:30:34,519 INFO Launching browser
+2021-10-05 13:30:40,887 INFO Exit
+2021-10-05 13:30:45,379 INFO Logged Suucessfully
+2021-10-05 13:30:53,878 ERROR Product not found
+2021-10-05 13:31:06,302 ERROR field not found
+2021-10-05 13:31:23,973 INFO Launching browser
+2021-10-05 13:31:31,583 INFO Exit
+2021-10-05 13:31:36,479 INFO Logged Suucessfully
+2021-10-05 13:31:45,630 ERROR Product not found
+2021-10-05 13:31:58,022 ERROR field not found
+2021-10-05 13:34:07,582 INFO Launching browser
+2021-10-05 13:34:12,652 INFO Exit
+2021-10-05 13:34:17,841 INFO Logged Suucessfully
+2021-10-05 13:34:26,703 ERROR Product not found
+2021-10-05 13:34:39,332 ERROR field not found
+2021-10-05 13:37:06,781 INFO Launching browser
+2021-10-05 13:37:12,179 INFO Exit
+2021-10-05 13:37:16,681 INFO Logged Suucessfully
+2021-10-05 13:37:25,502 ERROR Product not found
+2021-10-05 13:37:38,132 ERROR field not found
+2021-10-05 13:39:16,288 INFO Launching browser
+2021-10-05 13:39:21,559 INFO Exit
+2021-10-05 13:39:26,286 INFO Logged Suucessfully
+2021-10-05 13:39:34,545 ERROR Product not found
+2021-10-05 13:39:47,095 ERROR field not found
+2021-10-05 13:40:22,069 INFO Launching browser
+2021-10-05 13:40:27,292 INFO Exit
+2021-10-05 13:40:31,847 INFO Logged Suucessfully
+2021-10-05 13:40:40,998 ERROR Product not found
+2021-10-05 13:40:53,429 ERROR field not found
+2021-10-05 13:42:51,595 INFO Launching browser
+2021-10-05 13:42:57,062 INFO Exit
+2021-10-05 13:43:01,545 INFO Logged Suucessfully
+2021-10-05 13:43:10,343 ERROR Product not found
+2021-10-05 13:43:22,555 ERROR field not found
+2021-10-05 13:44:37,265 INFO Launching browser
+2021-10-05 13:44:42,999 INFO Exit
+2021-10-05 13:44:47,611 INFO Logged Suucessfully
+2021-10-05 13:44:57,037 ERROR Product not found
+2021-10-05 13:45:10,338 ERROR field not found
+2021-10-05 13:45:34,404 INFO Launching browser
+2021-10-05 13:45:43,485 INFO Exit
+2021-10-05 13:45:48,477 INFO Logged Suucessfully
+2021-10-05 13:45:58,663 ERROR Product not found
+2021-10-05 13:46:11,335 ERROR field not found
+2021-10-05 13:49:54,173 INFO Launching browser
+2021-10-05 13:49:59,906 INFO Exit
+2021-10-05 13:50:04,989 INFO Logged Suucessfully
+2021-10-05 13:50:14,347 ERROR Product not found
+2021-10-05 13:50:27,213 ERROR field not found

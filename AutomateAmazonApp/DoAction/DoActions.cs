@@ -14,8 +14,6 @@ namespace AutomateAmazonApp.DoAction
 {
     public class DoActions : Base.Baseclass
     {
-        //Used to check title given and retived are same
-
         public static void TitleAfterLaunching()
         {
             string title1 = "Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in";
@@ -37,7 +35,6 @@ namespace AutomateAmazonApp.DoAction
                     string[] column = csvParser.ReadFields();
                     try
                     {
-
                         SignupPage signup = new SignupPage(driver);
 
                         //click on sign-in button
@@ -74,16 +71,15 @@ namespace AutomateAmazonApp.DoAction
                     }
                     catch (Exception ex)
                     {
-                        logger.Error(ex.Message);
+                        throw new CustomException(CustomException.ExceptionType.NO_SUCH_ELEMENT, "Unable to locate element");
                     }
                 }
             }
         }
 
-
-        public static void LoginIntoAamzon(string csvFilePath, string dataHeader)
+        public static void LoginIntoAamzon(string csvFilePath1, string dataHeader)
         {
-            using (TextFieldParser csvParser = new TextFieldParser(csvFilePath))
+            using (TextFieldParser csvParser = new TextFieldParser(csvFilePath1))
             {
                 csvParser.SetDelimiters(new string[] { "," });
                 csvParser.HasFieldsEnclosedInQuotes = true;
@@ -127,7 +123,7 @@ namespace AutomateAmazonApp.DoAction
                     }
                     catch (Exception ex)
                     {
-                        logger.Error(ex.Message);
+                        throw new CustomException(CustomException.ExceptionType.NO_SUCH_ELEMENT, "Unable to locate element");
                     }
                 }
             }
@@ -136,32 +132,39 @@ namespace AutomateAmazonApp.DoAction
 
         public static void ForgetPassword()
         {
-            LoginPage flogin = new LoginPage(driver);
+            try
+            {
+                LoginPage flogin = new LoginPage(driver);
 
-            //Click on signin button
-            flogin.signIn.Click();
+                //Click on signin button
+                flogin.signIn.Click();
 
-            //Passing email id through sendkeys
-            flogin.email.SendKeys("sona16061999@gmail.com");
+                //Passing email id through sendkeys
+                flogin.email.SendKeys("sona16061999@gmail.com");
 
-            //click on continue button
-            flogin.continuebtn.Click();
+                //click on continue button
+                flogin.continuebtn.Click();
 
-            //Click on forget password link
-            flogin.forgetPass.Click();
-            System.Threading.Thread.Sleep(500);
+                //Click on forget password link
+                flogin.forgetPass.Click();
+                System.Threading.Thread.Sleep(500);
 
-            //click on continue button
-            flogin.contbtn.Click();
+                //click on continue button
+                flogin.contbtn.Click();
+            }
+            catch (Exception ex)
+            {
+                logger.Error(ex.Message);
+            }
         }
 
-        public static void CheckProduct()
+        public static void SearchForProduct()
         {
             try
             {
-                string csvFilePath = @"C:\Users\sona.g\source\repos\AutomateAmazonApp\AutomateAmazonApp\FileCSV\Filecsv.csv";
+                string loginFilePath = @"C:\Users\sona.g\source\repos\AutomateAmazonApp\AutomateAmazonApp\FileCSV\Filecsv.csv";
 
-                LoginIntoAamzon(csvFilePath, "Email,Password");
+                LoginIntoAamzon(loginFilePath, "Email,Password");
 
                 ProductPage product = new ProductPage(driver);
 
@@ -178,21 +181,27 @@ namespace AutomateAmazonApp.DoAction
                 System.Threading.Thread.Sleep(10000);
 
                 Assert.IsTrue(product.productTitle.Displayed);
-
+            }
+            catch (Exception ex)
+            {
+                throw new CustomException(CustomException.ExceptionType.NO_SUCH_ELEMENT, "Unable to locate element");
+            }
+        }
+        public static void CheckForBuyNow()
+        {
+            try
+            {
+                SearchForProduct();
+                ProductPage product = new ProductPage(driver);
                 //click on buy now button
                 product.buyNowbtn.Click();
                 logger.Error("field not found");
                 Takescreenshot();
                 System.Threading.Thread.Sleep(2000);
 
-                if (product.addressTitle.Displayed)
-                {
-                    Console.WriteLine("Product is available");
-                }
-                else
-                {
-                    Console.WriteLine("Product is not available");
-                }
+                string expected = "Select a delivery address";
+                string actual = product.addressTitle.Text;
+                Assert.AreEqual(actual, expected);
             }
             catch (Exception ex)
             {
@@ -200,26 +209,13 @@ namespace AutomateAmazonApp.DoAction
             }
         }
 
-        public static void CheckInputFields()
+        public static void CheckAddToCartFields()
         {
             try
             {
-                string csvFilePath = @"C:\Users\sona.g\source\repos\AutomateAmazonApp\AutomateAmazonApp\FileCSV\Filecsv.csv";
+                SearchForProduct();
 
-                LoginIntoAamzon(csvFilePath, "Email,Password");
-
-                AddToCartPage cart = new AddToCartPage(driver);
-
-                cart.searchItem.SendKeys("Sony Digital Vlog Camera ZV-1 Only");
-
-                //click on search icon
-                cart.searchIcon.Click();
-                System.Threading.Thread.Sleep(2000);
-
-                //click the desired product
-                cart.product.Click();
-                logger.Error("Product not found");
-                System.Threading.Thread.Sleep(10000);
+                ProductPage cart = new ProductPage(driver);
 
                 //click add to cart btton to added items into cart
                 cart.addtocartbtn.Click();
@@ -233,7 +229,7 @@ namespace AutomateAmazonApp.DoAction
             }
             catch (Exception ex)
             {
-                logger.Error(ex.Message);
+                throw new CustomException(CustomException.ExceptionType.NO_SUCH_ELEMENT, "Unable to locate element");
             }
 
         }
@@ -254,7 +250,7 @@ namespace AutomateAmazonApp.DoAction
                     string[] column = csvParser.ReadFields();
                     try
                     {
-                        CheckProduct();
+                        CheckForBuyNow();
 
                         //checking the address title
                         string title1 = "Enter the delivery address for this order";
@@ -291,30 +287,21 @@ namespace AutomateAmazonApp.DoAction
                         ((IJavaScriptExecutor)driver).ExecuteScript("scroll(0,1500)");
                         System.Threading.Thread.Sleep(1000);
 
-                        //Select the respective state
-                        SelectElement state = new SelectElement(driver.FindElement(By.Name("address-ui-widgets-enterAddressStateOrRegion")));
-                        state.SelectByValue("TAMIL NADU");
-                        System.Threading.Thread.Sleep(6000);
-
+                   
                         //Click on Add Address
                         add.addressbtn.Click();
 
                         System.Threading.Thread.Sleep(6000);
 
-                        if (add.paymentDisplay.Displayed)
-                        {
-                            Console.WriteLine("Address added successfully");
-                        }
-                        else
-                        {
-                            Console.WriteLine("Failed to add address");
-                        }
-                    }
-                    catch (Exception ex)
-                    {
-                        logger.Error(ex.Message);
-                    }
+                    string expected1 = "Select a payment method";
+                    string actual1 = add.paymentDisplay.Text;
+                    Assert.AreEqual(actual1, expected1);
                 }
+                    catch (Exception ex)
+                {
+                    throw new CustomException(CustomException.ExceptionType.NO_SUCH_ELEMENT, "Unable to locate element");
+                }
+            }
 
             }
         }
@@ -350,21 +337,16 @@ namespace AutomateAmazonApp.DoAction
                 //Validate whether it is redirect to next page 
                 System.Threading.Thread.Sleep(5000);
 
-                if (pay.reviewDisplay.Displayed)
-                {
-                    Console.WriteLine("payment succesfully selected");
-                }
-                else
-                {
-                    Console.WriteLine("Failed to select payment");
-                }
+                string expected = "Review your order";
+                string actual = pay.reviewDisplay.Text;
+                Assert.AreEqual(actual, expected);
+
                 System.Threading.Thread.Sleep(8000);
             }
             catch (Exception ex)
             {
-                logger.Error(ex.Message);
+                throw new CustomException(CustomException.ExceptionType.NO_SUCH_ELEMENT, "Unable to locate element");
             }
-
         }
     }
 }
